@@ -1,0 +1,245 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Glasscock,1,"Registered Voters",,,,219,,,
+Glasscock,2,"Registered Voters",,,,189,,,
+Glasscock,3,"Registered Voters",,,,229,,,
+Glasscock,4,"Registered Voters",,,,208,,,
+Glasscock,1,"Ballots Cast",,,,49,0,0,49
+Glasscock,2,"Ballots Cast",,,,26,0,0,26
+Glasscock,3,"Ballots Cast",,,,61,0,0,61
+Glasscock,4,"Ballots Cast",,,,36,0,0,36
+Glasscock,Early,"Ballots Cast",,,,466,0,466,0
+Glasscock,1,"President",,REP,"Donald J. Trump",48,0,0,48
+Glasscock,2,"President",,REP,"Donald J. Trump",21,0,0,21
+Glasscock,3,"President",,REP,"Donald J. Trump",59,0,0,59
+Glasscock,4,"President",,REP,"Donald J. Trump",30,0,0,30
+Glasscock,Early,"President",,REP,"Donald J. Trump",465,0,465,0
+Glasscock,1,"President",,DEM,"Kamala D. Harris",1,0,0,1
+Glasscock,2,"President",,DEM,"Kamala D. Harris",4,0,0,4
+Glasscock,3,"President",,DEM,"Kamala D. Harris",1,0,0,1
+Glasscock,4,"President",,DEM,"Kamala D. Harris",4,0,0,4
+Glasscock,Early,"President",,DEM,"Kamala D. Harris",28,0,28,0
+Glasscock,1,"President",,LIB,"Chase Oliver",0,0,0,0
+Glasscock,2,"President",,LIB,"Chase Oliver",0,0,0,0
+Glasscock,3,"President",,LIB,"Chase Oliver",1,0,0,1
+Glasscock,4,"President",,LIB,"Chase Oliver",1,0,0,1
+Glasscock,Early,"President",,LIB,"Chase Oliver",0,0,0,0
+Glasscock,1,"President",,GRN,"Jill Stein",0,0,0,0
+Glasscock,2,"President",,GRN,"Jill Stein",0,0,0,0
+Glasscock,3,"President",,GRN,"Jill Stein",0,0,0,0
+Glasscock,4,"President",,GRN,"Jill Stein",0,0,0,0
+Glasscock,Early,"President",,GRN,"Jill Stein",0,0,0,0
+Glasscock,1,"U.S. Senate",,REP,"Ted Cruz",48,0,0,48
+Glasscock,2,"U.S. Senate",,REP,"Ted Cruz",19,0,0,19
+Glasscock,3,"U.S. Senate",,REP,"Ted Cruz",57,0,0,57
+Glasscock,4,"U.S. Senate",,REP,"Ted Cruz",31,0,0,31
+Glasscock,Early,"U.S. Senate",,REP,"Ted Cruz",461,0,461,0
+Glasscock,1,"U.S. Senate",,DEM,"Colin Allred",1,0,0,1
+Glasscock,2,"U.S. Senate",,DEM,"Colin Allred",5,0,0,5
+Glasscock,3,"U.S. Senate",,DEM,"Colin Allred",2,0,0,2
+Glasscock,4,"U.S. Senate",,DEM,"Colin Allred",2,0,0,2
+Glasscock,Early,"U.S. Senate",,DEM,"Colin Allred",27,0,27,0
+Glasscock,1,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Glasscock,2,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Glasscock,3,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Glasscock,4,"U.S. Senate",,LIB,"Ted Brown",2,0,0,2
+Glasscock,Early,"U.S. Senate",,LIB,"Ted Brown",3,0,3,0
+Glasscock,1,"U.S. House",11,REP,"August Pfluger",47,0,0,47
+Glasscock,2,"U.S. House",11,REP,"August Pfluger",23,0,0,23
+Glasscock,3,"U.S. House",11,REP,"August Pfluger",58,0,0,58
+Glasscock,4,"U.S. House",11,REP,"August Pfluger",31,0,0,31
+Glasscock,Early,"U.S. House",11,REP,"August Pfluger",462,0,462,0
+Glasscock,1,"Railroad Commissioner",,REP,"Christi Craddick",43,0,0,43
+Glasscock,2,"Railroad Commissioner",,REP,"Christi Craddick",14,0,0,14
+Glasscock,3,"Railroad Commissioner",,REP,"Christi Craddick",56,0,0,56
+Glasscock,4,"Railroad Commissioner",,REP,"Christi Craddick",30,0,0,30
+Glasscock,Early,"Railroad Commissioner",,REP,"Christi Craddick",412,0,412,0
+Glasscock,1,"Railroad Commissioner",,DEM,"Katherine Culbert",2,0,0,2
+Glasscock,2,"Railroad Commissioner",,DEM,"Katherine Culbert",4,0,0,4
+Glasscock,3,"Railroad Commissioner",,DEM,"Katherine Culbert",0,0,0,0
+Glasscock,4,"Railroad Commissioner",,DEM,"Katherine Culbert",1,0,0,1
+Glasscock,Early,"Railroad Commissioner",,DEM,"Katherine Culbert",24,0,24,0
+Glasscock,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,0,3
+Glasscock,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,0,3
+Glasscock,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,0,3
+Glasscock,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,0,2
+Glasscock,Early,"Railroad Commissioner",,LIB,"Hawk Dunlap",32,0,32,0
+Glasscock,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Glasscock,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,0,2
+Glasscock,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Glasscock,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Glasscock,Early,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,6,0
+Glasscock,1,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",45,0,0,45
+Glasscock,2,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",18,0,0,18
+Glasscock,3,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",57,0,0,57
+Glasscock,4,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",30,0,0,30
+Glasscock,Early,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",457,0,457,0
+Glasscock,1,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",0,0,0,0
+Glasscock,2,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",4,0,0,4
+Glasscock,3,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",1,0,0,1
+Glasscock,4,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",3,0,0,3
+Glasscock,Early,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",23,0,23,0
+Glasscock,1,"Justice, Supreme Court, Place 4",,REP,"John Devine",45,0,0,45
+Glasscock,2,"Justice, Supreme Court, Place 4",,REP,"John Devine",18,0,0,18
+Glasscock,3,"Justice, Supreme Court, Place 4",,REP,"John Devine",57,0,0,57
+Glasscock,4,"Justice, Supreme Court, Place 4",,REP,"John Devine",30,0,0,30
+Glasscock,Early,"Justice, Supreme Court, Place 4",,REP,"John Devine",454,0,454,0
+Glasscock,1,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",0,0,0,0
+Glasscock,2,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",4,0,0,4
+Glasscock,3,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",1,0,0,1
+Glasscock,4,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",3,0,0,3
+Glasscock,Early,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",21,0,21,0
+Glasscock,1,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",47,0,0,47
+Glasscock,2,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",16,0,0,16
+Glasscock,3,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",57,0,0,57
+Glasscock,4,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",29,0,0,29
+Glasscock,Early,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",447,0,447,0
+Glasscock,1,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",1,0,0,1
+Glasscock,2,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",4,0,0,4
+Glasscock,3,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",0,0,0,0
+Glasscock,4,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",1,0,0,1
+Glasscock,Early,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",15,0,15,0
+Glasscock,1,"Justice, Supreme Court, Place 6",,LIB,"J. David Robinson",0,0,0,0
+Glasscock,2,"Justice, Supreme Court, Place 6",,LIB,"J. David Robinson",1,0,0,1
+Glasscock,3,"Justice, Supreme Court, Place 6",,LIB,"J. David Robinson",1,0,0,1
+Glasscock,4,"Justice, Supreme Court, Place 6",,LIB,"J. David Robinson",4,0,0,4
+Glasscock,Early,"Justice, Supreme Court, Place 6",,LIB,"J. David Robinson",8,0,8,0
+Glasscock,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",46,0,0,46
+Glasscock,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",17,0,0,17
+Glasscock,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",58,0,0,58
+Glasscock,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",30,0,0,30
+Glasscock,Early,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",449,0,449,0
+Glasscock,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",1,0,0,1
+Glasscock,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",4,0,0,4
+Glasscock,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",0,0,0,0
+Glasscock,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",3,0,0,3
+Glasscock,Early,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",22,0,22,0
+Glasscock,1,"Judge, Court of Criminal Appeal, Place 7",,REP,"Gina Parker",44,0,0,44
+Glasscock,2,"Judge, Court of Criminal Appeal, Place 7",,REP,"Gina Parker",17,0,0,17
+Glasscock,3,"Judge, Court of Criminal Appeal, Place 7",,REP,"Gina Parker",57,0,0,57
+Glasscock,4,"Judge, Court of Criminal Appeal, Place 7",,REP,"Gina Parker",29,0,0,29
+Glasscock,Early,"Judge, Court of Criminal Appeal, Place 7",,REP,"Gina Parker",450,0,450,0
+Glasscock,1,"Judge, Court of Criminal Appeal, Place 7",,DEM,"Nancy Mulder",0,0,0,0
+Glasscock,2,"Judge, Court of Criminal Appeal, Place 7",,DEM,"Nancy Mulder",4,0,0,4
+Glasscock,3,"Judge, Court of Criminal Appeal, Place 7",,DEM,"Nancy Mulder",0,0,0,0
+Glasscock,4,"Judge, Court of Criminal Appeal, Place 7",,DEM,"Nancy Mulder",3,0,0,3
+Glasscock,Early,"Judge, Court of Criminal Appeal, Place 7",,DEM,"Nancy Mulder",20,0,20,0
+Glasscock,1,"Judge, Court of Criminal Appeal, Place 8",,REP,"Lee Finley",46,0,0,46
+Glasscock,2,"Judge, Court of Criminal Appeal, Place 8",,REP,"Lee Finley",16,0,0,16
+Glasscock,3,"Judge, Court of Criminal Appeal, Place 8",,REP,"Lee Finley",58,0,0,58
+Glasscock,4,"Judge, Court of Criminal Appeal, Place 8",,REP,"Lee Finley",30,0,0,30
+Glasscock,Early,"Judge, Court of Criminal Appeal, Place 8",,REP,"Lee Finley",451,0,451,0
+Glasscock,1,"Judge, Court of Criminal Appeal, Place 8",,DEM,"Chika Anyiam",0,0,0,0
+Glasscock,2,"Judge, Court of Criminal Appeal, Place 8",,DEM,"Chika Anyiam",4,0,0,4
+Glasscock,3,"Judge, Court of Criminal Appeal, Place 8",,DEM,"Chika Anyiam",0,0,0,0
+Glasscock,4,"Judge, Court of Criminal Appeal, Place 8",,DEM,"Chika Anyiam",3,0,0,3
+Glasscock,Early,"Judge, Court of Criminal Appeal, Place 8",,DEM,"Chika Anyiam",20,0,20,0
+Glasscock,1,"Member, State Board of Education",15,REP,"Aaron Kinsey",46,0,0,46
+Glasscock,2,"Member, State Board of Education",15,REP,"Aaron Kinsey",16,0,0,16
+Glasscock,3,"Member, State Board of Education",15,REP,"Aaron Kinsey",58,0,0,58
+Glasscock,4,"Member, State Board of Education",15,REP,"Aaron Kinsey",30,0,0,30
+Glasscock,Early,"Member, State Board of Education",15,REP,"Aaron Kinsey",440,0,440,0
+Glasscock,1,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",1,0,0,1
+Glasscock,2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",5,0,0,5
+Glasscock,3,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",0,0,0,0
+Glasscock,4,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",3,0,0,3
+Glasscock,Early,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",25,0,25,0
+Glasscock,1,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",0,0,0,0
+Glasscock,2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",0,0,0,0
+Glasscock,3,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",0,0,0,0
+Glasscock,4,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",1,0,0,1
+Glasscock,Early,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",5,0,5,0
+Glasscock,1,"State Representative",72,REP,"Drew Darby",46,0,0,46
+Glasscock,2,"State Representative",72,REP,"Drew Darby",21,0,0,21
+Glasscock,3,"State Representative",72,REP,"Drew Darby",55,0,0,55
+Glasscock,4,"State Representative",72,REP,"Drew Darby",31,0,0,31
+Glasscock,Early,"State Representative",72,REP,"Drew Darby",451,0,451,0
+Glasscock,1,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",45,0,0,45
+Glasscock,2,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",20,0,0,20
+Glasscock,3,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",57,0,0,57
+Glasscock,4,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",31,0,0,31
+Glasscock,Early,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",434,0,434,0
+Glasscock,1,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",45,0,0,45
+Glasscock,2,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",20,0,0,20
+Glasscock,3,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",53,0,0,53
+Glasscock,4,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",31,0,0,31
+Glasscock,Early,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",435,0,435,0
+Glasscock,1,"Sheriff",,REP,"Keith Burnett",45,0,0,45
+Glasscock,2,"Sheriff",,REP,"Keith Burnett",24,0,0,24
+Glasscock,3,"Sheriff",,REP,"Keith Burnett",56,0,0,56
+Glasscock,4,"Sheriff",,REP,"Keith Burnett",33,0,0,33
+Glasscock,Early,"Sheriff",,REP,"Keith Burnett",424,0,424,0
+Glasscock,1,"County Tax Assessor-Collector",,REP,"Ernestina Flores",44,0,0,44
+Glasscock,2,"County Tax Assessor-Collector",,REP,"Ernestina Flores",23,0,0,23
+Glasscock,3,"County Tax Assessor-Collector",,REP,"Ernestina Flores",58,0,0,58
+Glasscock,4,"County Tax Assessor-Collector",,REP,"Ernestina Flores",33,0,0,33
+Glasscock,Early,"County Tax Assessor-Collector",,REP,"Ernestina Flores",446,0,446,0
+Glasscock,1,"County Commissioner, Precinct No. 1",,REP,"Charlie Gully",41,0,0,41
+Glasscock,2,"County Commissioner, Precinct No. 1",,REP,"Charlie Gully",0,0,0,0
+Glasscock,3,"County Commissioner, Precinct No. 1",,REP,"Charlie Gully",0,0,0,0
+Glasscock,4,"County Commissioner, Precinct No. 1",,REP,"Charlie Gully",0,0,0,0
+Glasscock,Early,"County Commissioner, Precinct No. 1",,REP,"Charlie Gully",118,0,118,0
+Glasscock,1,"County Commissioner, Precinct No. 3",,REP,"Carolyn Frerich",0,0,0,0
+Glasscock,2,"County Commissioner, Precinct No. 3",,REP,"Carolyn Frerich",0,0,0,0
+Glasscock,3,"County Commissioner, Precinct No. 3",,REP,"Carolyn Frerich",58,0,0,58
+Glasscock,4,"County Commissioner, Precinct No. 3",,REP,"Carolyn Frerich",0,0,0,0
+Glasscock,Early,"County Commissioner, Precinct No. 3",,REP,"Carolyn Frerich",101,0,101,0
+Glasscock,1,"Justice of the Peace - Unexpired Term",,REP,"Denice Batla",43,0,0,43
+Glasscock,2,"Justice of the Peace - Unexpired Term",,REP,"Denice Batla",24,0,0,24
+Glasscock,3,"Justice of the Peace - Unexpired Term",,REP,"Denice Batla",58,0,0,58
+Glasscock,4,"Justice of the Peace - Unexpired Term",,REP,"Denice Batla",34,0,0,34
+Glasscock,Early,"Justice of the Peace - Unexpired Term",,REP,"Denice Batla",443,0,443,0
+Glasscock,1,"Constable",,,"Mark Frysak",45,0,0,45
+Glasscock,2,"Constable",,,"Mark Frysak",24,0,0,24
+Glasscock,3,"Constable",,,"Mark Frysak",56,0,0,56
+Glasscock,4,"Constable",,,"Mark Frysak",33,0,0,33
+Glasscock,Early,"Constable",,,"Mark Frysak",418,0,418,0
+Glasscock,1,"Board of Trustees",,,"Derek C. Dieringer",23,0,0,23
+Glasscock,2,"Board of Trustees",,,"Derek C. Dieringer",10,0,0,10
+Glasscock,3,"Board of Trustees",,,"Derek C. Dieringer",18,0,0,18
+Glasscock,4,"Board of Trustees",,,"Derek C. Dieringer",18,0,0,18
+Glasscock,Early,"Board of Trustees",,,"Derek C. Dieringer",229,0,229,0
+Glasscock,1,"Board of Trustees",,,"Quentin Gass",12,0,0,12
+Glasscock,2,"Board of Trustees",,,"Quentin Gass",2,0,0,2
+Glasscock,3,"Board of Trustees",,,"Quentin Gass",23,0,0,23
+Glasscock,4,"Board of Trustees",,,"Quentin Gass",12,0,0,12
+Glasscock,Early,"Board of Trustees",,,"Quentin Gass",130,0,130,0
+Glasscock,1,"Board of Trustees",,,"Anthony R. Wheat",14,0,0,14
+Glasscock,2,"Board of Trustees",,,"Anthony R. Wheat",5,0,0,5
+Glasscock,3,"Board of Trustees",,,"Anthony R. Wheat",11,0,0,11
+Glasscock,4,"Board of Trustees",,,"Anthony R. Wheat",9,0,0,9
+Glasscock,Early,"Board of Trustees",,,"Anthony R. Wheat",104,0,104,0
+Glasscock,1,"Board of Trustees",,,"Alonzo Garcia",22,0,0,22
+Glasscock,2,"Board of Trustees",,,"Alonzo Garcia",9,0,0,9
+Glasscock,3,"Board of Trustees",,,"Alonzo Garcia",21,0,0,21
+Glasscock,4,"Board of Trustees",,,"Alonzo Garcia",18,0,0,18
+Glasscock,Early,"Board of Trustees",,,"Alonzo Garcia",214,0,214,0
+Glasscock,1,"Board of Trustees",,,"Max Batla",31,0,0,31
+Glasscock,2,"Board of Trustees",,,"Max Batla",9,0,0,9
+Glasscock,3,"Board of Trustees",,,"Max Batla",19,0,0,19
+Glasscock,4,"Board of Trustees",,,"Max Batla",10,0,0,10
+Glasscock,Early,"Board of Trustees",,,"Max Batla",264,0,264,0
+Glasscock,1,"Board of Trustees",,,"Christy Seidenberger",30,0,0,30
+Glasscock,2,"Board of Trustees",,,"Christy Seidenberger",16,0,0,16
+Glasscock,3,"Board of Trustees",,,"Christy Seidenberger",29,0,0,29
+Glasscock,4,"Board of Trustees",,,"Christy Seidenberger",26,0,0,26
+Glasscock,Early,"Board of Trustees",,,"Christy Seidenberger",342,0,342,0
+Glasscock,1,"Board of Trustees",,,"Katrina Goodwin",21,0,0,21
+Glasscock,2,"Board of Trustees",,,"Katrina Goodwin",9,0,0,9
+Glasscock,3,"Board of Trustees",,,"Katrina Goodwin",22,0,0,22
+Glasscock,4,"Board of Trustees",,,"Katrina Goodwin",12,0,0,12
+Glasscock,Early,"Board of Trustees",,,"Katrina Goodwin",214,0,214,0
+Glasscock,1,"Board of Trustees",,,"Adam Parker",14,0,0,14
+Glasscock,2,"Board of Trustees",,,"Adam Parker",2,0,0,2
+Glasscock,3,"Board of Trustees",,,"Adam Parker",3,0,0,3
+Glasscock,4,"Board of Trustees",,,"Adam Parker",6,0,0,6
+Glasscock,Early,"Board of Trustees",,,"Adam Parker",69,0,69,0
+Glasscock,1,"G.C.I.S.D Proposition A",,,"FOR",37,0,0,37
+Glasscock,2,"G.C.I.S.D Proposition A",,,"FOR",15,0,0,15
+Glasscock,3,"G.C.I.S.D Proposition A",,,"FOR",38,0,0,38
+Glasscock,4,"G.C.I.S.D Proposition A",,,"FOR",23,0,0,23
+Glasscock,Early,"G.C.I.S.D Proposition A",,,"FOR",337,0,337,0
+Glasscock,1,"G.C.I.S.D Proposition A",,,"AGAINST",9,0,0,9
+Glasscock,2,"G.C.I.S.D Proposition A",,,"AGAINST",9,0,0,9
+Glasscock,3,"G.C.I.S.D Proposition A",,,"AGAINST",18,0,0,18
+Glasscock,4,"G.C.I.S.D Proposition A",,,"AGAINST",12,0,0,12
+Glasscock,Early,"G.C.I.S.D Proposition A",,,"AGAINST",144,0,144,0

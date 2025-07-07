@@ -1,0 +1,311 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Gray,1,"Registered Voters",,,,415,,,
+Gray,1,"Ballots Cast",,,,312,,,
+Gray,1,"President",,REP,"Donald J. Trump",299,5,131,163
+Gray,1,"President",,DEM,"Kamala D. Harris",10,2,5,3
+Gray,1,"President",,LIB,"Chase Oliver",2,0,0,2
+Gray,1,"President",,GRN,"Jill Stein",1,0,0,1
+Gray,1,"U.S. Senate",,REP,"Ted Cruz",293,5,129,159
+Gray,1,"U.S. Senate",,DEM,"Colin Allred",12,2,4,6
+Gray,1,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Gray,1,"U.S. House",13,REP,"Ronny Jackson",293,4,129,160
+Gray,1,"Railroad Commissioner",,REP,"Christi Craddick",274,4,124,146
+Gray,1,"Railroad Commissioner",,DEM,"Katherine Culbert",9,2,3,4
+Gray,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,5,10
+Gray,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Gray,1,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",292,4,131,157
+Gray,1,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",10,2,3,5
+Gray,1,"Justice, Supreme Court, Place 4",,REP,"John Devine",293,4,130,159
+Gray,1,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",10,2,3,5
+Gray,1,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",280,4,127,149
+Gray,1,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",10,2,3,5
+Gray,1,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",12,0,4,8
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",288,4,130,154
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",12,2,3,7
+Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",291,4,131,156
+Gray,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",10,2,3,5
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",290,4,131,155
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",9,2,3,4
+Gray,1,"Member, State Board of Education",15,REP,"Aaron Kinsey",277,4,125,148
+Gray,1,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",10,2,3,5
+Gray,1,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",11,0,4,7
+Gray,1,"State Representative",88,REP,"Ken King",294,4,127,163
+Gray,1,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",288,3,129,156
+Gray,1,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",285,4,127,154
+Gray,1,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",280,3,124,153
+Gray,1,"County Attorney",,REP,"Joshua Seabourn",279,4,122,153
+Gray,1,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",286,3,126,157
+Gray,1,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",279,4,120,155
+Gray,1,"County Tax Assessor-Collector",,REP,"Christie Johnson",285,3,125,157
+Gray,1,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",283,4,125,154
+Gray,1,"County Commissioner, Precinct 1",,REP,"Logan Hudson",278,3,120,155
+Gray,1,"Justice of the Peace, Precinct 1 & 3, Unexpired Term",,REP,"Julie Sims",278,3,126,149
+Gray,1,"Constable, Precinct 1 & 3",,REP,"Jason Rushing",280,4,128,148
+Gray,2,"Registered Voters",,,,2593,,,
+Gray,2,"Ballots Cast",,,,1526,,,
+Gray,2,"President",,REP,"Donald J. Trump",1349,64,1018,267
+Gray,2,"President",,DEM,"Kamala D. Harris",164,20,101,43
+Gray,2,"President",,LIB,"Chase Oliver",5,1,3,1
+Gray,2,"President",,GRN,"Jill Stein",4,0,4,0
+Gray,2,"U.S. Senate",,REP,"Ted Cruz",1300,61,985,254
+Gray,2,"U.S. Senate",,DEM,"Colin Allred",186,19,120,47
+Gray,2,"U.S. Senate",,LIB,"Ted Brown",28,3,17,8
+Gray,2,"U.S. House",13,REP,"Ronny Jackson",1400,70,1048,282
+Gray,2,"Railroad Commissioner",,REP,"Christi Craddick",1258,61,957,240
+Gray,2,"Railroad Commissioner",,DEM,"Katherine Culbert",136,20,80,36
+Gray,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",56,1,40,15
+Gray,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",31,0,25,6
+Gray,2,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1336,63,1006,267
+Gray,2,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",155,20,96,39
+Gray,2,"Justice, Supreme Court, Place 4",,REP,"John Devine",1331,64,1004,263
+Gray,2,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",155,19,96,40
+Gray,2,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1294,64,982,248
+Gray,2,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",149,19,93,37
+Gray,2,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",44,1,28,15
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1334,65,1007,262
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",150,17,97,36
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1328,64,1005,259
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",150,19,93,38
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1330,64,1008,258
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",140,18,87,35
+Gray,2,"Member, State Board of Education",15,REP,"Aaron Kinsey",1274,62,970,242
+Gray,2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",157,19,102,36
+Gray,2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",51,2,31,18
+Gray,2,"State Representative",88,REP,"Ken King",1376,64,1039,273
+Gray,2,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",1380,65,1039,276
+Gray,2,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",1367,64,1029,274
+Gray,2,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",1358,62,1022,274
+Gray,2,"County Attorney",,REP,"Joshua Seabourn",1361,61,1021,279
+Gray,2,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",1381,63,1042,276
+Gray,2,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",1292,62,951,279
+Gray,2,"County Tax Assessor-Collector",,REP,"Christie Johnson",1384,65,1039,280
+Gray,2,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",1380,65,1037,278
+Gray,2,"Constable, Precinct 2",,REP,"Joe Montgomery",1384,61,1042,281
+Gray,3,"Registered Voters",,,,116,,,
+Gray,3,"Ballots Cast",,,,98,,,
+Gray,3,"President",,REP,"Donald J. Trump",94,2,47,45
+Gray,3,"President",,DEM,"Kamala D. Harris",3,0,1,2
+Gray,3,"President",,LIB,"Chase Oliver",1,0,0,1
+Gray,3,"U.S. Senate",,REP,"Ted Cruz",91,2,47,42
+Gray,3,"U.S. Senate",,DEM,"Colin Allred",3,0,1,2
+Gray,3,"U.S. Senate",,LIB,"Ted Brown",3,0,0,3
+Gray,3,"U.S. House",13,REP,"Ronny Jackson",96,2,48,46
+Gray,3,"Railroad Commissioner",,REP,"Christi Craddick",85,2,46,37
+Gray,3,"Railroad Commissioner",,DEM,"Katherine Culbert",3,0,1,2
+Gray,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,1,4
+Gray,3,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",91,2,47,42
+Gray,3,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",3,0,1,2
+Gray,3,"Justice, Supreme Court, Place 4",,REP,"John Devine",90,2,47,41
+Gray,3,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",3,0,1,2
+Gray,3,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",88,2,46,40
+Gray,3,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",4,0,2,2
+Gray,3,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",2,0,0,2
+Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",91,2,47,42
+Gray,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",3,0,1,2
+Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",91,2,46,43
+Gray,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",3,0,2,1
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",91,2,47,42
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",2,0,1,1
+Gray,3,"Member, State Board of Education",15,REP,"Aaron Kinsey",89,2,47,40
+Gray,3,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",2,0,1,1
+Gray,3,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",2,0,0,2
+Gray,3,"State Representative",88,REP,"Ken King",92,1,46,45
+Gray,3,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",91,2,45,44
+Gray,3,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",91,2,46,43
+Gray,3,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",90,1,46,43
+Gray,3,"County Attorney",,REP,"Joshua Seabourn",92,1,46,45
+Gray,3,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",92,1,47,44
+Gray,3,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",85,1,43,41
+Gray,3,"County Tax Assessor-Collector",,REP,"Christie Johnson",90,1,45,44
+Gray,3,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",89,1,46,42
+Gray,3,"County Commissioner, Precinct 3",,REP,"John Mark Baggerman",92,1,45,46
+Gray,3,"Justice of the Peace, Precinct 1 & 3, Unexpired Term",,REP,"Julie Sims",88,1,43,44
+Gray,3,"Constable, Precinct 1 & 3",,REP,"Jason Rushing",89,1,43,45
+Gray,McLean ISD,"Registered Voters",,,,685,,,
+Gray,McLean ISD,"Ballots Cast",,,,477,,,
+Gray,McLean ISD,"President",,REP,"Donald J. Trump",449,15,152,282
+Gray,McLean ISD,"President",,DEM,"Kamala D. Harris",23,0,6,17
+Gray,McLean ISD,"President",,LIB,"Chase Oliver",1,0,1,0
+Gray,McLean ISD,"President",,GRN,"Jill Stein",1,0,0,1
+Gray,McLean ISD,"U.S. Senate",,REP,"Ted Cruz",446,13,152,281
+Gray,McLean ISD,"U.S. Senate",,DEM,"Colin Allred",23,1,7,15
+Gray,McLean ISD,"U.S. Senate",,LIB,"Ted Brown",3,0,0,3
+Gray,McLean ISD,"U.S. House",13,REP,"Ronny Jackson",449,14,152,283
+Gray,McLean ISD,"Railroad Commissioner",,REP,"Christi Craddick",421,13,146,262
+Gray,McLean ISD,"Railroad Commissioner",,DEM,"Katherine Culbert",22,0,6,16
+Gray,McLean ISD,"Railroad Commissioner",,LIB,"Hawk Dunlap",14,2,3,9
+Gray,McLean ISD,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,0,3
+Gray,McLean ISD,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",436,15,148,273
+Gray,McLean ISD,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",22,0,7,15
+Gray,McLean ISD,"Justice, Supreme Court, Place 4",,REP,"John Devine",436,15,149,272
+Gray,McLean ISD,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",22,0,6,16
+Gray,McLean ISD,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",435,12,151,272
+Gray,McLean ISD,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",23,0,6,17
+Gray,McLean ISD,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,3,0,3
+Gray,McLean ISD,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",438,15,147,276
+Gray,McLean ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",24,0,7,17
+Gray,McLean ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",441,15,149,277
+Gray,McLean ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",22,0,6,16
+Gray,McLean ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",440,15,149,276
+Gray,McLean ISD,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",21,0,6,15
+Gray,McLean ISD,"Member, State Board of Education",15,REP,"Aaron Kinsey",432,13,148,271
+Gray,McLean ISD,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",23,0,6,17
+Gray,McLean ISD,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",7,2,1,4
+Gray,McLean ISD,"State Representative",88,REP,"Ken King",448,15,149,284
+Gray,McLean ISD,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",450,15,151,284
+Gray,McLean ISD,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",447,15,150,282
+Gray,McLean ISD,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",444,14,148,282
+Gray,McLean ISD,"County Attorney",,REP,"Joshua Seabourn",443,15,148,280
+Gray,McLean ISD,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",449,15,148,286
+Gray,McLean ISD,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",420,14,140,266
+Gray,McLean ISD,"County Tax Assessor-Collector",,REP,"Christie Johnson",449,15,151,283
+Gray,McLean ISD,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",449,15,150,284
+Gray,McLean ISD,"McLean Independent School District Proposition A",,,"For",269,3,89,177
+Gray,McLean ISD,"McLean Independent School District Proposition A",,,"Against",177,11,62,104
+Gray,4,"Registered Voters",,,,11,,,
+Gray,4,"Ballots Cast",,,,11,,,
+Gray,4,"President",,REP,"Donald J. Trump",11,4,6,1
+Gray,4,"U.S. Senate",,REP,"Ted Cruz",11,4,6,1
+Gray,4,"U.S. House",13,REP,"Ronny Jackson",11,4,6,1
+Gray,4,"Railroad Commissioner",,REP,"Christi Craddick",9,4,4,1
+Gray,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,2,0
+Gray,4,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",11,4,6,1
+Gray,4,"Justice, Supreme Court, Place 4",,REP,"John Devine",11,4,6,1
+Gray,4,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",11,4,6,1
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",11,4,6,1
+Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",11,4,6,1
+Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",11,4,6,1
+Gray,4,"Member, State Board of Education",15,REP,"Aaron Kinsey",9,4,4,1
+Gray,4,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",2,0,2,0
+Gray,4,"State Representative",88,REP,"Ken King",9,2,6,1
+Gray,4,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",9,2,6,1
+Gray,4,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",8,2,6,0
+Gray,4,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",9,2,6,1
+Gray,4,"County Attorney",,REP,"Joshua Seabourn",8,2,6,0
+Gray,4,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",8,2,6,0
+Gray,4,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",8,2,6,0
+Gray,4,"County Tax Assessor-Collector",,REP,"Christie Johnson",9,2,6,1
+Gray,4,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",8,2,6,0
+Gray,5,"Registered Voters",,,,3135,,,
+Gray,5,"Ballots Cast",,,,2019,,,
+Gray,5,"President",,REP,"Donald J. Trump",1781,98,1408,275
+Gray,5,"President",,DEM,"Kamala D. Harris",218,17,156,45
+Gray,5,"President",,LIB,"Chase Oliver",9,0,8,1
+Gray,5,"President",,GRN,"Jill Stein",5,0,3,2
+Gray,5,"U.S. Senate",,REP,"Ted Cruz",1732,98,1381,253
+Gray,5,"U.S. Senate",,DEM,"Colin Allred",225,15,156,54
+Gray,5,"U.S. Senate",,LIB,"Ted Brown",44,1,29,14
+Gray,5,"U.S. House",13,REP,"Ronny Jackson",1821,100,1427,294
+Gray,5,"Railroad Commissioner",,REP,"Christi Craddick",1685,93,1342,250
+Gray,5,"Railroad Commissioner",,DEM,"Katherine Culbert",174,15,119,40
+Gray,5,"Railroad Commissioner",,LIB,"Hawk Dunlap",60,1,46,13
+Gray,5,"Railroad Commissioner",,GRN,"Eddie Espinoza",17,0,8,9
+Gray,5,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1746,94,1384,268
+Gray,5,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",200,16,137,47
+Gray,5,"Justice, Supreme Court, Place 4",,REP,"John Devine",1734,94,1374,266
+Gray,5,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",205,16,141,48
+Gray,5,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1697,94,1349,254
+Gray,5,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",180,16,122,42
+Gray,5,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",66,0,48,18
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1735,93,1384,258
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",208,16,137,55
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1742,94,1381,267
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",198,16,135,47
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1749,95,1390,264
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",187,15,126,46
+Gray,5,"Member, State Board of Education",15,REP,"Aaron Kinsey",1683,95,1339,249
+Gray,5,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",187,15,125,47
+Gray,5,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",71,0,56,15
+Gray,5,"State Representative",88,REP,"Ken King",1776,95,1391,290
+Gray,5,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",1789,95,1406,288
+Gray,5,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",1785,94,1403,288
+Gray,5,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",1776,94,1390,292
+Gray,5,"County Attorney",,REP,"Joshua Seabourn",1773,92,1390,291
+Gray,5,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",1823,96,1439,288
+Gray,5,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",1729,89,1347,293
+Gray,5,"County Tax Assessor-Collector",,REP,"Christie Johnson",1826,93,1441,292
+Gray,5,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",1797,93,1412,292
+Gray,5,"County Commissioner, Precinct 1",,REP,"Logan Hudson",1806,94,1419,293
+Gray,5,"Justice of the Peace, Precinct 1 & 3, Unexpired Term",,REP,"Julie Sims",1804,94,1416,294
+Gray,5,"Constable, Precinct 1 & 3",,REP,"Jason Rushing",1812,94,1428,290
+Gray,6,"Registered Voters",,,,2866,,,
+Gray,6,"Ballots Cast",,,,1944,,,
+Gray,6,"President",,REP,"Donald J. Trump",1712,96,1344,272
+Gray,6,"President",,DEM,"Kamala D. Harris",222,13,145,64
+Gray,6,"President",,LIB,"Chase Oliver",4,0,1,3
+Gray,6,"President",,GRN,"Jill Stein",2,1,0,1
+Gray,6,"U.S. Senate",,REP,"Ted Cruz",1664,94,1311,259
+Gray,6,"U.S. Senate",,DEM,"Colin Allred",231,16,150,65
+Gray,6,"U.S. Senate",,LIB,"Ted Brown",33,1,21,11
+Gray,6,"U.S. House",13,REP,"Ronny Jackson",1783,96,1384,303
+Gray,6,"Railroad Commissioner",,REP,"Christi Craddick",1647,90,1290,267
+Gray,6,"Railroad Commissioner",,DEM,"Katherine Culbert",163,14,113,36
+Gray,6,"Railroad Commissioner",,LIB,"Hawk Dunlap",54,4,36,14
+Gray,6,"Railroad Commissioner",,GRN,"Eddie Espinoza",23,1,14,8
+Gray,6,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1694,92,1327,275
+Gray,6,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",200,16,130,54
+Gray,6,"Justice, Supreme Court, Place 4",,REP,"John Devine",1682,91,1315,276
+Gray,6,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",208,16,139,53
+Gray,6,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1654,93,1300,261
+Gray,6,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",186,14,122,50
+Gray,6,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",50,1,33,16
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1698,93,1328,277
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",190,14,124,52
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1701,94,1326,281
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",185,13,126,46
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1704,93,1331,280
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",174,14,115,45
+Gray,6,"Member, State Board of Education",15,REP,"Aaron Kinsey",1629,90,1280,259
+Gray,6,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",201,15,135,51
+Gray,6,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",54,1,39,14
+Gray,6,"State Representative",88,REP,"Ken King",1736,89,1345,302
+Gray,6,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",1748,88,1360,300
+Gray,6,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",1744,88,1357,299
+Gray,6,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",1717,82,1337,298
+Gray,6,"County Attorney",,REP,"Joshua Seabourn",1740,84,1358,298
+Gray,6,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",1764,86,1375,303
+Gray,6,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",1682,75,1304,303
+Gray,6,"County Tax Assessor-Collector",,REP,"Christie Johnson",1770,88,1376,306
+Gray,6,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",1746,84,1360,302
+Gray,6,"Constable, Precinct 2",,REP,"Joe Montgomery",1753,87,1364,302
+Gray,7,"Registered Voters",,,,2511,,,
+Gray,7,"Ballots Cast",,,,1216,,,
+Gray,7,"President",,REP,"Donald J. Trump",996,57,673,266
+Gray,7,"President",,DEM,"Kamala D. Harris",205,13,128,64
+Gray,7,"President",,LIB,"Chase Oliver",9,1,7,1
+Gray,7,"U.S. Senate",,REP,"Ted Cruz",952,56,646,250
+Gray,7,"U.S. Senate",,DEM,"Colin Allred",198,15,124,59
+Gray,7,"U.S. Senate",,LIB,"Ted Brown",36,1,21,14
+Gray,7,"U.S. House",13,REP,"Ronny Jackson",1052,59,707,286
+Gray,7,"Railroad Commissioner",,REP,"Christi Craddick",933,55,637,241
+Gray,7,"Railroad Commissioner",,DEM,"Katherine Culbert",171,11,110,50
+Gray,7,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,3,22,12
+Gray,7,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,0,7,8
+Gray,7,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",983,58,668,257
+Gray,7,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",176,10,111,55
+Gray,7,"Justice, Supreme Court, Place 4",,REP,"John Devine",968,58,657,253
+Gray,7,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",188,11,119,58
+Gray,7,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",951,56,648,247
+Gray,7,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",171,11,108,52
+Gray,7,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",35,2,20,13
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",962,57,653,252
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",193,11,121,61
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",967,57,656,254
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",185,12,118,55
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",975,58,660,257
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",177,11,112,54
+Gray,7,"Member, State Board of Education",15,REP,"Aaron Kinsey",928,54,640,234
+Gray,7,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",190,11,120,59
+Gray,7,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",37,3,17,17
+Gray,7,"State Representative",88,REP,"Ken King",1038,56,698,284
+Gray,7,"Justice, 7th Court of Appeals District, Place 2",,REP,"Judy Parker",1039,58,699,282
+Gray,7,"Justice, 7th Court of Appeals District, Place 3",,REP,"Alex Yarbrough",1032,57,695,280
+Gray,7,"District Attorney, 31st Judicial District",,REP,"Franklin McDonough",1016,54,688,274
+Gray,7,"County Attorney",,REP,"Joshua Seabourn",1024,53,689,282
+Gray,7,"County Clerk, Unexpired Term",,REP,"Dee Dee Laramore",1034,57,693,284
+Gray,7,"Sheriff",,REP,"Michael ""BigMac"" Ryan""",1032,56,683,293
+Gray,7,"County Tax Assessor-Collector",,REP,"Christie Johnson",1040,58,701,281
+Gray,7,"County Treasurer, Unexpired Term",,REP,"Terri Kitchens",1034,53,702,279
+Gray,7,"County Commissioner, Precinct 3",,REP,"John Mark Baggerman",1023,54,687,282
+Gray,7,"Justice of the Peace, Precinct 1 & 3, Unexpired Term",,REP,"Julie Sims",1031,54,690,287
+Gray,7,"Constable, Precinct 1 & 3",,REP,"Jason Rushing",1039,54,696,289
