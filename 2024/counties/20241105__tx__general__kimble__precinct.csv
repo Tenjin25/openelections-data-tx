@@ -21,31 +21,31 @@ Kimble,1,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,12,5
 Kimble,1,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
 Kimble,1,Railroad Commissioner,,,Under Votes,27,1,21,5
 Kimble,1,Railroad Commissioner,,,Over Votes,0,0,0,0
-Kimble,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,468,5,400,63
-Kimble,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,51,3,40,8
-Kimble,1,"Justice, Supreme Court, Place 2",2,,Under Votes,34,1,30,3
-Kimble,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,461,5,395,61
-Kimble,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,53,3,39,11
-Kimble,1,"Justice, Supreme Court, Place 4",4,,Under Votes,38,1,35,2
-Kimble,1,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
-Kimble,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,463,6,395,62
-Kimble,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,47,2,35,10
-Kimble,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,7,0
-Kimble,1,"Justice, Supreme Court, Place 6",6,,Under Votes,34,1,31,2
-Kimble,1,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,2,0
+Kimble,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,468,5,400,63
+Kimble,1,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,51,3,40,8
+Kimble,1,"Justice, Supreme Court, Place 2",,,Under Votes,34,1,30,3
+Kimble,1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,1,"Justice, Supreme Court, Place 4",,REP,John Devine,461,5,395,61
+Kimble,1,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,53,3,39,11
+Kimble,1,"Justice, Supreme Court, Place 4",,,Under Votes,38,1,35,2
+Kimble,1,"Justice, Supreme Court, Place 4",,,Over Votes,1,0,1,0
+Kimble,1,"Justice, Supreme Court, Place 6",,REP,Jane Bland,463,6,395,62
+Kimble,1,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,47,2,35,10
+Kimble,1,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,7,0,7,0
+Kimble,1,"Justice, Supreme Court, Place 6",,,Under Votes,34,1,31,2
+Kimble,1,"Justice, Supreme Court, Place 6",,,Over Votes,2,0,2,0
 Kimble,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,461,6,396,59
 Kimble,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,54,2,40,12
 Kimble,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,38,1,34,3
 Kimble,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,466,5,397,64
-Kimble,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,48,3,38,7
-Kimble,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,39,1,35,3
-Kimble,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,467,5,398,64
-Kimble,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,47,3,37,7
-Kimble,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,39,1,35,3
-Kimble,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,466,5,397,64
+Kimble,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,48,3,38,7
+Kimble,1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,39,1,35,3
+Kimble,1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,467,5,398,64
+Kimble,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,47,3,37,7
+Kimble,1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,39,1,35,3
+Kimble,1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,1,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,469,5,402,62
 Kimble,1,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,47,3,36,8
 Kimble,1,"Member, State Board of Education, District 1",1,,Under Votes,37,1,32,4
@@ -55,24 +55,24 @@ Kimble,1,State Representative,53,DEM,Joe P. Herrera,59,3,46,10
 Kimble,1,State Representative,53,LIB,B. W. Holk,6,0,4,2
 Kimble,1,State Representative,53,,Under Votes,38,1,33,4
 Kimble,1,State Representative,53,,Over Votes,2,0,1,1
-Kimble,1,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,177,4,137,36
-Kimble,1,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,376,5,333,38
-Kimble,1,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,1,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,458,5,394,59
-Kimble,1,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,53,3,41,9
-Kimble,1,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,42,1,35,6
-Kimble,1,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,1,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,461,4,396,61
-Kimble,1,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,46,3,35,8
-Kimble,1,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,46,2,39,5
-Kimble,1,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,1,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,453,5,389,59
-Kimble,1,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,53,3,40,10
-Kimble,1,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,46,1,40,5
-Kimble,1,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
-Kimble,1,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,461,7,390,64
-Kimble,1,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,92,2,80,10
-Kimble,1,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,1,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,177,4,137,36
+Kimble,1,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,376,5,333,38
+Kimble,1,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,1,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,458,5,394,59
+Kimble,1,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,53,3,41,9
+Kimble,1,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,42,1,35,6
+Kimble,1,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,1,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,461,4,396,61
+Kimble,1,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,46,3,35,8
+Kimble,1,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,46,2,39,5
+Kimble,1,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,1,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,453,5,389,59
+Kimble,1,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,53,3,40,10
+Kimble,1,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,46,1,40,5
+Kimble,1,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,1,0,1,0
+Kimble,1,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,461,7,390,64
+Kimble,1,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,92,2,80,10
+Kimble,1,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,1,County Attorney,,REP,Andrew J. Heap,494,8,415,71
 Kimble,1,County Attorney,,,Under Votes,59,1,55,3
 Kimble,1,County Attorney,,,Over Votes,0,0,0,0
@@ -104,31 +104,31 @@ Kimble,2,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,6,0
 Kimble,2,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
 Kimble,2,Railroad Commissioner,,,Under Votes,23,1,21,1
 Kimble,2,Railroad Commissioner,,,Over Votes,3,0,3,0
-Kimble,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,245,7,202,36
-Kimble,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,30,0,24,6
-Kimble,2,"Justice, Supreme Court, Place 2",2,,Under Votes,27,1,25,1
-Kimble,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,247,7,204,36
-Kimble,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,25,0,21,4
-Kimble,2,"Justice, Supreme Court, Place 4",4,,Under Votes,30,1,26,3
-Kimble,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,249,7,204,38
-Kimble,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,25,0,21,4
-Kimble,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,2,0
-Kimble,2,"Justice, Supreme Court, Place 6",6,,Under Votes,26,1,24,1
-Kimble,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kimble,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,245,7,202,36
+Kimble,2,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,30,0,24,6
+Kimble,2,"Justice, Supreme Court, Place 2",,,Under Votes,27,1,25,1
+Kimble,2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, Supreme Court, Place 4",,REP,John Devine,247,7,204,36
+Kimble,2,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,25,0,21,4
+Kimble,2,"Justice, Supreme Court, Place 4",,,Under Votes,30,1,26,3
+Kimble,2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, Supreme Court, Place 6",,REP,Jane Bland,249,7,204,38
+Kimble,2,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,25,0,21,4
+Kimble,2,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,2,0,2,0
+Kimble,2,"Justice, Supreme Court, Place 6",,,Under Votes,26,1,24,1
+Kimble,2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
 Kimble,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,247,7,203,37
 Kimble,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,28,0,23,5
 Kimble,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,1,25,1
 Kimble,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,251,7,205,39
-Kimble,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,23,0,20,3
-Kimble,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,1,26,1
-Kimble,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,253,7,208,38
-Kimble,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,21,0,17,4
-Kimble,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,1,26,1
-Kimble,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,251,7,205,39
+Kimble,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,23,0,20,3
+Kimble,2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,28,1,26,1
+Kimble,2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,253,7,208,38
+Kimble,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,21,0,17,4
+Kimble,2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,28,1,26,1
+Kimble,2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,2,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,245,7,201,37
 Kimble,2,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,27,0,22,5
 Kimble,2,"Member, State Board of Education, District 1",1,,Under Votes,30,1,28,1
@@ -138,24 +138,24 @@ Kimble,2,State Representative,53,DEM,Joe P. Herrera,26,0,23,3
 Kimble,2,State Representative,53,LIB,B. W. Holk,3,0,2,1
 Kimble,2,State Representative,53,,Under Votes,24,0,23,1
 Kimble,2,State Representative,53,,Over Votes,0,0,0,0
-Kimble,2,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,95,1,72,22
-Kimble,2,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,207,7,179,21
-Kimble,2,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,2,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,246,7,202,37
-Kimble,2,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,26,0,21,5
-Kimble,2,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,30,1,28,1
-Kimble,2,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,2,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,250,7,205,38
-Kimble,2,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,23,0,19,4
-Kimble,2,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,29,1,27,1
-Kimble,2,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,2,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,244,7,200,37
-Kimble,2,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,28,0,23,5
-Kimble,2,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,30,1,28,1
-Kimble,2,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
-Kimble,2,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,250,7,204,39
-Kimble,2,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,52,1,47,4
-Kimble,2,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,2,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,95,1,72,22
+Kimble,2,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,207,7,179,21
+Kimble,2,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,246,7,202,37
+Kimble,2,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,26,0,21,5
+Kimble,2,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,30,1,28,1
+Kimble,2,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,250,7,205,38
+Kimble,2,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,23,0,19,4
+Kimble,2,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,29,1,27,1
+Kimble,2,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,244,7,200,37
+Kimble,2,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,28,0,23,5
+Kimble,2,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,30,1,28,1
+Kimble,2,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Kimble,2,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,250,7,204,39
+Kimble,2,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,52,1,47,4
+Kimble,2,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,2,County Attorney,,REP,Andrew J. Heap,266,8,218,40
 Kimble,2,County Attorney,,,Under Votes,36,0,33,3
 Kimble,2,County Attorney,,,Over Votes,0,0,0,0
@@ -184,31 +184,31 @@ Kimble,3,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,2,4
 Kimble,3,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
 Kimble,3,Railroad Commissioner,,,Under Votes,7,0,7,0
 Kimble,3,Railroad Commissioner,,,Over Votes,0,0,0,0
-Kimble,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,212,2,151,59
-Kimble,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,22,3,14,5
-Kimble,3,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,7,0
-Kimble,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,212,2,150,60
-Kimble,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,21,3,14,4
-Kimble,3,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,8,0
-Kimble,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,212,2,151,59
-Kimble,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,20,3,13,4
-Kimble,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
-Kimble,3,"Justice, Supreme Court, Place 6",6,,Under Votes,7,0,7,0
-Kimble,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kimble,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,212,2,151,59
+Kimble,3,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,22,3,14,5
+Kimble,3,"Justice, Supreme Court, Place 2",,,Under Votes,7,0,7,0
+Kimble,3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, Supreme Court, Place 4",,REP,John Devine,212,2,150,60
+Kimble,3,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,21,3,14,4
+Kimble,3,"Justice, Supreme Court, Place 4",,,Under Votes,8,0,8,0
+Kimble,3,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, Supreme Court, Place 6",,REP,Jane Bland,212,2,151,59
+Kimble,3,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,20,3,13,4
+Kimble,3,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,2,0,1,1
+Kimble,3,"Justice, Supreme Court, Place 6",,,Under Votes,7,0,7,0
+Kimble,3,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
 Kimble,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,211,2,149,60
 Kimble,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,20,3,14,3
 Kimble,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,9,1
 Kimble,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,214,2,151,61
-Kimble,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,19,3,13,3
-Kimble,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,8,0
-Kimble,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,214,2,151,61
-Kimble,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,19,3,13,3
-Kimble,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,8,0
-Kimble,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,214,2,151,61
+Kimble,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,19,3,13,3
+Kimble,3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,8,0,8,0
+Kimble,3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,214,2,151,61
+Kimble,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,19,3,13,3
+Kimble,3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,8,0,8,0
+Kimble,3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,3,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,211,2,150,59
 Kimble,3,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,20,3,12,5
 Kimble,3,"Member, State Board of Education, District 1",1,,Under Votes,10,0,10,0
@@ -218,24 +218,24 @@ Kimble,3,State Representative,53,DEM,Joe P. Herrera,21,3,14,4
 Kimble,3,State Representative,53,LIB,B. W. Holk,1,0,1,0
 Kimble,3,State Representative,53,,Under Votes,6,0,6,0
 Kimble,3,State Representative,53,,Over Votes,0,0,0,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,76,3,48,25
-Kimble,3,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,165,2,124,39
-Kimble,3,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,211,2,150,59
-Kimble,3,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,21,3,13,5
-Kimble,3,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,9,0,9,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,212,2,150,60
-Kimble,3,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,20,3,13,4
-Kimble,3,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,9,0,9,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,212,2,150,60
-Kimble,3,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,20,3,13,4
-Kimble,3,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,9,0,9,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
-Kimble,3,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,220,2,155,63
-Kimble,3,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,21,3,17,1
-Kimble,3,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,76,3,48,25
+Kimble,3,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,165,2,124,39
+Kimble,3,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,211,2,150,59
+Kimble,3,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,21,3,13,5
+Kimble,3,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,9,0,9,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,212,2,150,60
+Kimble,3,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,20,3,13,4
+Kimble,3,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,9,0,9,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,212,2,150,60
+Kimble,3,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,20,3,13,4
+Kimble,3,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,9,0,9,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Kimble,3,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,220,2,155,63
+Kimble,3,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,21,3,17,1
+Kimble,3,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,3,County Attorney,,REP,Andrew J. Heap,226,2,160,64
 Kimble,3,County Attorney,,,Under Votes,15,3,12,0
 Kimble,3,County Attorney,,,Over Votes,0,0,0,0
@@ -264,31 +264,31 @@ Kimble,4,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,10,5
 Kimble,4,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
 Kimble,4,Railroad Commissioner,,,Under Votes,27,0,21,6
 Kimble,4,Railroad Commissioner,,,Over Votes,0,0,0,0
-Kimble,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,257,5,219,33
-Kimble,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,33,5,25,3
-Kimble,4,"Justice, Supreme Court, Place 2",2,,Under Votes,21,0,15,6
-Kimble,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,248,5,211,32
-Kimble,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,36,5,28,3
-Kimble,4,"Justice, Supreme Court, Place 4",4,,Under Votes,27,0,20,7
-Kimble,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,244,5,209,30
-Kimble,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,37,5,29,3
-Kimble,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,2,3
-Kimble,4,"Justice, Supreme Court, Place 6",6,,Under Votes,24,0,18,6
-Kimble,4,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kimble,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,257,5,219,33
+Kimble,4,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,33,5,25,3
+Kimble,4,"Justice, Supreme Court, Place 2",,,Under Votes,21,0,15,6
+Kimble,4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, Supreme Court, Place 4",,REP,John Devine,248,5,211,32
+Kimble,4,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,36,5,28,3
+Kimble,4,"Justice, Supreme Court, Place 4",,,Under Votes,27,0,20,7
+Kimble,4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, Supreme Court, Place 6",,REP,Jane Bland,244,5,209,30
+Kimble,4,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,37,5,29,3
+Kimble,4,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,5,0,2,3
+Kimble,4,"Justice, Supreme Court, Place 6",,,Under Votes,24,0,18,6
+Kimble,4,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,1,0
 Kimble,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,247,5,209,33
 Kimble,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,36,5,28,3
 Kimble,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,28,0,22,6
 Kimble,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,248,5,209,34
-Kimble,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,35,5,27,3
-Kimble,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,0,23,5
-Kimble,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,251,5,213,33
-Kimble,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,32,5,24,3
-Kimble,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,0,22,6
-Kimble,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,248,5,209,34
+Kimble,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,35,5,27,3
+Kimble,4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,28,0,23,5
+Kimble,4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,251,5,213,33
+Kimble,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,32,5,24,3
+Kimble,4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,28,0,22,6
+Kimble,4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,4,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,245,4,208,33
 Kimble,4,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,34,5,26,3
 Kimble,4,"Member, State Board of Education, District 1",1,,Under Votes,32,1,25,6
@@ -298,24 +298,24 @@ Kimble,4,State Representative,53,DEM,Joe P. Herrera,37,5,29,3
 Kimble,4,State Representative,53,LIB,B. W. Holk,6,0,3,3
 Kimble,4,State Representative,53,,Under Votes,28,1,21,6
 Kimble,4,State Representative,53,,Over Votes,1,0,1,0
-Kimble,4,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,89,6,73,10
-Kimble,4,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,222,4,186,32
-Kimble,4,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,4,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,245,5,207,33
-Kimble,4,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,32,5,24,3
-Kimble,4,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,34,0,28,6
-Kimble,4,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,4,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,241,5,203,33
-Kimble,4,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,32,5,24,3
-Kimble,4,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,38,0,32,6
-Kimble,4,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,4,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,244,4,207,33
-Kimble,4,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,32,5,24,3
-Kimble,4,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,35,1,28,6
-Kimble,4,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
-Kimble,4,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,248,9,206,33
-Kimble,4,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,63,1,53,9
-Kimble,4,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,4,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,89,6,73,10
+Kimble,4,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,222,4,186,32
+Kimble,4,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,245,5,207,33
+Kimble,4,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,32,5,24,3
+Kimble,4,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,34,0,28,6
+Kimble,4,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,241,5,203,33
+Kimble,4,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,32,5,24,3
+Kimble,4,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,38,0,32,6
+Kimble,4,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,244,4,207,33
+Kimble,4,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,32,5,24,3
+Kimble,4,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,35,1,28,6
+Kimble,4,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Kimble,4,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,248,9,206,33
+Kimble,4,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,63,1,53,9
+Kimble,4,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,4,County Attorney,,REP,Andrew J. Heap,263,9,219,35
 Kimble,4,County Attorney,,,Under Votes,48,1,40,7
 Kimble,4,County Attorney,,,Over Votes,0,0,0,0
@@ -347,31 +347,31 @@ Kimble,6,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,14,1
 Kimble,6,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
 Kimble,6,Railroad Commissioner,,,Under Votes,6,0,4,2
 Kimble,6,Railroad Commissioner,,,Over Votes,1,0,0,1
-Kimble,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,224,8,134,82
-Kimble,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,17,2,12,3
-Kimble,6,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,4,2
-Kimble,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,220,8,134,78
-Kimble,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,19,2,12,5
-Kimble,6,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,4,4
-Kimble,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,217,8,129,80
-Kimble,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,17,2,11,4
-Kimble,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,5,1
-Kimble,6,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,4,2
-Kimble,6,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kimble,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,224,8,134,82
+Kimble,6,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,17,2,12,3
+Kimble,6,"Justice, Supreme Court, Place 2",,,Under Votes,6,0,4,2
+Kimble,6,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, Supreme Court, Place 4",,REP,John Devine,220,8,134,78
+Kimble,6,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,19,2,12,5
+Kimble,6,"Justice, Supreme Court, Place 4",,,Under Votes,8,0,4,4
+Kimble,6,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, Supreme Court, Place 6",,REP,Jane Bland,217,8,129,80
+Kimble,6,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,17,2,11,4
+Kimble,6,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,6,0,5,1
+Kimble,6,"Justice, Supreme Court, Place 6",,,Under Votes,6,0,4,2
+Kimble,6,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,1,0
 Kimble,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,219,8,133,78
 Kimble,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,19,2,12,5
 Kimble,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,5,4
 Kimble,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,222,8,134,80
-Kimble,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,17,2,11,4
-Kimble,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,5,3
-Kimble,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,223,8,134,81
-Kimble,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,16,2,10,4
-Kimble,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,6,2
-Kimble,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,222,8,134,80
+Kimble,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,17,2,11,4
+Kimble,6,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,8,0,5,3
+Kimble,6,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,223,8,134,81
+Kimble,6,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,16,2,10,4
+Kimble,6,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,8,0,6,2
+Kimble,6,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,6,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,217,8,128,81
 Kimble,6,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,22,2,16,4
 Kimble,6,"Member, State Board of Education, District 1",1,,Under Votes,8,0,6,2
@@ -381,24 +381,24 @@ Kimble,6,State Representative,53,DEM,Joe P. Herrera,19,2,14,3
 Kimble,6,State Representative,53,LIB,B. W. Holk,7,1,5,1
 Kimble,6,State Representative,53,,Under Votes,11,0,8,3
 Kimble,6,State Representative,53,,Over Votes,0,0,0,0
-Kimble,6,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,75,3,39,33
-Kimble,6,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,172,7,111,54
-Kimble,6,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,6,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,220,8,132,80
-Kimble,6,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,19,2,13,4
-Kimble,6,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,8,0,5,3
-Kimble,6,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,6,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,218,8,130,80
-Kimble,6,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,20,2,14,4
-Kimble,6,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,9,0,6,3
-Kimble,6,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,6,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,220,8,132,80
-Kimble,6,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,19,2,13,4
-Kimble,6,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,8,0,5,3
-Kimble,6,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
-Kimble,6,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,225,8,136,81
-Kimble,6,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,22,2,14,6
-Kimble,6,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,6,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,75,3,39,33
+Kimble,6,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,172,7,111,54
+Kimble,6,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,220,8,132,80
+Kimble,6,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,19,2,13,4
+Kimble,6,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,8,0,5,3
+Kimble,6,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,218,8,130,80
+Kimble,6,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,20,2,14,4
+Kimble,6,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,9,0,6,3
+Kimble,6,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,220,8,132,80
+Kimble,6,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,19,2,13,4
+Kimble,6,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,8,0,5,3
+Kimble,6,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Kimble,6,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,225,8,136,81
+Kimble,6,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,22,2,14,6
+Kimble,6,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,6,County Attorney,,REP,Andrew J. Heap,227,8,139,80
 Kimble,6,County Attorney,,,Under Votes,20,2,11,7
 Kimble,6,County Attorney,,,Over Votes,0,0,0,0
@@ -430,31 +430,31 @@ Kimble,7,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
 Kimble,7,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
 Kimble,7,Railroad Commissioner,,,Under Votes,8,1,3,4
 Kimble,7,Railroad Commissioner,,,Over Votes,0,0,0,0
-Kimble,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,333,16,156,161
-Kimble,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,20,1,10,9
-Kimble,7,"Justice, Supreme Court, Place 2",2,,Under Votes,11,1,7,3
-Kimble,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,329,16,152,161
-Kimble,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,20,1,11,8
-Kimble,7,"Justice, Supreme Court, Place 4",4,,Under Votes,15,1,10,4
-Kimble,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,330,16,155,159
-Kimble,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,18,1,9,8
-Kimble,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,2,3
-Kimble,7,"Justice, Supreme Court, Place 6",6,,Under Votes,11,1,7,3
-Kimble,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kimble,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,333,16,156,161
+Kimble,7,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,20,1,10,9
+Kimble,7,"Justice, Supreme Court, Place 2",,,Under Votes,11,1,7,3
+Kimble,7,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, Supreme Court, Place 4",,REP,John Devine,329,16,152,161
+Kimble,7,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,20,1,11,8
+Kimble,7,"Justice, Supreme Court, Place 4",,,Under Votes,15,1,10,4
+Kimble,7,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, Supreme Court, Place 6",,REP,Jane Bland,330,16,155,159
+Kimble,7,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,18,1,9,8
+Kimble,7,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,5,0,2,3
+Kimble,7,"Justice, Supreme Court, Place 6",,,Under Votes,11,1,7,3
+Kimble,7,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
 Kimble,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,335,16,158,161
 Kimble,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,20,1,10,9
 Kimble,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,1,5,3
 Kimble,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,332,15,156,161
-Kimble,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,20,1,10,9
-Kimble,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,12,2,7,3
-Kimble,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,333,16,156,161
-Kimble,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,20,1,10,9
-Kimble,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,1,7,3
-Kimble,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,332,15,156,161
+Kimble,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,20,1,10,9
+Kimble,7,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,12,2,7,3
+Kimble,7,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,333,16,156,161
+Kimble,7,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,20,1,10,9
+Kimble,7,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,11,1,7,3
+Kimble,7,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,7,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,332,16,155,161
 Kimble,7,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,21,1,12,8
 Kimble,7,"Member, State Board of Education, District 1",1,,Under Votes,11,1,6,4
@@ -464,24 +464,24 @@ Kimble,7,State Representative,53,DEM,Joe P. Herrera,18,1,8,9
 Kimble,7,State Representative,53,LIB,B. W. Holk,5,0,3,2
 Kimble,7,State Representative,53,,Under Votes,15,1,8,6
 Kimble,7,State Representative,53,,Over Votes,0,0,0,0
-Kimble,7,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,86,2,43,41
-Kimble,7,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,278,16,130,132
-Kimble,7,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,7,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,334,16,157,161
-Kimble,7,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,20,1,10,9
-Kimble,7,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,10,1,6,3
-Kimble,7,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,7,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,333,16,156,161
-Kimble,7,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,21,1,11,9
-Kimble,7,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,10,1,6,3
-Kimble,7,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,7,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,333,16,156,161
-Kimble,7,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,21,1,11,9
-Kimble,7,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,10,1,6,3
-Kimble,7,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
-Kimble,7,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,337,14,158,165
-Kimble,7,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,27,4,15,8
-Kimble,7,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,7,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,86,2,43,41
+Kimble,7,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,278,16,130,132
+Kimble,7,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,334,16,157,161
+Kimble,7,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,20,1,10,9
+Kimble,7,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,10,1,6,3
+Kimble,7,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,333,16,156,161
+Kimble,7,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,21,1,11,9
+Kimble,7,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,10,1,6,3
+Kimble,7,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,333,16,156,161
+Kimble,7,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,21,1,11,9
+Kimble,7,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,10,1,6,3
+Kimble,7,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Kimble,7,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,337,14,158,165
+Kimble,7,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,27,4,15,8
+Kimble,7,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,7,County Attorney,,REP,Andrew J. Heap,329,14,153,162
 Kimble,7,County Attorney,,,Under Votes,35,4,20,11
 Kimble,7,County Attorney,,,Over Votes,0,0,0,0
@@ -510,31 +510,31 @@ Kimble,9,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,13,3
 Kimble,9,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
 Kimble,9,Railroad Commissioner,,,Under Votes,23,2,17,4
 Kimble,9,Railroad Commissioner,,,Over Votes,0,0,0,0
-Kimble,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,330,6,274,50
-Kimble,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,54,3,44,7
-Kimble,9,"Justice, Supreme Court, Place 2",2,,Under Votes,21,1,17,3
-Kimble,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
-Kimble,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,328,6,273,49
-Kimble,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,56,3,45,8
-Kimble,9,"Justice, Supreme Court, Place 4",4,,Under Votes,21,1,17,3
-Kimble,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
-Kimble,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,318,6,265,47
-Kimble,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,53,3,44,6
-Kimble,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,8,3
-Kimble,9,"Justice, Supreme Court, Place 6",6,,Under Votes,22,1,17,4
-Kimble,9,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kimble,9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,330,6,274,50
+Kimble,9,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,54,3,44,7
+Kimble,9,"Justice, Supreme Court, Place 2",,,Under Votes,21,1,17,3
+Kimble,9,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Kimble,9,"Justice, Supreme Court, Place 4",,REP,John Devine,328,6,273,49
+Kimble,9,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,56,3,45,8
+Kimble,9,"Justice, Supreme Court, Place 4",,,Under Votes,21,1,17,3
+Kimble,9,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Kimble,9,"Justice, Supreme Court, Place 6",,REP,Jane Bland,318,6,265,47
+Kimble,9,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,53,3,44,6
+Kimble,9,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,11,0,8,3
+Kimble,9,"Justice, Supreme Court, Place 6",,,Under Votes,22,1,17,4
+Kimble,9,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,1,0
 Kimble,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,325,6,270,49
 Kimble,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,59,3,49,7
 Kimble,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,1,16,4
 Kimble,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
-Kimble,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,328,6,271,51
-Kimble,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,55,3,47,5
-Kimble,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,1,17,4
-Kimble,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
-Kimble,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,326,6,270,50
-Kimble,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,55,3,47,5
-Kimble,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,24,1,18,5
-Kimble,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kimble,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,328,6,271,51
+Kimble,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,55,3,47,5
+Kimble,9,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,22,1,17,4
+Kimble,9,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Kimble,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,326,6,270,50
+Kimble,9,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,55,3,47,5
+Kimble,9,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,24,1,18,5
+Kimble,9,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
 Kimble,9,"Member, State Board of Education, District 1",1,REP,Michael (Travis) Stevens,323,6,266,51
 Kimble,9,"Member, State Board of Education, District 1",1,DEM,Gustavo Reveles,58,2,50,6
 Kimble,9,"Member, State Board of Education, District 1",1,,Under Votes,24,2,19,3
@@ -544,24 +544,24 @@ Kimble,9,State Representative,53,DEM,Joe P. Herrera,57,2,48,7
 Kimble,9,State Representative,53,LIB,B. W. Holk,7,0,7,0
 Kimble,9,State Representative,53,,Under Votes,21,2,15,4
 Kimble,9,State Representative,53,,Over Votes,0,0,0,0
-Kimble,9,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,139,3,107,29
-Kimble,9,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,266,7,228,31
-Kimble,9,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
-Kimble,9,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,322,6,267,49
-Kimble,9,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,54,2,45,7
-Kimble,9,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,29,2,23,4
-Kimble,9,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
-Kimble,9,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,317,6,262,49
-Kimble,9,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,57,2,48,7
-Kimble,9,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,31,2,25,4
-Kimble,9,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
-Kimble,9,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,321,6,267,48
-Kimble,9,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,55,2,45,8
-Kimble,9,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,28,2,22,4
-Kimble,9,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
-Kimble,9,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,334,6,274,54
-Kimble,9,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,71,4,61,6
-Kimble,9,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kimble,9,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,139,3,107,29
+Kimble,9,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,266,7,228,31
+Kimble,9,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Kimble,9,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,322,6,267,49
+Kimble,9,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,54,2,45,7
+Kimble,9,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,29,2,23,4
+Kimble,9,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Kimble,9,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,317,6,262,49
+Kimble,9,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,57,2,48,7
+Kimble,9,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,31,2,25,4
+Kimble,9,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Kimble,9,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,321,6,267,48
+Kimble,9,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,55,2,45,8
+Kimble,9,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,28,2,22,4
+Kimble,9,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,1,0,1,0
+Kimble,9,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,334,6,274,54
+Kimble,9,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,71,4,61,6
+Kimble,9,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
 Kimble,9,County Attorney,,REP,Andrew J. Heap,355,9,290,56
 Kimble,9,County Attorney,,,Under Votes,50,1,45,4
 Kimble,9,County Attorney,,,Over Votes,0,0,0,0

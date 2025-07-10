@@ -1,0 +1,608 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+La Salle,1,Registered Voters,,,,1158,,,
+La Salle,1,Ballots Cast,,,,691,,,
+La Salle,1,President,,REP,Donald J. Trump JD Vance,435,30,282,123
+La Salle,1,President,,DEM,Kamala D. Harris Tim Walz,229,26,134,69
+La Salle,1,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+La Salle,1,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+La Salle,1,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,1,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,1,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,1,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,1,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,1,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,1,President,,,Under Votes,21,3,13,5
+La Salle,1,President,,,Over Votes,2,2,0,0
+La Salle,1,U.S. Senate,,REP,Ted Cruz,357,17,250,90
+La Salle,1,U.S. Senate,,DEM,Colin Allred,233,18,134,81
+La Salle,1,U.S. Senate,,LIB,Ted Brown,26,2,16,8
+La Salle,1,U.S. Senate,,,Analisa Roche (W),1,0,1,0
+La Salle,1,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,1,U.S. Senate,,,Under Votes,73,23,32,18
+La Salle,1,U.S. Senate,,,Over Votes,1,1,0,0
+La Salle,1,U.S. House,23,REP,Tony Gonzales,396,18,275,103
+La Salle,1,U.S. House,23,DEM,S. Limon,175,20,100,55
+La Salle,1,U.S. House,23,,Under Votes,118,23,58,37
+La Salle,1,U.S. House,23,,Over Votes,2,0,0,2
+La Salle,1,Railroad Commissioner,,REP,Christi Craddick,291,14,200,77
+La Salle,1,Railroad Commissioner,,DEM,Katherine Culbert,193,20,112,61
+La Salle,1,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,16,7
+La Salle,1,Railroad Commissioner,,GRN,Eddie Espinoza,19,0,14,5
+La Salle,1,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,1,Railroad Commissioner,,,Under Votes,159,26,89,44
+La Salle,1,Railroad Commissioner,,,Over Votes,5,0,2,3
+La Salle,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,312,13,216,83
+La Salle,1,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,216,22,126,68
+La Salle,1,"Justice, Supreme Court, Place 2",,,Under Votes,161,26,91,44
+La Salle,1,"Justice, Supreme Court, Place 2",,,Over Votes,2,0,0,2
+La Salle,1,"Justice, Supreme Court, Place 4",,REP,John Devine,314,15,215,84
+La Salle,1,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,204,20,122,62
+La Salle,1,"Justice, Supreme Court, Place 4",,,Under Votes,171,26,96,49
+La Salle,1,"Justice, Supreme Court, Place 4",,,Over Votes,2,0,0,2
+La Salle,1,"Justice, Supreme Court, Place 6",,REP,Jane Bland,298,13,210,75
+La Salle,1,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,202,20,119,63
+La Salle,1,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,19,1,9,9
+La Salle,1,"Justice, Supreme Court, Place 6",,,Under Votes,171,26,95,50
+La Salle,1,"Justice, Supreme Court, Place 6",,,Over Votes,1,1,0,0
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,313,14,217,82
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,206,21,117,68
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,172,26,99,47
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,310,14,216,80
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,204,21,116,67
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,177,26,101,50
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,323,14,221,88
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,189,21,109,59
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,179,26,103,50
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,1,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,302,15,207,80
+La Salle,1,"Member, State Board of Education",1,DEM,Gustavo Reveles,211,20,124,67
+La Salle,1,"Member, State Board of Education",1,,Under Votes,178,26,102,50
+La Salle,1,"Member, State Board of Education",1,,Over Votes,0,0,0,0
+La Salle,1,State House,31,REP,Ryan Guillen,419,21,276,122
+La Salle,1,State House,31,,Under Votes,272,40,157,75
+La Salle,1,State House,31,,Over Votes,0,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,321,21,192,108
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,370,40,241,89
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,310,16,218,76
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,201,19,115,67
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,180,26,100,54
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,295,14,209,72
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,206,19,117,70
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,190,28,107,55
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,302,15,216,71
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,210,18,116,76
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,179,28,101,50
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,361,19,237,105
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,330,42,196,92
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,1,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,381,23,247,111
+La Salle,1,"District Attorney, 81st Judicial District",,,Under Votes,310,38,186,86
+La Salle,1,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,1,County Attorney,,DEM,Elizabeth Martinez,412,32,261,119
+La Salle,1,County Attorney,,,Under Votes,279,29,172,78
+La Salle,1,County Attorney,,,Over Votes,0,0,0,0
+La Salle,1,Sheriff,,REP,Miguel Rodriguez,255,22,174,59
+La Salle,1,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",395,35,228,132
+La Salle,1,Sheriff,,,Guy Megliorino (W),14,2,10,2
+La Salle,1,Sheriff,,,Under Votes,27,2,21,4
+La Salle,1,Sheriff,,,Over Votes,0,0,0,0
+La Salle,1,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,236,8,155,73
+La Salle,1,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,402,45,249,108
+La Salle,1,County Tax Assessor-Collector,,,Under Votes,51,8,29,14
+La Salle,1,County Tax Assessor-Collector,,,Over Votes,2,0,0,2
+La Salle,1,County Commissioner,Precinct 1,DEM,"Noel ""Noni"" Niavez",440,40,269,131
+La Salle,1,County Commissioner,Precinct 1,,Under Votes,251,21,164,66
+La Salle,1,County Commissioner,Precinct 1,,Over Votes,0,0,0,0
+La Salle,1,Constable,"Precinct 1, 5 & 6",DEM,"Humberto R. ""Bear"" Gonzalez, Jr.",438,31,268,139
+La Salle,1,Constable,"Precinct 1, 5 & 6",,Under Votes,253,30,165,58
+La Salle,1,Constable,"Precinct 1, 5 & 6",,Over Votes,0,0,0,0
+La Salle,2,Registered Voters,,,,601,,,
+La Salle,2,Ballots Cast,,,,283,,,
+La Salle,2,President,,REP,Donald J. Trump JD Vance,161,2,33,126
+La Salle,2,President,,DEM,Kamala D. Harris Tim Walz,117,7,12,98
+La Salle,2,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+La Salle,2,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+La Salle,2,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,2,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,2,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,2,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,2,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,2,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,2,President,,,Under Votes,5,0,2,3
+La Salle,2,President,,,Over Votes,0,0,0,0
+La Salle,2,U.S. Senate,,REP,Ted Cruz,112,1,30,81
+La Salle,2,U.S. Senate,,DEM,Colin Allred,128,6,12,110
+La Salle,2,U.S. Senate,,LIB,Ted Brown,9,0,1,8
+La Salle,2,U.S. Senate,,,Analisa Roche (W),0,0,0,0
+La Salle,2,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,2,U.S. Senate,,,Under Votes,33,2,4,27
+La Salle,2,U.S. Senate,,,Over Votes,1,0,0,1
+La Salle,2,U.S. House,23,REP,Tony Gonzales,146,1,29,116
+La Salle,2,U.S. House,23,DEM,S. Limon,89,6,12,71
+La Salle,2,U.S. House,23,,Under Votes,48,2,6,40
+La Salle,2,U.S. House,23,,Over Votes,0,0,0,0
+La Salle,2,Railroad Commissioner,,REP,Christi Craddick,96,3,25,68
+La Salle,2,Railroad Commissioner,,DEM,Katherine Culbert,84,4,10,70
+La Salle,2,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,3,7
+La Salle,2,Railroad Commissioner,,GRN,Eddie Espinoza,23,0,2,21
+La Salle,2,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,2,Railroad Commissioner,,,Under Votes,66,2,6,58
+La Salle,2,Railroad Commissioner,,,Over Votes,4,0,1,3
+La Salle,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,112,1,26,85
+La Salle,2,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,102,5,14,83
+La Salle,2,"Justice, Supreme Court, Place 2",,,Under Votes,69,3,7,59
+La Salle,2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, Supreme Court, Place 4",,REP,John Devine,108,2,26,80
+La Salle,2,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,103,5,14,84
+La Salle,2,"Justice, Supreme Court, Place 4",,,Under Votes,72,2,7,63
+La Salle,2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, Supreme Court, Place 6",,REP,Jane Bland,104,3,27,74
+La Salle,2,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,99,4,12,83
+La Salle,2,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,13,0,1,12
+La Salle,2,"Justice, Supreme Court, Place 6",,,Under Votes,67,2,7,58
+La Salle,2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,108,2,27,79
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,104,5,13,86
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,70,2,7,61
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,108,2,26,80
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,106,5,13,88
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,69,2,8,59
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,119,2,28,89
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,96,5,12,79
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,68,2,7,59
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,2,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,111,4,25,82
+La Salle,2,"Member, State Board of Education",1,DEM,Gustavo Reveles,102,3,15,84
+La Salle,2,"Member, State Board of Education",1,,Under Votes,69,2,7,60
+La Salle,2,"Member, State Board of Education",1,,Over Votes,1,0,0,1
+La Salle,2,State House,31,REP,Ryan Guillen,160,3,33,124
+La Salle,2,State House,31,,Under Votes,123,6,14,103
+La Salle,2,State House,31,,Over Votes,0,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,151,7,19,125
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,132,2,28,102
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,100,1,25,74
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,115,6,15,94
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,68,2,7,59
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,98,1,26,71
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,115,6,14,95
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,70,2,7,61
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,95,1,25,69
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,123,6,16,101
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,65,2,6,57
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,146,3,31,112
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,137,6,16,115
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,2,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,158,3,32,123
+La Salle,2,"District Attorney, 81st Judicial District",,,Under Votes,125,6,15,104
+La Salle,2,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,2,County Attorney,,DEM,Elizabeth Martinez,174,7,21,146
+La Salle,2,County Attorney,,,Under Votes,109,2,26,81
+La Salle,2,County Attorney,,,Over Votes,0,0,0,0
+La Salle,2,Sheriff,,REP,Miguel Rodriguez,105,1,26,78
+La Salle,2,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",162,8,19,135
+La Salle,2,Sheriff,,,Guy Megliorino (W),6,0,0,6
+La Salle,2,Sheriff,,,Under Votes,9,0,2,7
+La Salle,2,Sheriff,,,Over Votes,1,0,0,1
+La Salle,2,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,87,2,23,62
+La Salle,2,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,180,7,20,153
+La Salle,2,County Tax Assessor-Collector,,,Under Votes,16,0,4,12
+La Salle,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+La Salle,2,Constable,Precinct 2,DEM,Rene Maldonado,204,8,24,172
+La Salle,2,Constable,Precinct 2,,Under Votes,79,1,23,55
+La Salle,2,Constable,Precinct 2,,Over Votes,0,0,0,0
+La Salle,3,Registered Voters,,,,1128,,,
+La Salle,3,Ballots Cast,,,,755,,,
+La Salle,3,President,,REP,Donald J. Trump JD Vance,386,28,262,96
+La Salle,3,President,,DEM,Kamala D. Harris Tim Walz,278,41,174,63
+La Salle,3,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+La Salle,3,President,,GRN,Jill Stein Rudolph Ware,3,0,3,0
+La Salle,3,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,3,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,3,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,3,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,3,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,3,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,3,President,,,Under Votes,83,10,68,5
+La Salle,3,President,,,Over Votes,4,2,1,1
+La Salle,3,U.S. Senate,,REP,Ted Cruz,249,15,170,64
+La Salle,3,U.S. Senate,,DEM,Colin Allred,281,46,172,63
+La Salle,3,U.S. Senate,,LIB,Ted Brown,16,1,12,3
+La Salle,3,U.S. Senate,,,Analisa Roche (W),0,0,0,0
+La Salle,3,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,3,U.S. Senate,,,Under Votes,208,19,154,35
+La Salle,3,U.S. Senate,,,Over Votes,1,0,1,0
+La Salle,3,U.S. House,23,REP,Tony Gonzales,294,22,194,78
+La Salle,3,U.S. House,23,DEM,S. Limon,186,30,116,40
+La Salle,3,U.S. House,23,,Under Votes,274,29,199,46
+La Salle,3,U.S. House,23,,Over Votes,1,0,0,1
+La Salle,3,Railroad Commissioner,,REP,Christi Craddick,176,10,121,45
+La Salle,3,Railroad Commissioner,,DEM,Katherine Culbert,200,30,125,45
+La Salle,3,Railroad Commissioner,,LIB,Hawk Dunlap,10,1,8,1
+La Salle,3,Railroad Commissioner,,GRN,Eddie Espinoza,39,3,26,10
+La Salle,3,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,3,Railroad Commissioner,,,Under Votes,327,36,227,64
+La Salle,3,Railroad Commissioner,,,Over Votes,3,1,2,0
+La Salle,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,205,12,143,50
+La Salle,3,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,211,32,128,51
+La Salle,3,"Justice, Supreme Court, Place 2",,,Under Votes,339,37,238,64
+La Salle,3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, Supreme Court, Place 4",,REP,John Devine,198,11,138,49
+La Salle,3,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,213,32,134,47
+La Salle,3,"Justice, Supreme Court, Place 4",,,Under Votes,344,38,237,69
+La Salle,3,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, Supreme Court, Place 6",,REP,Jane Bland,186,10,130,46
+La Salle,3,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,216,33,134,49
+La Salle,3,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,13,1,7,5
+La Salle,3,"Justice, Supreme Court, Place 6",,,Under Votes,340,37,238,65
+La Salle,3,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,196,11,140,45
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,216,34,127,55
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,343,36,242,65
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,204,12,142,50
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,204,33,123,48
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,347,36,244,67
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,204,9,145,50
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,204,33,123,48
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,347,39,241,67
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,3,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,201,12,142,47
+La Salle,3,"Member, State Board of Education",1,DEM,Gustavo Reveles,214,32,131,51
+La Salle,3,"Member, State Board of Education",1,,Under Votes,340,37,236,67
+La Salle,3,"Member, State Board of Education",1,,Over Votes,0,0,0,0
+La Salle,3,State House,31,REP,Ryan Guillen,309,18,214,77
+La Salle,3,State House,31,,Under Votes,446,63,295,88
+La Salle,3,State House,31,,Over Votes,0,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,288,32,180,76
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,467,49,329,89
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,186,11,130,45
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,237,34,148,55
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,332,36,231,65
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,185,11,129,45
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,229,33,141,55
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,341,37,239,65
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,183,7,130,46
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,179,13,112,54
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,393,61,267,65
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,230,8,162,60
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,525,73,347,105
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,3,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,239,9,166,64
+La Salle,3,"District Attorney, 81st Judicial District",,,Under Votes,516,72,343,101
+La Salle,3,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,3,County Attorney,,DEM,Elizabeth Martinez,290,12,190,88
+La Salle,3,County Attorney,,,Under Votes,465,69,319,77
+La Salle,3,County Attorney,,,Over Votes,0,0,0,0
+La Salle,3,Sheriff,,REP,Miguel Rodriguez,200,21,137,42
+La Salle,3,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",511,55,343,113
+La Salle,3,Sheriff,,,Guy Megliorino (W),11,3,6,2
+La Salle,3,Sheriff,,,Under Votes,32,2,22,8
+La Salle,3,Sheriff,,,Over Votes,1,0,1,0
+La Salle,3,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,198,17,126,55
+La Salle,3,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,457,63,296,98
+La Salle,3,County Tax Assessor-Collector,,,Under Votes,99,1,86,12
+La Salle,3,County Tax Assessor-Collector,,,Over Votes,1,0,1,0
+La Salle,3,County Commissioner,Precinct 3,REP,Juan M Gonzalez,316,27,205,84
+La Salle,3,County Commissioner,Precinct 3,DEM,"Erasmo ""Mito"" Ramirez Jr",420,51,290,79
+La Salle,3,County Commissioner,Precinct 3,,Under Votes,18,2,14,2
+La Salle,3,County Commissioner,Precinct 3,,Over Votes,1,1,0,0
+La Salle,3,Constable,Precinct 3,DEM,Carlos Benavides,347,37,227,83
+La Salle,3,Constable,Precinct 3,,Under Votes,408,44,282,82
+La Salle,3,Constable,Precinct 3,,Over Votes,0,0,0,0
+La Salle,4,Registered Voters,,,,68,,,
+La Salle,4,Ballots Cast,,,,52,,,
+La Salle,4,President,,REP,Donald J. Trump JD Vance,46,3,15,28
+La Salle,4,President,,DEM,Kamala D. Harris Tim Walz,3,0,3,0
+La Salle,4,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+La Salle,4,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+La Salle,4,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,4,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,4,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,4,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,4,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,4,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,4,President,,,Under Votes,2,0,1,1
+La Salle,4,President,,,Over Votes,0,0,0,0
+La Salle,4,U.S. Senate,,REP,Ted Cruz,41,3,13,25
+La Salle,4,U.S. Senate,,DEM,Colin Allred,6,0,3,3
+La Salle,4,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+La Salle,4,U.S. Senate,,,Analisa Roche (W),0,0,0,0
+La Salle,4,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,4,U.S. Senate,,,Under Votes,4,0,3,1
+La Salle,4,U.S. Senate,,,Over Votes,0,0,0,0
+La Salle,4,U.S. House,23,REP,Tony Gonzales,39,3,11,25
+La Salle,4,U.S. House,23,DEM,S. Limon,6,0,4,2
+La Salle,4,U.S. House,23,,Under Votes,7,0,4,3
+La Salle,4,U.S. House,23,,Over Votes,0,0,0,0
+La Salle,4,Railroad Commissioner,,REP,Christi Craddick,37,3,12,22
+La Salle,4,Railroad Commissioner,,DEM,Katherine Culbert,3,0,2,1
+La Salle,4,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+La Salle,4,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+La Salle,4,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,4,Railroad Commissioner,,,Under Votes,9,0,4,5
+La Salle,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,41,3,12,26
+La Salle,4,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,3,0,2,1
+La Salle,4,"Justice, Supreme Court, Place 2",,,Under Votes,8,0,5,3
+La Salle,4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 4",,REP,John Devine,39,3,12,24
+La Salle,4,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,2,0,1,1
+La Salle,4,"Justice, Supreme Court, Place 4",,,Under Votes,11,0,6,5
+La Salle,4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 6",,REP,Jane Bland,38,3,11,24
+La Salle,4,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,2,0,1,1
+La Salle,4,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,2,0,1,1
+La Salle,4,"Justice, Supreme Court, Place 6",,,Under Votes,10,0,6,4
+La Salle,4,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,39,3,13,23
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,4,0,2,2
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,4,5
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,39,3,13,23
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,3,0,2,1
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,10,0,4,6
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,40,3,13,24
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,2,0,2,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,10,0,4,6
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,4,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,39,3,12,24
+La Salle,4,"Member, State Board of Education",1,DEM,Gustavo Reveles,3,0,3,0
+La Salle,4,"Member, State Board of Education",1,,Under Votes,10,0,4,6
+La Salle,4,"Member, State Board of Education",1,,Over Votes,0,0,0,0
+La Salle,4,State House,31,REP,Ryan Guillen,38,3,11,24
+La Salle,4,State House,31,,Under Votes,14,0,8,6
+La Salle,4,State House,31,,Over Votes,0,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,12,0,5,7
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,40,3,14,23
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,39,3,12,24
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,1,0,1,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,12,0,6,6
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,39,3,12,24
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,2,0,2,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,11,0,5,6
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,38,3,11,24
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,2,0,2,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,12,0,6,6
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,36,3,12,21
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,16,0,7,9
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,4,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,38,3,12,23
+La Salle,4,"District Attorney, 81st Judicial District",,,Under Votes,14,0,7,7
+La Salle,4,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,4,County Attorney,,DEM,Elizabeth Martinez,15,0,6,9
+La Salle,4,County Attorney,,,Under Votes,37,3,13,21
+La Salle,4,County Attorney,,,Over Votes,0,0,0,0
+La Salle,4,Sheriff,,REP,Miguel Rodriguez,24,2,5,17
+La Salle,4,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",6,0,5,1
+La Salle,4,Sheriff,,,Guy Megliorino (W),18,1,7,10
+La Salle,4,Sheriff,,,Under Votes,4,0,2,2
+La Salle,4,Sheriff,,,Over Votes,0,0,0,0
+La Salle,4,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,31,3,10,18
+La Salle,4,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,17,0,7,10
+La Salle,4,County Tax Assessor-Collector,,,Under Votes,4,0,2,2
+La Salle,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+La Salle,4,Constable,Precinct 4,REP,Guy Megliorino,28,2,9,17
+La Salle,4,Constable,Precinct 4,,Under Votes,24,1,10,13
+La Salle,4,Constable,Precinct 4,,Over Votes,0,0,0,0
+La Salle,5,Registered Voters,,,,823,,,
+La Salle,5,Ballots Cast,,,,473,,,
+La Salle,5,President,,REP,Donald J. Trump JD Vance,264,7,168,89
+La Salle,5,President,,DEM,Kamala D. Harris Tim Walz,185,17,113,55
+La Salle,5,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+La Salle,5,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+La Salle,5,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,5,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,5,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,5,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,5,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,5,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,5,President,,,Under Votes,20,4,14,2
+La Salle,5,President,,,Over Votes,4,0,1,3
+La Salle,5,U.S. Senate,,REP,Ted Cruz,218,8,146,64
+La Salle,5,U.S. Senate,,DEM,Colin Allred,185,15,113,57
+La Salle,5,U.S. Senate,,LIB,Ted Brown,10,0,6,4
+La Salle,5,U.S. Senate,,,Analisa Roche (W),0,0,0,0
+La Salle,5,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,5,U.S. Senate,,,Under Votes,59,5,31,23
+La Salle,5,U.S. Senate,,,Over Votes,1,0,0,1
+La Salle,5,U.S. House,23,REP,Tony Gonzales,248,8,164,76
+La Salle,5,U.S. House,23,DEM,S. Limon,149,15,92,42
+La Salle,5,U.S. House,23,,Under Votes,75,5,39,31
+La Salle,5,U.S. House,23,,Over Votes,1,0,1,0
+La Salle,5,Railroad Commissioner,,REP,Christi Craddick,181,6,125,50
+La Salle,5,Railroad Commissioner,,DEM,Katherine Culbert,151,13,92,46
+La Salle,5,Railroad Commissioner,,LIB,Hawk Dunlap,11,1,8,2
+La Salle,5,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,13,7
+La Salle,5,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,5,Railroad Commissioner,,,Under Votes,107,7,57,43
+La Salle,5,Railroad Commissioner,,,Over Votes,3,1,1,1
+La Salle,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,204,7,138,59
+La Salle,5,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,153,14,96,43
+La Salle,5,"Justice, Supreme Court, Place 2",,,Under Votes,116,7,62,47
+La Salle,5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, Supreme Court, Place 4",,REP,John Devine,203,7,135,61
+La Salle,5,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,154,14,97,43
+La Salle,5,"Justice, Supreme Court, Place 4",,,Under Votes,116,7,64,45
+La Salle,5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, Supreme Court, Place 6",,REP,Jane Bland,187,6,128,53
+La Salle,5,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,155,13,98,44
+La Salle,5,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,18,2,11,5
+La Salle,5,"Justice, Supreme Court, Place 6",,,Under Votes,113,7,59,47
+La Salle,5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,199,8,136,55
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,164,13,101,50
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,110,7,59,44
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,206,7,140,59
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,158,13,100,45
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,109,8,56,45
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,206,7,140,59
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,154,12,98,44
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,113,9,58,46
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,5,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,197,7,135,55
+La Salle,5,"Member, State Board of Education",1,DEM,Gustavo Reveles,166,13,103,50
+La Salle,5,"Member, State Board of Education",1,,Under Votes,109,8,58,43
+La Salle,5,"Member, State Board of Education",1,,Over Votes,1,0,0,1
+La Salle,5,State House,31,REP,Ryan Guillen,255,9,180,66
+La Salle,5,State House,31,,Under Votes,218,19,116,83
+La Salle,5,State House,31,,Over Votes,0,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,242,10,164,68
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,231,18,132,81
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,190,7,136,47
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,168,14,101,53
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,115,7,59,49
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,195,7,138,50
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,162,13,100,49
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,116,8,58,50
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,183,7,130,46
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,179,13,112,54
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,111,8,54,49
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,230,8,162,60
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,243,20,134,89
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,5,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,239,9,166,64
+La Salle,5,"District Attorney, 81st Judicial District",,,Under Votes,234,19,130,85
+La Salle,5,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,5,County Attorney,,DEM,Elizabeth Martinez,290,12,190,88
+La Salle,5,County Attorney,,,Under Votes,183,16,106,61
+La Salle,5,County Attorney,,,Over Votes,0,0,0,0
+La Salle,5,Sheriff,,REP,Miguel Rodriguez,162,8,122,32
+La Salle,5,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",279,19,156,104
+La Salle,5,Sheriff,,,Guy Megliorino (W),17,1,10,6
+La Salle,5,Sheriff,,,Under Votes,14,0,7,7
+La Salle,5,Sheriff,,,Over Votes,1,0,1,0
+La Salle,5,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,168,8,107,53
+La Salle,5,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,264,15,168,81
+La Salle,5,County Tax Assessor-Collector,,,Under Votes,40,5,21,14
+La Salle,5,County Tax Assessor-Collector,,,Over Votes,1,0,0,1
+La Salle,5,Constable,"Precinct 1, 5 & 6",DEM,"Humberto R. ""Bear"" Gonzalez, Jr.",321,16,213,92
+La Salle,5,Constable,"Precinct 1, 5 & 6",,Under Votes,152,12,83,57
+La Salle,5,Constable,"Precinct 1, 5 & 6",,Over Votes,0,0,0,0
+La Salle,6,Registered Voters,,,,440,,,
+La Salle,6,Ballots Cast,,,,259,,,
+La Salle,6,President,,REP,Donald J. Trump JD Vance,125,4,93,28
+La Salle,6,President,,DEM,Kamala D. Harris Tim Walz,121,14,71,36
+La Salle,6,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+La Salle,6,President,,GRN,Jill Stein Rudolph Ware,1,1,0,0
+La Salle,6,President,,,Cherunda Fox/Harlan McVay (W),0,0,0,0
+La Salle,6,President,,,Claudia De La Cruz/Karina Garcia (W),0,0,0,0
+La Salle,6,President,,,Cornel West/Melina Abdullah (W),0,0,0,0
+La Salle,6,President,,,Jessie Cuellar/Wesley Lasley (W),0,0,0,0
+La Salle,6,President,,,Peter Sonski/Lauren Onak (W),0,0,0,0
+La Salle,6,President,,,Shiva Ayyadurai/Crystal Ellis (W),0,0,0,0
+La Salle,6,President,,,Under Votes,11,1,8,2
+La Salle,6,President,,,Over Votes,1,0,1,0
+La Salle,6,U.S. Senate,,REP,Ted Cruz,111,4,84,23
+La Salle,6,U.S. Senate,,DEM,Colin Allred,123,11,74,38
+La Salle,6,U.S. Senate,,LIB,Ted Brown,5,1,3,1
+La Salle,6,U.S. Senate,,,Analisa Roche (W),0,0,0,0
+La Salle,6,U.S. Senate,,,Tracy Andrus (W),0,0,0,0
+La Salle,6,U.S. Senate,,,Under Votes,20,4,12,4
+La Salle,6,U.S. Senate,,,Over Votes,0,0,0,0
+La Salle,6,U.S. House,23,REP,Tony Gonzales,131,2,99,30
+La Salle,6,U.S. House,23,DEM,S. Limon,90,11,53,26
+La Salle,6,U.S. House,23,,Under Votes,38,7,21,10
+La Salle,6,U.S. House,23,,Over Votes,0,0,0,0
+La Salle,6,Railroad Commissioner,,REP,Christi Craddick,99,4,73,22
+La Salle,6,Railroad Commissioner,,DEM,Katherine Culbert,96,9,60,27
+La Salle,6,Railroad Commissioner,,LIB,Hawk Dunlap,6,1,3,2
+La Salle,6,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2
+La Salle,6,Railroad Commissioner,,,Richard McKibbin (W),0,0,0,0
+La Salle,6,Railroad Commissioner,,,Under Votes,51,6,32,13
+La Salle,6,Railroad Commissioner,,,Over Votes,1,0,1,0
+La Salle,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,104,4,79,21
+La Salle,6,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,103,10,62,31
+La Salle,6,"Justice, Supreme Court, Place 2",,,Under Votes,52,6,32,14
+La Salle,6,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+La Salle,6,"Justice, Supreme Court, Place 4",,REP,John Devine,97,4,73,20
+La Salle,6,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,108,10,66,32
+La Salle,6,"Justice, Supreme Court, Place 4",,,Under Votes,54,6,34,14
+La Salle,6,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+La Salle,6,"Justice, Supreme Court, Place 6",,REP,Jane Bland,100,4,74,22
+La Salle,6,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,102,10,62,30
+La Salle,6,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,2,0,1,1
+La Salle,6,"Justice, Supreme Court, Place 6",,,Under Votes,55,6,36,13
+La Salle,6,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,100,4,73,23
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,104,10,64,30
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,55,6,36,13
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,107,4,80,23
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,99,10,60,29
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,53,6,33,14
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,101,4,75,22
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,99,10,61,28
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,59,6,37,16
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+La Salle,6,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,100,4,76,20
+La Salle,6,"Member, State Board of Education",1,DEM,Gustavo Reveles,106,10,64,32
+La Salle,6,"Member, State Board of Education",1,,Under Votes,53,6,33,14
+La Salle,6,"Member, State Board of Education",1,,Over Votes,0,0,0,0
+La Salle,6,State House,31,REP,Ryan Guillen,145,6,102,37
+La Salle,6,State House,31,,Under Votes,114,14,71,29
+La Salle,6,State House,31,,Over Votes,0,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,143,10,95,38
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,116,10,78,28
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,100,4,76,20
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,105,9,66,30
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,53,6,31,16
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,1,1,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,95,4,74,17
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,103,10,61,32
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,61,6,38,17
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,92,4,72,16
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,107,10,65,32
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,60,6,36,18
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,131,6,94,31
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,128,14,79,35
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+La Salle,6,"District Attorney, 81st Judicial District",,REP,Audrey Gossett Louis,136,6,99,31
+La Salle,6,"District Attorney, 81st Judicial District",,,Under Votes,123,14,74,35
+La Salle,6,"District Attorney, 81st Judicial District",,,Over Votes,0,0,0,0
+La Salle,6,County Attorney,,DEM,Elizabeth Martinez,157,13,105,39
+La Salle,6,County Attorney,,,Under Votes,102,7,68,27
+La Salle,6,County Attorney,,,Over Votes,0,0,0,0
+La Salle,6,Sheriff,,REP,Miguel Rodriguez,82,3,60,19
+La Salle,6,Sheriff,,DEM,"Hector ""Tau"" Ramirez Jr",163,17,102,44
+La Salle,6,Sheriff,,,Guy Megliorino (W),6,0,5,1
+La Salle,6,Sheriff,,,Under Votes,6,0,4,2
+La Salle,6,Sheriff,,,Over Votes,2,0,2,0
+La Salle,6,County Tax Assessor-Collector,,REP,Myrna Ruiz-Kay,87,6,63,18
+La Salle,6,County Tax Assessor-Collector,,DEM,Dora A. Gonzales,159,14,102,43
+La Salle,6,County Tax Assessor-Collector,,,Under Votes,13,0,8,5
+La Salle,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+La Salle,6,Constable,"Precinct 1, 5 & 6",DEM,"Humberto R. ""Bear"" Gonzalez, Jr.",182,14,119,49
+La Salle,6,Constable,"Precinct 1, 5 & 6",,Under Votes,77,6,54,17
+La Salle,6,Constable,"Precinct 1, 5 & 6",,Over Votes,0,0,0,0
