@@ -1,0 +1,727 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Ward,1E,"Registered Voters",,,,"1318",,,
+Ward,1E,"Ballots Cast",,,,"592",,,
+Ward,1E,"President",,REP,"Donald J. Trump",410,5,269,136
+Ward,1E,"President",,DEM,"Kamala D. Harris",162,7,99,56
+Ward,1E,"President",,LIB,"Chase Oliver",2,0,2,0
+Ward,1E,"President",,GRN,"Jill Stein",1,0,1,0
+Ward,1E,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,1E,"President",,,"Under Votes",7,0,3,4
+Ward,1E,"President",,,"Over Votes",10,1,7,2
+Ward,1E,"U.S. Senate",,REP,"Ted Cruz",375,3,251,121
+Ward,1E,"U.S. Senate",,DEM,"Colin Allred",188,10,111,67
+Ward,1E,"U.S. Senate",,LIB,"Ted Brown",12,0,9,3
+Ward,1E,"U.S. Senate",,,"Under Votes",17,0,10,7
+Ward,1E,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ward,1E,"U.S. House",23,REP,"Tony Gonzales",407,4,268,135
+Ward,1E,"U.S. House",23,DEM,"S. Limon",155,9,93,53
+Ward,1E,"U.S. House",23,,"Under Votes",29,0,19,10
+Ward,1E,"U.S. House",23,,"Over Votes",1,0,1,0
+Ward,1E,"Railroad Commissioner",,REP,"Christi Craddick",358,5,239,114
+Ward,1E,"Railroad Commissioner",,DEM,"Katherine Culbert",140,8,83,49
+Ward,1E,"Railroad Commissioner",,LIB,"Hawk Dunlap",31,0,19,12
+Ward,1E,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,0,10,5
+Ward,1E,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,1E,"Railroad Commissioner",,,"Under Votes",42,0,24,18
+Ward,1E,"Railroad Commissioner",,,"Over Votes",6,0,6,0
+Ward,1E,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",382,4,255,123
+Ward,1E,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",161,9,96,56
+Ward,1E,"Justice, Supreme Court, Place 2",,,"Under Votes",49,0,30,19
+Ward,1E,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,1E,"Justice, Supreme Court, Place 4",,REP,"John Devine",367,4,243,120
+Ward,1E,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",163,9,98,56
+Ward,1E,"Justice, Supreme Court, Place 4",,,"Under Votes",60,0,38,22
+Ward,1E,"Justice, Supreme Court, Place 4",,,"Over Votes",2,0,2,0
+Ward,1E,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",374,3,252,119
+Ward,1E,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",156,10,92,54
+Ward,1E,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",15,0,9,6
+Ward,1E,"Justice, Supreme Court, Place 6",,,"Under Votes",47,0,28,19
+Ward,1E,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Ward,1E,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",380,3,254,123
+Ward,1E,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",162,10,98,54
+Ward,1E,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",48,0,28,20
+Ward,1E,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",2,0,1,1
+Ward,1E,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",377,3,250,124
+Ward,1E,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",162,10,99,53
+Ward,1E,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",52,0,31,21
+Ward,1E,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",1,0,1,0
+Ward,1E,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",387,6,254,127
+Ward,1E,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",146,7,90,49
+Ward,1E,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",59,0,37,22
+Ward,1E,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,1E,"Member, State Board of Education",15,REP,"Aaron Kinsey",358,3,238,117
+Ward,1E,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",166,8,101,57
+Ward,1E,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",14,0,6,8
+Ward,1E,"Member, State Board of Education",15,,"Under Votes",54,2,36,16
+Ward,1E,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Ward,1E,"State House",81,REP,"Brooks Landgraf",448,7,284,157
+Ward,1E,"State House",81,,"Under Votes",144,6,97,41
+Ward,1E,"State House",81,,"Over Votes",0,0,0,0
+Ward,1E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",312,8,185,119
+Ward,1E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",280,5,196,79
+Ward,1E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,1E,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",302,8,179,115
+Ward,1E,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",290,5,202,83
+Ward,1E,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,1E,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",296,8,175,113
+Ward,1E,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",296,5,206,85
+Ward,1E,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,1E,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",405,3,260,142
+Ward,1E,"District Judge, 143rd Judicial District",,,"Under Votes",187,10,121,56
+Ward,1E,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,1E,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",325,4,207,114
+Ward,1E,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",216,9,140,67
+Ward,1E,"District Attorney, 143rd Judicial District",,,"Under Votes",49,0,33,16
+Ward,1E,"District Attorney, 143rd Judicial District",,,"Over Votes",2,0,1,1
+Ward,1E,"County Attorney",,REP,"Justin G. Till",420,4,268,148
+Ward,1E,"County Attorney",,,"Under Votes",172,9,113,50
+Ward,1E,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,1E,"Sheriff",,REP,"Micheal C. Franco",454,8,289,157
+Ward,1E,"Sheriff",,,"Under Votes",138,5,92,41
+Ward,1E,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,1E,"County Tax Assessor-Collector",,REP,"Vicki Heflin",478,8,304,166
+Ward,1E,"County Tax Assessor-Collector",,,"Under Votes",114,5,77,32
+Ward,1E,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,1E,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",432,4,274,154
+Ward,1E,"County Treasurer, Unexpired Term",,,"Under Votes",160,9,107,44
+Ward,1E,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,1E,"County Commissioner",1,REP,"Guy Thames",369,3,250,116
+Ward,1E,"County Commissioner",1,DEM,"Jubentino ""Tino"" Sanchez",180,10,103,67
+Ward,1E,"County Commissioner",1,,"Under Votes",42,0,28,14
+Ward,1E,"County Commissioner",1,,"Over Votes",1,0,0,1
+Ward,1E,"Constable","1 & 4",REP,"Ricky Allen",423,5,272,146
+Ward,1E,"Constable","1 & 4",,"Under Votes",169,8,109,52
+Ward,1E,"Constable","1 & 4",,"Over Votes",0,0,0,0
+Ward,1W,"Registered Voters",,,,"284",,,
+Ward,1W,"Ballots Cast",,,,"148",,,
+Ward,1W,"President",,REP,"Donald J. Trump",76,2,21,53
+Ward,1W,"President",,DEM,"Kamala D. Harris",66,3,11,52
+Ward,1W,"President",,LIB,"Chase Oliver",0,0,0,0
+Ward,1W,"President",,GRN,"Jill Stein",0,0,0,0
+Ward,1W,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,1W,"President",,,"Under Votes",4,0,0,4
+Ward,1W,"President",,,"Over Votes",2,1,0,1
+Ward,1W,"U.S. Senate",,REP,"Ted Cruz",62,1,19,42
+Ward,1W,"U.S. Senate",,DEM,"Colin Allred",70,5,11,54
+Ward,1W,"U.S. Senate",,LIB,"Ted Brown",4,0,1,3
+Ward,1W,"U.S. Senate",,,"Under Votes",12,0,1,11
+Ward,1W,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ward,1W,"U.S. House",23,REP,"Tony Gonzales",72,2,20,50
+Ward,1W,"U.S. House",23,DEM,"S. Limon",57,4,9,44
+Ward,1W,"U.S. House",23,,"Under Votes",19,0,3,16
+Ward,1W,"U.S. House",23,,"Over Votes",0,0,0,0
+Ward,1W,"Railroad Commissioner",,REP,"Christi Craddick",52,1,16,35
+Ward,1W,"Railroad Commissioner",,DEM,"Katherine Culbert",61,5,11,45
+Ward,1W,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,3,3
+Ward,1W,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,0,11
+Ward,1W,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,1W,"Railroad Commissioner",,,"Under Votes",18,0,2,16
+Ward,1W,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ward,1W,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",64,1,20,43
+Ward,1W,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",58,5,8,45
+Ward,1W,"Justice, Supreme Court, Place 2",,,"Under Votes",26,0,4,22
+Ward,1W,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,1W,"Justice, Supreme Court, Place 4",,REP,"John Devine",57,1,20,36
+Ward,1W,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",70,5,9,56
+Ward,1W,"Justice, Supreme Court, Place 4",,,"Under Votes",21,0,3,18
+Ward,1W,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,1W,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",57,1,19,37
+Ward,1W,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",65,5,9,51
+Ward,1W,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,0,1,5
+Ward,1W,"Justice, Supreme Court, Place 6",,,"Under Votes",20,0,3,17
+Ward,1W,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Ward,1W,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",58,1,20,37
+Ward,1W,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",69,5,9,55
+Ward,1W,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",21,0,3,18
+Ward,1W,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Ward,1W,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",59,1,20,38
+Ward,1W,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",66,5,8,53
+Ward,1W,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",23,0,4,19
+Ward,1W,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Ward,1W,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",60,1,20,39
+Ward,1W,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",65,5,8,52
+Ward,1W,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",23,0,4,19
+Ward,1W,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,1W,"Member, State Board of Education",15,REP,"Aaron Kinsey",56,1,19,36
+Ward,1W,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",66,5,10,51
+Ward,1W,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",5,0,1,4
+Ward,1W,"Member, State Board of Education",15,,"Under Votes",20,0,2,18
+Ward,1W,"Member, State Board of Education",15,,"Over Votes",1,0,0,1
+Ward,1W,"State House",81,REP,"Brooks Landgraf",85,4,23,58
+Ward,1W,"State House",81,,"Under Votes",63,2,9,52
+Ward,1W,"State House",81,,"Over Votes",0,0,0,0
+Ward,1W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",79,6,11,62
+Ward,1W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",69,0,21,48
+Ward,1W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,1W,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",73,6,10,57
+Ward,1W,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",75,0,22,53
+Ward,1W,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,1W,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",72,6,11,55
+Ward,1W,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",76,0,21,55
+Ward,1W,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,1W,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",82,5,20,57
+Ward,1W,"District Judge, 143rd Judicial District",,,"Under Votes",66,1,12,53
+Ward,1W,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,1W,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",56,2,19,35
+Ward,1W,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",76,3,10,63
+Ward,1W,"District Attorney, 143rd Judicial District",,,"Under Votes",16,1,3,12
+Ward,1W,"District Attorney, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,1W,"County Attorney",,REP,"Justin G. Till",78,5,22,51
+Ward,1W,"County Attorney",,,"Under Votes",70,1,10,59
+Ward,1W,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,1W,"Sheriff",,REP,"Micheal C. Franco",97,6,22,69
+Ward,1W,"Sheriff",,,"Under Votes",51,0,10,41
+Ward,1W,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,1W,"County Tax Assessor-Collector",,REP,"Vicki Heflin",96,6,24,66
+Ward,1W,"County Tax Assessor-Collector",,,"Under Votes",52,0,8,44
+Ward,1W,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,1W,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",80,5,21,54
+Ward,1W,"County Treasurer, Unexpired Term",,,"Under Votes",68,1,11,56
+Ward,1W,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,1W,"County Commissioner",1,REP,"Guy Thames",47,1,18,28
+Ward,1W,"County Commissioner",1,DEM,"Jubentino ""Tino"" Sanchez",92,5,11,76
+Ward,1W,"County Commissioner",1,,"Under Votes",8,0,3,5
+Ward,1W,"County Commissioner",1,,"Over Votes",1,0,0,1
+Ward,1W,"Constable","1 & 4",REP,"Ricky Allen",81,4,22,55
+Ward,1W,"Constable","1 & 4",,"Under Votes",67,2,10,55
+Ward,1W,"Constable","1 & 4",,"Over Votes",0,0,0,0
+Ward,2,"Registered Voters",,,,"1981",,,
+Ward,2,"Ballots Cast",,,,"1251",,,
+Ward,2,"President",,REP,"Donald J. Trump",1037,17,791,229
+Ward,2,"President",,DEM,"Kamala D. Harris",186,17,106,63
+Ward,2,"President",,LIB,"Chase Oliver",4,0,2,2
+Ward,2,"President",,GRN,"Jill Stein",3,1,1,1
+Ward,2,"President",,,"Jessie Cuellar",1,0,1,0
+Ward,2,"President",,,"Under Votes",10,0,5,5
+Ward,2,"President",,,"Over Votes",10,1,9,0
+Ward,2,"U.S. Senate",,REP,"Ted Cruz",993,17,765,211
+Ward,2,"U.S. Senate",,DEM,"Colin Allred",198,14,123,61
+Ward,2,"U.S. Senate",,LIB,"Ted Brown",25,1,9,15
+Ward,2,"U.S. Senate",,,"Under Votes",31,4,14,13
+Ward,2,"U.S. Senate",,,"Over Votes",4,0,4,0
+Ward,2,"U.S. House",23,REP,"Tony Gonzales",1049,18,802,229
+Ward,2,"U.S. House",23,DEM,"S. Limon",140,14,79,47
+Ward,2,"U.S. House",23,,"Under Votes",62,4,34,24
+Ward,2,"U.S. House",23,,"Over Votes",0,0,0,0
+Ward,2,"Railroad Commissioner",,REP,"Christi Craddick",918,13,697,208
+Ward,2,"Railroad Commissioner",,DEM,"Katherine Culbert",149,15,88,46
+Ward,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",86,2,66,18
+Ward,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",16,0,13,3
+Ward,2,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,2,"Railroad Commissioner",,,"Under Votes",79,6,48,25
+Ward,2,"Railroad Commissioner",,,"Over Votes",3,0,3,0
+Ward,2,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",994,15,758,221
+Ward,2,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",166,15,102,49
+Ward,2,"Justice, Supreme Court, Place 2",,,"Under Votes",91,6,55,30
+Ward,2,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,2,"Justice, Supreme Court, Place 4",,REP,"John Devine",962,16,735,211
+Ward,2,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",181,14,109,58
+Ward,2,"Justice, Supreme Court, Place 4",,,"Under Votes",107,6,70,31
+Ward,2,"Justice, Supreme Court, Place 4",,,"Over Votes",1,0,1,0
+Ward,2,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",957,15,733,209
+Ward,2,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",163,14,99,50
+Ward,2,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",34,1,25,8
+Ward,2,"Justice, Supreme Court, Place 6",,,"Under Votes",96,6,57,33
+Ward,2,"Justice, Supreme Court, Place 6",,,"Over Votes",1,0,1,0
+Ward,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",971,16,745,210
+Ward,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",179,14,107,58
+Ward,2,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",101,6,63,32
+Ward,2,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Ward,2,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",979,16,743,220
+Ward,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",170,15,107,48
+Ward,2,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",101,5,64,32
+Ward,2,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",1,0,1,0
+Ward,2,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1000,16,763,221
+Ward,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",150,14,88,48
+Ward,2,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",100,6,63,31
+Ward,2,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",1,0,1,0
+Ward,2,"Member, State Board of Education",15,REP,"Aaron Kinsey",914,14,700,200
+Ward,2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",189,15,117,57
+Ward,2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",29,0,20,9
+Ward,2,"Member, State Board of Education",15,,"Under Votes",113,7,74,32
+Ward,2,"Member, State Board of Education",15,,"Over Votes",6,0,4,2
+Ward,2,"State House",81,REP,"Brooks Landgraf",1074,22,804,248
+Ward,2,"State House",81,,"Under Votes",177,14,111,52
+Ward,2,"State House",81,,"Over Votes",0,0,0,0
+Ward,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",592,17,408,167
+Ward,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",659,19,507,133
+Ward,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,2,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",561,16,385,160
+Ward,2,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",690,20,530,140
+Ward,2,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,2,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",554,16,378,160
+Ward,2,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",697,20,537,140
+Ward,2,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,2,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",961,18,724,219
+Ward,2,"District Judge, 143rd Judicial District",,,"Under Votes",290,18,191,81
+Ward,2,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,2,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",870,15,660,195
+Ward,2,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",276,16,178,82
+Ward,2,"District Attorney, 143rd Judicial District",,,"Under Votes",100,4,73,23
+Ward,2,"District Attorney, 143rd Judicial District",,,"Over Votes",5,1,4,0
+Ward,2,"County Attorney",,REP,"Justin G. Till",1031,23,784,224
+Ward,2,"County Attorney",,,"Under Votes",220,13,131,76
+Ward,2,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,2,"Sheriff",,REP,"Micheal C. Franco",1061,24,796,241
+Ward,2,"Sheriff",,,"Under Votes",190,12,119,59
+Ward,2,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,2,"County Tax Assessor-Collector",,REP,"Vicki Heflin",1081,23,811,247
+Ward,2,"County Tax Assessor-Collector",,,"Under Votes",170,13,104,53
+Ward,2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,2,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",1025,22,772,231
+Ward,2,"County Treasurer, Unexpired Term",,,"Under Votes",226,14,143,69
+Ward,2,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,2,"Constable","2 & 3",REP,"James P ""Jimmy"" Hammond",1031,23,776,232
+Ward,2,"Constable","2 & 3",,"Under Votes",220,13,139,68
+Ward,2,"Constable","2 & 3",,"Over Votes",0,0,0,0
+Ward,3N,"Registered Voters",,,,"1570",,,
+Ward,3N,"Ballots Cast",,,,"881",,,
+Ward,3N,"President",,REP,"Donald J. Trump",784,11,563,210
+Ward,3N,"President",,DEM,"Kamala D. Harris",83,5,58,20
+Ward,3N,"President",,LIB,"Chase Oliver",7,0,4,3
+Ward,3N,"President",,GRN,"Jill Stein",1,0,1,0
+Ward,3N,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,3N,"President",,,"Under Votes",2,0,1,1
+Ward,3N,"President",,,"Over Votes",4,0,3,1
+Ward,3N,"U.S. Senate",,REP,"Ted Cruz",748,11,547,190
+Ward,3N,"U.S. Senate",,DEM,"Colin Allred",96,5,64,27
+Ward,3N,"U.S. Senate",,LIB,"Ted Brown",21,0,13,8
+Ward,3N,"U.S. Senate",,,"Under Votes",15,0,5,10
+Ward,3N,"U.S. Senate",,,"Over Votes",1,0,1,0
+Ward,3N,"U.S. House",23,REP,"Tony Gonzales",762,11,555,196
+Ward,3N,"U.S. House",23,DEM,"S. Limon",77,3,55,19
+Ward,3N,"U.S. House",23,,"Under Votes",42,2,20,20
+Ward,3N,"U.S. House",23,,"Over Votes",0,0,0,0
+Ward,3N,"Railroad Commissioner",,REP,"Christi Craddick",647,11,464,172
+Ward,3N,"Railroad Commissioner",,DEM,"Katherine Culbert",75,3,56,16
+Ward,3N,"Railroad Commissioner",,LIB,"Hawk Dunlap",101,0,77,24
+Ward,3N,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,2,5,6
+Ward,3N,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,3N,"Railroad Commissioner",,,"Under Votes",41,0,25,16
+Ward,3N,"Railroad Commissioner",,,"Over Votes",4,0,3,1
+Ward,3N,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",745,11,539,195
+Ward,3N,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",82,5,58,19
+Ward,3N,"Justice, Supreme Court, Place 2",,,"Under Votes",54,0,33,21
+Ward,3N,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,3N,"Justice, Supreme Court, Place 4",,REP,"John Devine",726,11,527,188
+Ward,3N,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",90,5,61,24
+Ward,3N,"Justice, Supreme Court, Place 4",,,"Under Votes",65,0,42,23
+Ward,3N,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,3N,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",707,11,514,182
+Ward,3N,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",85,4,59,22
+Ward,3N,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",29,0,20,9
+Ward,3N,"Justice, Supreme Court, Place 6",,,"Under Votes",58,1,35,22
+Ward,3N,"Justice, Supreme Court, Place 6",,,"Over Votes",2,0,2,0
+Ward,3N,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",717,11,521,185
+Ward,3N,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",100,4,67,29
+Ward,3N,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",63,1,42,20
+Ward,3N,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",1,0,0,1
+Ward,3N,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",740,10,535,195
+Ward,3N,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",84,5,56,23
+Ward,3N,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",57,1,39,17
+Ward,3N,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Ward,3N,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",739,11,531,197
+Ward,3N,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",82,4,59,19
+Ward,3N,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",60,1,40,19
+Ward,3N,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,3N,"Member, State Board of Education",15,REP,"Aaron Kinsey",688,12,498,178
+Ward,3N,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",94,4,65,25
+Ward,3N,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",32,0,19,13
+Ward,3N,"Member, State Board of Education",15,,"Under Votes",66,0,47,19
+Ward,3N,"Member, State Board of Education",15,,"Over Votes",1,0,1,0
+Ward,3N,"State House",81,REP,"Brooks Landgraf",762,12,550,200
+Ward,3N,"State House",81,,"Under Votes",119,4,80,35
+Ward,3N,"State House",81,,"Over Votes",0,0,0,0
+Ward,3N,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",373,6,250,117
+Ward,3N,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",508,10,380,118
+Ward,3N,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,3N,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",364,7,244,113
+Ward,3N,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",517,9,386,122
+Ward,3N,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,3N,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",361,7,243,111
+Ward,3N,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",520,9,387,124
+Ward,3N,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,3N,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",685,11,490,184
+Ward,3N,"District Judge, 143rd Judicial District",,,"Under Votes",196,5,140,51
+Ward,3N,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,3N,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",631,10,448,173
+Ward,3N,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",159,4,113,42
+Ward,3N,"District Attorney, 143rd Judicial District",,,"Under Votes",88,2,67,19
+Ward,3N,"District Attorney, 143rd Judicial District",,,"Over Votes",3,0,2,1
+Ward,3N,"County Attorney",,REP,"Justin G. Till",716,11,513,192
+Ward,3N,"County Attorney",,,"Under Votes",165,5,117,43
+Ward,3N,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,3N,"Sheriff",,REP,"Micheal C. Franco",741,12,532,197
+Ward,3N,"Sheriff",,,"Under Votes",140,4,98,38
+Ward,3N,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,3N,"County Tax Assessor-Collector",,REP,"Vicki Heflin",751,14,540,197
+Ward,3N,"County Tax Assessor-Collector",,,"Under Votes",130,2,90,38
+Ward,3N,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,3N,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",730,12,530,188
+Ward,3N,"County Treasurer, Unexpired Term",,,"Under Votes",151,4,100,47
+Ward,3N,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,3N,"County Commissioner",3,REP,"Billy Redmon",744,12,535,197
+Ward,3N,"County Commissioner",3,,"Under Votes",137,4,95,38
+Ward,3N,"County Commissioner",3,,"Over Votes",0,0,0,0
+Ward,3N,"Constable","2 & 3",REP,"James P ""Jimmy"" Hammond",725,13,525,187
+Ward,3N,"Constable","2 & 3",,"Under Votes",156,3,105,48
+Ward,3N,"Constable","2 & 3",,"Over Votes",0,0,0,0
+Ward,3S,"Registered Voters",,,,"371",,,
+Ward,3S,"Ballots Cast",,,,"178",,,
+Ward,3S,"President",,REP,"Donald J. Trump",148,1,58,89
+Ward,3S,"President",,DEM,"Kamala D. Harris",26,1,10,15
+Ward,3S,"President",,LIB,"Chase Oliver",0,0,0,0
+Ward,3S,"President",,GRN,"Jill Stein",1,0,0,1
+Ward,3S,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,3S,"President",,,"Under Votes",0,0,0,0
+Ward,3S,"President",,,"Over Votes",3,0,1,2
+Ward,3S,"U.S. Senate",,REP,"Ted Cruz",137,1,56,80
+Ward,3S,"U.S. Senate",,DEM,"Colin Allred",31,1,10,20
+Ward,3S,"U.S. Senate",,LIB,"Ted Brown",5,0,1,4
+Ward,3S,"U.S. Senate",,,"Under Votes",4,0,1,3
+Ward,3S,"U.S. Senate",,,"Over Votes",1,0,1,0
+Ward,3S,"U.S. House",23,REP,"Tony Gonzales",144,2,56,86
+Ward,3S,"U.S. House",23,DEM,"S. Limon",23,0,9,14
+Ward,3S,"U.S. House",23,,"Under Votes",11,0,4,7
+Ward,3S,"U.S. House",23,,"Over Votes",0,0,0,0
+Ward,3S,"Railroad Commissioner",,REP,"Christi Craddick",119,1,50,68
+Ward,3S,"Railroad Commissioner",,DEM,"Katherine Culbert",23,1,10,12
+Ward,3S,"Railroad Commissioner",,LIB,"Hawk Dunlap",24,0,6,18
+Ward,3S,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,0,2
+Ward,3S,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,3S,"Railroad Commissioner",,,"Under Votes",8,0,2,6
+Ward,3S,"Railroad Commissioner",,,"Over Votes",2,0,1,1
+Ward,3S,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",139,1,55,83
+Ward,3S,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",25,1,9,15
+Ward,3S,"Justice, Supreme Court, Place 2",,,"Under Votes",14,0,5,9
+Ward,3S,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,3S,"Justice, Supreme Court, Place 4",,REP,"John Devine",138,1,54,83
+Ward,3S,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",24,1,10,13
+Ward,3S,"Justice, Supreme Court, Place 4",,,"Under Votes",16,0,5,11
+Ward,3S,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,3S,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",132,1,50,81
+Ward,3S,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",22,1,9,12
+Ward,3S,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",4,0,2,2
+Ward,3S,"Justice, Supreme Court, Place 6",,,"Under Votes",19,0,8,11
+Ward,3S,"Justice, Supreme Court, Place 6",,,"Over Votes",1,0,0,1
+Ward,3S,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",135,1,51,83
+Ward,3S,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",27,1,10,16
+Ward,3S,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",16,0,8,8
+Ward,3S,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Ward,3S,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",139,1,52,86
+Ward,3S,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",20,1,8,11
+Ward,3S,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",19,0,9,10
+Ward,3S,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Ward,3S,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",137,1,53,83
+Ward,3S,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",21,1,8,12
+Ward,3S,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",20,0,8,12
+Ward,3S,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,3S,"Member, State Board of Education",15,REP,"Aaron Kinsey",123,1,48,74
+Ward,3S,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",23,1,8,14
+Ward,3S,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",8,0,2,6
+Ward,3S,"Member, State Board of Education",15,,"Under Votes",23,0,10,13
+Ward,3S,"Member, State Board of Education",15,,"Over Votes",1,0,1,0
+Ward,3S,"State House",81,REP,"Brooks Landgraf",147,1,55,91
+Ward,3S,"State House",81,,"Under Votes",31,1,14,16
+Ward,3S,"State House",81,,"Over Votes",0,0,0,0
+Ward,3S,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",76,1,29,46
+Ward,3S,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",102,1,40,61
+Ward,3S,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,3S,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",75,1,27,47
+Ward,3S,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",103,1,42,60
+Ward,3S,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,3S,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",72,1,26,45
+Ward,3S,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",106,1,43,62
+Ward,3S,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,3S,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",129,0,50,79
+Ward,3S,"District Judge, 143rd Judicial District",,,"Under Votes",49,2,19,28
+Ward,3S,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,3S,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",121,1,42,78
+Ward,3S,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",39,1,18,20
+Ward,3S,"District Attorney, 143rd Judicial District",,,"Under Votes",17,0,9,8
+Ward,3S,"District Attorney, 143rd Judicial District",,,"Over Votes",1,0,0,1
+Ward,3S,"County Attorney",,REP,"Justin G. Till",133,1,52,80
+Ward,3S,"County Attorney",,,"Under Votes",45,1,17,27
+Ward,3S,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,3S,"Sheriff",,REP,"Micheal C. Franco",144,1,53,90
+Ward,3S,"Sheriff",,,"Under Votes",34,1,16,17
+Ward,3S,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,3S,"County Tax Assessor-Collector",,REP,"Vicki Heflin",148,1,56,91
+Ward,3S,"County Tax Assessor-Collector",,,"Under Votes",30,1,13,16
+Ward,3S,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,3S,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",133,1,50,82
+Ward,3S,"County Treasurer, Unexpired Term",,,"Under Votes",45,1,19,25
+Ward,3S,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,3S,"County Commissioner",3,REP,"Billy Redmon",148,1,55,92
+Ward,3S,"County Commissioner",3,,"Under Votes",30,1,14,15
+Ward,3S,"County Commissioner",3,,"Over Votes",0,0,0,0
+Ward,3S,"Constable","2 & 3",REP,"James P ""Jimmy"" Hammond",136,1,52,83
+Ward,3S,"Constable","2 & 3",,"Under Votes",42,1,17,24
+Ward,3S,"Constable","2 & 3",,"Over Votes",0,0,0,0
+Ward,4E,"Registered Voters",,,,"1173",,,
+Ward,4E,"Ballots Cast",,,,"570",,,
+Ward,4E,"President",,REP,"Donald J. Trump",476,14,334,128
+Ward,4E,"President",,DEM,"Kamala D. Harris",81,8,44,29
+Ward,4E,"President",,LIB,"Chase Oliver",1,0,1,0
+Ward,4E,"President",,GRN,"Jill Stein",0,0,0,0
+Ward,4E,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,4E,"President",,,"Under Votes",4,0,3,1
+Ward,4E,"President",,,"Over Votes",8,1,6,1
+Ward,4E,"U.S. Senate",,REP,"Ted Cruz",441,14,319,108
+Ward,4E,"U.S. Senate",,DEM,"Colin Allred",96,8,50,38
+Ward,4E,"U.S. Senate",,LIB,"Ted Brown",14,0,9,5
+Ward,4E,"U.S. Senate",,,"Under Votes",19,1,10,8
+Ward,4E,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ward,4E,"U.S. House",23,REP,"Tony Gonzales",456,17,324,115
+Ward,4E,"U.S. House",23,DEM,"S. Limon",74,6,42,26
+Ward,4E,"U.S. House",23,,"Under Votes",39,0,22,17
+Ward,4E,"U.S. House",23,,"Over Votes",1,0,0,1
+Ward,4E,"Railroad Commissioner",,REP,"Christi Craddick",396,13,292,91
+Ward,4E,"Railroad Commissioner",,DEM,"Katherine Culbert",76,7,43,26
+Ward,4E,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,0,22,15
+Ward,4E,"Railroad Commissioner",,GRN,"Eddie Espinoza",21,2,10,9
+Ward,4E,"Railroad Commissioner",,,"Richard McKibbin",1,1,0,0
+Ward,4E,"Railroad Commissioner",,,"Under Votes",36,0,18,18
+Ward,4E,"Railroad Commissioner",,,"Over Votes",3,0,3,0
+Ward,4E,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",435,15,315,105
+Ward,4E,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",87,7,47,33
+Ward,4E,"Justice, Supreme Court, Place 2",,,"Under Votes",48,1,26,21
+Ward,4E,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,4E,"Justice, Supreme Court, Place 4",,REP,"John Devine",428,15,309,104
+Ward,4E,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",90,7,48,35
+Ward,4E,"Justice, Supreme Court, Place 4",,,"Under Votes",52,1,31,20
+Ward,4E,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,4E,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",422,14,311,97
+Ward,4E,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",80,7,43,30
+Ward,4E,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",19,1,7,11
+Ward,4E,"Justice, Supreme Court, Place 6",,,"Under Votes",48,1,26,21
+Ward,4E,"Justice, Supreme Court, Place 6",,,"Over Votes",1,0,1,0
+Ward,4E,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",424,14,307,103
+Ward,4E,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",96,8,52,36
+Ward,4E,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",48,1,28,19
+Ward,4E,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",2,0,1,1
+Ward,4E,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",433,14,317,102
+Ward,4E,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",88,8,45,35
+Ward,4E,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",49,1,26,22
+Ward,4E,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Ward,4E,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",442,15,319,108
+Ward,4E,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",79,6,43,30
+Ward,4E,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",49,2,26,21
+Ward,4E,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,4E,"Member, State Board of Education",15,REP,"Aaron Kinsey",414,16,298,100
+Ward,4E,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",83,7,47,29
+Ward,4E,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",16,0,9,7
+Ward,4E,"Member, State Board of Education",15,,"Under Votes",56,0,33,23
+Ward,4E,"Member, State Board of Education",15,,"Over Votes",1,0,1,0
+Ward,4E,"State House",81,REP,"Brooks Landgraf",476,16,335,125
+Ward,4E,"State House",81,,"Under Votes",94,7,53,34
+Ward,4E,"State House",81,,"Over Votes",0,0,0,0
+Ward,4E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",246,12,156,78
+Ward,4E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",324,11,232,81
+Ward,4E,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4E,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",247,11,158,78
+Ward,4E,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",323,12,230,81
+Ward,4E,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,4E,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",234,12,147,75
+Ward,4E,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",336,11,241,84
+Ward,4E,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,4E,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",436,15,311,110
+Ward,4E,"District Judge, 143rd Judicial District",,,"Under Votes",134,8,77,49
+Ward,4E,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,4E,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",390,10,279,101
+Ward,4E,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",125,11,77,37
+Ward,4E,"District Attorney, 143rd Judicial District",,,"Under Votes",54,2,31,21
+Ward,4E,"District Attorney, 143rd Judicial District",,,"Over Votes",1,0,1,0
+Ward,4E,"County Attorney",,REP,"Justin G. Till",445,17,312,116
+Ward,4E,"County Attorney",,,"Under Votes",125,6,76,43
+Ward,4E,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,4E,"Sheriff",,REP,"Micheal C. Franco",457,17,316,124
+Ward,4E,"Sheriff",,,"Under Votes",113,6,72,35
+Ward,4E,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,4E,"County Tax Assessor-Collector",,REP,"Vicki Heflin",471,18,330,123
+Ward,4E,"County Tax Assessor-Collector",,,"Under Votes",99,5,58,36
+Ward,4E,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,4E,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",443,17,312,114
+Ward,4E,"County Treasurer, Unexpired Term",,,"Under Votes",127,6,76,45
+Ward,4E,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4E,"Constable","1 & 4",REP,"Ricky Allen",437,17,308,112
+Ward,4E,"Constable","1 & 4",,"Under Votes",133,6,80,47
+Ward,4E,"Constable","1 & 4",,"Over Votes",0,0,0,0
+Ward,4M,"Registered Voters",,,,"253",,,
+Ward,4M,"Ballots Cast",,,,"144",,,
+Ward,4M,"President",,REP,"Donald J. Trump",123,0,51,72
+Ward,4M,"President",,DEM,"Kamala D. Harris",15,0,6,9
+Ward,4M,"President",,LIB,"Chase Oliver",0,0,0,0
+Ward,4M,"President",,GRN,"Jill Stein",0,0,0,0
+Ward,4M,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,4M,"President",,,"Under Votes",0,0,0,0
+Ward,4M,"President",,,"Over Votes",6,0,1,5
+Ward,4M,"U.S. Senate",,REP,"Ted Cruz",114,0,50,64
+Ward,4M,"U.S. Senate",,DEM,"Colin Allred",22,0,6,16
+Ward,4M,"U.S. Senate",,LIB,"Ted Brown",5,0,1,4
+Ward,4M,"U.S. Senate",,,"Under Votes",2,0,0,2
+Ward,4M,"U.S. Senate",,,"Over Votes",1,0,1,0
+Ward,4M,"U.S. House",23,REP,"Tony Gonzales",121,0,52,69
+Ward,4M,"U.S. House",23,DEM,"S. Limon",16,0,4,12
+Ward,4M,"U.S. House",23,,"Under Votes",6,0,1,5
+Ward,4M,"U.S. House",23,,"Over Votes",1,0,1,0
+Ward,4M,"Railroad Commissioner",,REP,"Christi Craddick",98,0,40,58
+Ward,4M,"Railroad Commissioner",,DEM,"Katherine Culbert",16,0,5,11
+Ward,4M,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,8,7
+Ward,4M,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,2,3
+Ward,4M,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,4M,"Railroad Commissioner",,,"Under Votes",6,0,1,5
+Ward,4M,"Railroad Commissioner",,,"Over Votes",4,0,2,2
+Ward,4M,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",117,0,49,68
+Ward,4M,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",19,0,8,11
+Ward,4M,"Justice, Supreme Court, Place 2",,,"Under Votes",8,0,1,7
+Ward,4M,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,4M,"Justice, Supreme Court, Place 4",,REP,"John Devine",116,0,49,67
+Ward,4M,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",21,0,8,13
+Ward,4M,"Justice, Supreme Court, Place 4",,,"Under Votes",7,0,1,6
+Ward,4M,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,4M,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",113,0,47,66
+Ward,4M,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",19,0,6,13
+Ward,4M,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",5,0,3,2
+Ward,4M,"Justice, Supreme Court, Place 6",,,"Under Votes",7,0,2,5
+Ward,4M,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Ward,4M,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",117,0,48,69
+Ward,4M,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",21,0,9,12
+Ward,4M,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,1,5
+Ward,4M,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Ward,4M,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",116,0,50,66
+Ward,4M,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",20,0,7,13
+Ward,4M,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",7,0,1,6
+Ward,4M,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",1,0,0,1
+Ward,4M,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",117,0,50,67
+Ward,4M,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",20,0,7,13
+Ward,4M,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",7,0,1,6
+Ward,4M,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,4M,"Member, State Board of Education",15,REP,"Aaron Kinsey",105,0,42,63
+Ward,4M,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",23,0,9,14
+Ward,4M,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",4,0,3,1
+Ward,4M,"Member, State Board of Education",15,,"Under Votes",11,0,4,7
+Ward,4M,"Member, State Board of Education",15,,"Over Votes",1,0,0,1
+Ward,4M,"State House",81,REP,"Brooks Landgraf",121,0,52,69
+Ward,4M,"State House",81,,"Under Votes",23,0,6,17
+Ward,4M,"State House",81,,"Over Votes",0,0,0,0
+Ward,4M,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",67,0,24,43
+Ward,4M,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",77,0,34,43
+Ward,4M,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4M,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",65,0,23,42
+Ward,4M,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",79,0,35,44
+Ward,4M,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,4M,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",66,0,24,42
+Ward,4M,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",78,0,34,44
+Ward,4M,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,4M,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",118,0,52,66
+Ward,4M,"District Judge, 143rd Judicial District",,,"Under Votes",26,0,6,20
+Ward,4M,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,4M,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",103,0,44,59
+Ward,4M,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",29,0,10,19
+Ward,4M,"District Attorney, 143rd Judicial District",,,"Under Votes",12,0,4,8
+Ward,4M,"District Attorney, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,4M,"County Attorney",,REP,"Justin G. Till",119,0,51,68
+Ward,4M,"County Attorney",,,"Under Votes",25,0,7,18
+Ward,4M,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,4M,"Sheriff",,REP,"Micheal C. Franco",124,0,52,72
+Ward,4M,"Sheriff",,,"Under Votes",20,0,6,14
+Ward,4M,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,4M,"County Tax Assessor-Collector",,REP,"Vicki Heflin",125,0,52,73
+Ward,4M,"County Tax Assessor-Collector",,,"Under Votes",19,0,6,13
+Ward,4M,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,4M,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",123,0,52,71
+Ward,4M,"County Treasurer, Unexpired Term",,,"Under Votes",21,0,6,15
+Ward,4M,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4M,"Constable","1 & 4",REP,"Ricky Allen",118,0,49,69
+Ward,4M,"Constable","1 & 4",,"Under Votes",26,0,9,17
+Ward,4M,"Constable","1 & 4",,"Over Votes",0,0,0,0
+Ward,4W,"Registered Voters",,,,"108",,,
+Ward,4W,"Ballots Cast",,,,"73",,,
+Ward,4W,"President",,REP,"Donald J. Trump",61,0,27,34
+Ward,4W,"President",,DEM,"Kamala D. Harris",8,1,4,3
+Ward,4W,"President",,LIB,"Chase Oliver",2,0,0,2
+Ward,4W,"President",,GRN,"Jill Stein",0,0,0,0
+Ward,4W,"President",,,"Jessie Cuellar",0,0,0,0
+Ward,4W,"President",,,"Under Votes",2,0,0,2
+Ward,4W,"President",,,"Over Votes",0,0,0,0
+Ward,4W,"U.S. Senate",,REP,"Ted Cruz",61,0,26,35
+Ward,4W,"U.S. Senate",,DEM,"Colin Allred",9,1,5,3
+Ward,4W,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Ward,4W,"U.S. Senate",,,"Under Votes",3,0,0,3
+Ward,4W,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ward,4W,"U.S. House",23,REP,"Tony Gonzales",61,0,26,35
+Ward,4W,"U.S. House",23,DEM,"S. Limon",7,1,3,3
+Ward,4W,"U.S. House",23,,"Under Votes",5,0,2,3
+Ward,4W,"U.S. House",23,,"Over Votes",0,0,0,0
+Ward,4W,"Railroad Commissioner",,REP,"Christi Craddick",53,0,23,30
+Ward,4W,"Railroad Commissioner",,DEM,"Katherine Culbert",7,1,3,3
+Ward,4W,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,2,5
+Ward,4W,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Ward,4W,"Railroad Commissioner",,,"Richard McKibbin",0,0,0,0
+Ward,4W,"Railroad Commissioner",,,"Under Votes",5,0,2,3
+Ward,4W,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ward,4W,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",60,0,25,35
+Ward,4W,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",9,1,4,4
+Ward,4W,"Justice, Supreme Court, Place 2",,,"Under Votes",4,0,2,2
+Ward,4W,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Ward,4W,"Justice, Supreme Court, Place 4",,REP,"John Devine",59,0,25,34
+Ward,4W,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",8,1,4,3
+Ward,4W,"Justice, Supreme Court, Place 4",,,"Under Votes",6,0,2,4
+Ward,4W,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Ward,4W,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",58,0,25,33
+Ward,4W,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",6,1,3,2
+Ward,4W,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",3,0,1,2
+Ward,4W,"Justice, Supreme Court, Place 6",,,"Under Votes",6,0,2,4
+Ward,4W,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Ward,4W,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",58,0,25,33
+Ward,4W,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",8,1,4,3
+Ward,4W,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",7,0,2,5
+Ward,4W,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Ward,4W,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",59,0,25,34
+Ward,4W,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",8,1,4,3
+Ward,4W,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",6,0,2,4
+Ward,4W,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Ward,4W,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",59,0,25,34
+Ward,4W,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",7,1,4,2
+Ward,4W,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",7,0,2,5
+Ward,4W,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Ward,4W,"Member, State Board of Education",15,REP,"Aaron Kinsey",60,0,25,35
+Ward,4W,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",7,1,3,3
+Ward,4W,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",1,0,1,0
+Ward,4W,"Member, State Board of Education",15,,"Under Votes",5,0,2,3
+Ward,4W,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Ward,4W,"State House",81,REP,"Brooks Landgraf",60,0,26,34
+Ward,4W,"State House",81,,"Under Votes",13,1,5,7
+Ward,4W,"State House",81,,"Over Votes",0,0,0,0
+Ward,4W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",32,1,18,13
+Ward,4W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Under Votes",41,0,13,28
+Ward,4W,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4W,"Justice, 8th Court of Appeals District, Place 2",,DEM,"Lisa Soto",31,1,18,12
+Ward,4W,"Justice, 8th Court of Appeals District, Place 2",,,"Under Votes",42,0,13,29
+Ward,4W,"Justice, 8th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Ward,4W,"Justice, 8th Court of Appeals District, Place 3",,DEM,"Gina M. Palafox",30,1,17,12
+Ward,4W,"Justice, 8th Court of Appeals District, Place 3",,,"Under Votes",43,0,14,29
+Ward,4W,"Justice, 8th Court of Appeals District, Place 3",,,"Over Votes",0,0,0,0
+Ward,4W,"District Judge, 143rd Judicial District",,REP,"Alan J. Nicholas",50,0,24,26
+Ward,4W,"District Judge, 143rd Judicial District",,,"Under Votes",23,1,7,15
+Ward,4W,"District Judge, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,4W,"District Attorney, 143rd Judicial District",,REP,"Sarah Stogner",49,0,22,27
+Ward,4W,"District Attorney, 143rd Judicial District",,DEM,"Randy Reynolds",17,1,7,9
+Ward,4W,"District Attorney, 143rd Judicial District",,,"Under Votes",7,0,2,5
+Ward,4W,"District Attorney, 143rd Judicial District",,,"Over Votes",0,0,0,0
+Ward,4W,"County Attorney",,REP,"Justin G. Till",56,0,27,29
+Ward,4W,"County Attorney",,,"Under Votes",17,1,4,12
+Ward,4W,"County Attorney",,,"Over Votes",0,0,0,0
+Ward,4W,"Sheriff",,REP,"Micheal C. Franco",59,0,27,32
+Ward,4W,"Sheriff",,,"Under Votes",14,1,4,9
+Ward,4W,"Sheriff",,,"Over Votes",0,0,0,0
+Ward,4W,"County Tax Assessor-Collector",,REP,"Vicki Heflin",60,0,27,33
+Ward,4W,"County Tax Assessor-Collector",,,"Under Votes",13,1,4,8
+Ward,4W,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ward,4W,"County Treasurer, Unexpired Term",,REP,"Loretta Pipkin",54,0,25,29
+Ward,4W,"County Treasurer, Unexpired Term",,,"Under Votes",19,1,6,12
+Ward,4W,"County Treasurer, Unexpired Term",,,"Over Votes",0,0,0,0
+Ward,4W,"Constable","1 & 4",REP,"Ricky Allen",54,0,27,27
+Ward,4W,"Constable","1 & 4",,"Under Votes",19,1,4,14
+Ward,4W,"Constable","1 & 4",,"Over Votes",0,0,0,0
