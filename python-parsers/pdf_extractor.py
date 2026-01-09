@@ -92,7 +92,7 @@ Return the CSV data:"""
         prompt,
         attachments=[llm.Attachment(path=pdf_path)],
         system="You are a precise data extraction assistant. Extract all data from the document completely.",
-#        max_tokens=32000
+        max_tokens=48000
     )
     return response.text()
 
