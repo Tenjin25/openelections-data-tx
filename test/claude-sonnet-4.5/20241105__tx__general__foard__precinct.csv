@@ -1,0 +1,187 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Foard,101,Ballots Cast,,,,121,1,103,15
+Foard,201,Ballots Cast,,,,175,4,129,41
+Foard,301,Ballots Cast,,,,119,1,105,13
+Foard,401,Ballots Cast,,,,134,2,103,28
+Foard,101,President and Vice President,,REP,Donald J. Trump JD Vance,94,1,85,8
+Foard,101,President and Vice President,,DEM,Kamala D. Harris Tim Walz,24,0,18,6
+Foard,101,President and Vice President,,GRN,Chase Oliver Mike ter Maat,0,0,0,0
+Foard,101,President and Vice President,,LIB,Jill Stein/Rudolph Ware,1,0,0,1
+Foard,101,President and Vice President,,IND,Shiva Ayyadurai Crystal Ellis (W),0,0,0,0
+Foard,101,President and Vice President,,IND,Jessie Cuellar Wesley Lasley (W),0,0,0,0
+Foard,101,President and Vice President,,IND,Claudia De la Cruz Karina Garcia (W),0,0,0,0
+Foard,101,President and Vice President,,IND,Cherunda Fox Harlan McVay (W),0,0,0,0
+Foard,101,President and Vice President,,IND,Peter Sonski Lauren Onak (W),0,0,0,0
+Foard,101,President and Vice President,,IND,Cornel West Melinda Abdullah (W),0,0,0,0
+Foard,201,President and Vice President,,REP,Donald J. Trump JD Vance,145,2,113,30
+Foard,201,President and Vice President,,DEM,Kamala D. Harris Tim Walz,26,2,15,9
+Foard,201,President and Vice President,,GRN,Chase Oliver Mike ter Maat,2,0,1,1
+Foard,201,President and Vice President,,LIB,Jill Stein/Rudolph Ware,1,0,0,1
+Foard,201,President and Vice President,,IND,Shiva Ayyadurai Crystal Ellis (W),0,0,0,0
+Foard,201,President and Vice President,,IND,Jessie Cuellar Wesley Lasley (W),0,0,0,0
+Foard,201,President and Vice President,,IND,Claudia De la Cruz Karina Garcia (W),0,0,0,0
+Foard,201,President and Vice President,,IND,Cherunda Fox Harlan McVay (W),0,0,0,0
+Foard,201,President and Vice President,,IND,Peter Sonski Lauren Onak (W),0,0,0,0
+Foard,201,President and Vice President,,IND,Cornel West Melinda Abdullah (W),0,0,0,0
+Foard,301,President and Vice President,,REP,Donald J. Trump JD Vance,100,1,90,9
+Foard,301,President and Vice President,,DEM,Kamala D. Harris Tim Walz,19,0,15,4
+Foard,301,President and Vice President,,GRN,Chase Oliver Mike ter Maat,0,0,0,0
+Foard,301,President and Vice President,,LIB,Jill Stein/Rudolph Ware,0,0,0,0
+Foard,301,President and Vice President,,IND,Shiva Ayyadurai Crystal Ellis (W),0,0,0,0
+Foard,301,President and Vice President,,IND,Jessie Cuellar Wesley Lasley (W),0,0,0,0
+Foard,301,President and Vice President,,IND,Claudia De la Cruz Karina Garcia (W),0,0,0,0
+Foard,301,President and Vice President,,IND,Cherunda Fox Harlan McVay (W),0,0,0,0
+Foard,301,President and Vice President,,IND,Peter Sonski Lauren Onak (W),0,0,0,0
+Foard,301,President and Vice President,,IND,Cornel West Melinda Abdullah (W),0,0,0,0
+Foard,401,President and Vice President,,REP,Donald J. Trump JD Vance,109,0,90,19
+Foard,401,President and Vice President,,DEM,Kamala D. Harris Tim Walz,23,2,12,9
+Foard,401,President and Vice President,,GRN,Chase Oliver Mike ter Maat,1,0,1,0
+Foard,401,President and Vice President,,LIB,Jill Stein/Rudolph Ware,0,0,0,0
+Foard,401,President and Vice President,,IND,Shiva Ayyadurai Crystal Ellis (W),0,0,0,0
+Foard,401,President and Vice President,,IND,Jessie Cuellar Wesley Lasley (W),0,0,0,0
+Foard,401,President and Vice President,,IND,Claudia De la Cruz Karina Garcia (W),0,0,0,0
+Foard,401,President and Vice President,,IND,Cherunda Fox Harlan McVay (W),0,0,0,0
+Foard,401,President and Vice President,,IND,Peter Sonski Lauren Onak (W),0,0,0,0
+Foard,401,President and Vice President,,IND,Cornel West Melinda Abdullah (W),0,0,0,0
+Foard,101,United States Senator,,REP,Ted Cruz,92,0,83,9
+Foard,101,United States Senator,,DEM,Colin Allred,27,1,20,6
+Foard,101,United States Senator,,LIB,Ted Brown,1,0,1,0
+Foard,101,United States Senator,,IND,Tracy Andrus (W),0,0,0,0
+Foard,101,United States Senator,,IND,Analisa Roche (W),0,0,0,0
+Foard,201,United States Senator,,REP,Ted Cruz,144,2,112,30
+Foard,201,United States Senator,,DEM,Colin Allred,26,2,14,10
+Foard,201,United States Senator,,LIB,Ted Brown,2,0,1,1
+Foard,201,United States Senator,,IND,Tracy Andrus (W),0,0,0,0
+Foard,201,United States Senator,,IND,Analisa Roche (W),0,0,0,0
+Foard,301,United States Senator,,REP,Ted Cruz,97,1,86,10
+Foard,301,United States Senator,,DEM,Colin Allred,18,0,15,3
+Foard,301,United States Senator,,LIB,Ted Brown,1,0,1,0
+Foard,301,United States Senator,,IND,Tracy Andrus (W),0,0,0,0
+Foard,301,United States Senator,,IND,Analisa Roche (W),0,0,0,0
+Foard,401,United States Senator,,REP,Ted Cruz,105,0,89,16
+Foard,401,United States Senator,,DEM,Colin Allred,23,2,12,9
+Foard,401,United States Senator,,LIB,Ted Brown,2,0,1,1
+Foard,401,United States Senator,,IND,Tracy Andrus (W),0,0,0,0
+Foard,401,United States Senator,,IND,Analisa Roche (W),0,0,0,0
+Foard,101,United States Representative,13,REP,Ronny Jackson,97,1,84,12
+Foard,201,United States Representative,13,REP,Ronny Jackson,139,3,104,32
+Foard,301,United States Representative,13,REP,Ronny Jackson,99,1,87,11
+Foard,401,United States Representative,13,REP,Ronny Jackson,103,0,86,17
+Foard,101,Railroad Commissioner,,REP,Christi Craddick,86,1,79,6
+Foard,101,Railroad Commissioner,,DEM,Katherine Culbert,17,0,15,2
+Foard,101,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,1,2
+Foard,101,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Foard,101,Railroad Commissioner,,IND,Richard McKibbin (W),0,0,0,0
+Foard,201,Railroad Commissioner,,REP,Christi Craddick,123,2,94,27
+Foard,201,Railroad Commissioner,,DEM,Katherine Culbert,21,2,10,9
+Foard,201,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,7,1
+Foard,201,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Foard,201,Railroad Commissioner,,IND,Richard McKibbin (W),0,0,0,0
+Foard,301,Railroad Commissioner,,REP,Christi Craddick,83,1,75,7
+Foard,301,Railroad Commissioner,,DEM,Katherine Culbert,16,0,13,3
+Foard,301,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Foard,301,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Foard,301,Railroad Commissioner,,IND,Richard McKibbin (W),0,0,0,0
+Foard,401,Railroad Commissioner,,REP,Christi Craddick,85,0,71,14
+Foard,401,Railroad Commissioner,,DEM,Katherine Culbert,18,1,10,7
+Foard,401,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Foard,401,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Foard,401,Railroad Commissioner,,IND,Richard McKibbin (W),0,0,0,0
+Foard,101,Justice, Supreme Court,Place 2,REP,Jimm Blacklock,88,1,81,6
+Foard,101,Justice, Supreme Court,Place 2,DEM,DaSean Jones,21,0,16,5
+Foard,201,Justice, Supreme Court,Place 2,REP,Jimm Blacklock,127,2,98,27
+Foard,201,Justice, Supreme Court,Place 2,DEM,DaSean Jones,23,2,12,9
+Foard,301,Justice, Supreme Court,Place 2,REP,Jimm Blacklock,91,1,82,8
+Foard,301,Justice, Supreme Court,Place 2,DEM,DaSean Jones,16,0,13,3
+Foard,401,Justice, Supreme Court,Place 2,REP,Jimm Blacklock,91,0,74,17
+Foard,401,Justice, Supreme Court,Place 2,DEM,DaSean Jones,18,1,11,6
+Foard,101,Justice, Supreme Court,Place 4,REP,John Devine,87,0,81,6
+Foard,101,Justice, Supreme Court,Place 4,DEM,Christine Vinh Weems,22,1,16,5
+Foard,201,Justice, Supreme Court,Place 4,REP,John Devine,130,2,102,26
+Foard,201,Justice, Supreme Court,Place 4,DEM,Christine Vinh Weems,23,2,11,10
+Foard,301,Justice, Supreme Court,Place 4,REP,John Devine,88,1,80,7
+Foard,301,Justice, Supreme Court,Place 4,DEM,Christine Vinh Weems,18,0,14,4
+Foard,401,Justice, Supreme Court,Place 4,REP,John Devine,91,0,74,17
+Foard,401,Justice, Supreme Court,Place 4,DEM,Christine Vinh Weems,19,1,11,7
+Foard,101,Justice, Supreme Court,Place 6,REP,Jane Bland,88,1,81,6
+Foard,101,Justice, Supreme Court,Place 6,DEM,Bonnie Lee Goldstein,21,0,16,5
+Foard,101,Justice, Supreme Court,Place 6,LIB,J. David Roberson,2,0,1,1
+Foard,201,Justice, Supreme Court,Place 6,REP,Jane Bland,126,2,98,26
+Foard,201,Justice, Supreme Court,Place 6,DEM,Bonnie Lee Goldstein,24,2,12,10
+Foard,201,Justice, Supreme Court,Place 6,LIB,J. David Roberson,3,0,2,1
+Foard,301,Justice, Supreme Court,Place 6,REP,Jane Bland,88,1,80,7
+Foard,301,Justice, Supreme Court,Place 6,DEM,Bonnie Lee Goldstein,17,0,13,4
+Foard,301,Justice, Supreme Court,Place 6,LIB,J. David Roberson,2,0,2,0
+Foard,401,Justice, Supreme Court,Place 6,REP,Jane Bland,90,0,73,17
+Foard,401,Justice, Supreme Court,Place 6,DEM,Bonnie Lee Goldstein,18,1,10,7
+Foard,401,Justice, Supreme Court,Place 6,LIB,J. David Roberson,2,0,2,0
+Foard,101,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,88,0,81,7
+Foard,101,Presiding Judge, Court of Criminal Appeals,,DEM,Holly Taylor,22,1,17,4
+Foard,201,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,129,2,100,27
+Foard,201,Presiding Judge, Court of Criminal Appeals,,DEM,Holly Taylor,22,2,11,9
+Foard,301,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,92,1,83,8
+Foard,301,Presiding Judge, Court of Criminal Appeals,,DEM,Holly Taylor,17,0,14,3
+Foard,401,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,92,0,75,17
+Foard,401,Presiding Judge, Court of Criminal Appeals,,DEM,Holly Taylor,18,1,10,7
+Foard,101,Judge, Court of Criminal Appeals,Place 7,REP,Gina Parker,87,1,79,7
+Foard,101,Judge, Court of Criminal Appeals,Place 7,DEM,Nancy Mulder,23,0,19,4
+Foard,201,Judge, Court of Criminal Appeals,Place 7,REP,Gina Parker,129,2,100,27
+Foard,201,Judge, Court of Criminal Appeals,Place 7,DEM,Nancy Mulder,22,2,12,8
+Foard,301,Judge, Court of Criminal Appeals,Place 7,REP,Gina Parker,91,1,82,8
+Foard,301,Judge, Court of Criminal Appeals,Place 7,DEM,Nancy Mulder,16,0,13,3
+Foard,401,Judge, Court of Criminal Appeals,Place 7,REP,Gina Parker,91,0,74,17
+Foard,401,Judge, Court of Criminal Appeals,Place 7,DEM,Nancy Mulder,18,1,10,7
+Foard,101,Judge, Court of Criminal Appeals,Place 8,REP,Lee Finley,90,0,82,8
+Foard,101,Judge, Court of Criminal Appeals,Place 8,DEM,Chika Anyiam,19,1,16,2
+Foard,201,Judge, Court of Criminal Appeals,Place 8,REP,Lee Finley,127,2,99,26
+Foard,201,Judge, Court of Criminal Appeals,Place 8,DEM,Chika Anyiam,23,2,11,10
+Foard,301,Judge, Court of Criminal Appeals,Place 8,REP,Lee Finley,92,1,82,9
+Foard,301,Judge, Court of Criminal Appeals,Place 8,DEM,Chika Anyiam,15,0,13,2
+Foard,401,Judge, Court of Criminal Appeals,Place 8,REP,Lee Finley,90,0,73,17
+Foard,401,Judge, Court of Criminal Appeals,Place 8,DEM,Chika Anyiam,19,1,11,7
+Foard,101,Member, State Board of Education,15,REP,Aaron Kinsey,88,1,81,6
+Foard,101,Member, State Board of Education,15,DEM,Morgan Kirkpatrick,18,0,16,2
+Foard,101,Member, State Board of Education,15,IND,Jack B. Westbrook,3,0,1,2
+Foard,201,Member, State Board of Education,15,REP,Aaron Kinsey,127,2,99,26
+Foard,201,Member, State Board of Education,15,DEM,Morgan Kirkpatrick,25,2,13,10
+Foard,201,Member, State Board of Education,15,IND,Jack B. Westbrook,0,0,0,0
+Foard,301,Member, State Board of Education,15,REP,Aaron Kinsey,90,1,82,7
+Foard,301,Member, State Board of Education,15,DEM,Morgan Kirkpatrick,17,0,14,3
+Foard,301,Member, State Board of Education,15,IND,Jack B. Westbrook,1,0,0,1
+Foard,401,Member, State Board of Education,15,REP,Aaron Kinsey,90,0,73,17
+Foard,401,Member, State Board of Education,15,DEM,Morgan Kirkpatrick,19,2,10,7
+Foard,401,Member, State Board of Education,15,IND,Jack B. Westbrook,2,0,2,0
+Foard,101,State Representative,69,REP,James B Frank,92,1,82,9
+Foard,101,State Representative,69,DEM,Walter Coppage,19,0,17,2
+Foard,201,State Representative,69,REP,James B Frank,132,2,102,28
+Foard,201,State Representative,69,DEM,Walter Coppage,25,2,13,10
+Foard,301,State Representative,69,REP,James B Frank,94,1,84,9
+Foard,301,State Representative,69,DEM,Walter Coppage,14,0,12,2
+Foard,401,State Representative,69,REP,James B Frank,92,0,75,17
+Foard,401,State Representative,69,DEM,Walter Coppage,21,2,11,8
+Foard,101,Justice, 7th Court of Appeals District,Place 2,REP,Judy Parker,99,1,88,10
+Foard,201,Justice, 7th Court of Appeals District,Place 2,REP,Judy Parker,135,2,104,29
+Foard,301,Justice, 7th Court of Appeals District,Place 2,REP,Judy Parker,96,1,85,10
+Foard,401,Justice, 7th Court of Appeals District,Place 2,REP,Judy Parker,96,0,76,20
+Foard,101,Justice, 7th Court of Appeals District,Place 3,REP,Alex Yarbrough,96,1,85,10
+Foard,201,Justice, 7th Court of Appeals District,Place 3,REP,Alex Yarbrough,136,3,104,29
+Foard,301,Justice, 7th Court of Appeals District,Place 3,REP,Alex Yarbrough,92,1,81,10
+Foard,401,Justice, 7th Court of Appeals District,Place 3,REP,Alex Yarbrough,96,0,76,20
+Foard,101,District Attorney, 46th Judicial District,,REP,Jon Whitsitt,94,1,83,10
+Foard,201,District Attorney, 46th Judicial District,,REP,Jon Whitsitt,138,2,107,29
+Foard,301,District Attorney, 46th Judicial District,,REP,Jon Whitsitt,98,1,88,9
+Foard,401,District Attorney, 46th Judicial District,,REP,Jon Whitsitt,97,0,77,20
+Foard,101,County Attorney,,REP,Karen L. Baylor,102,1,91,10
+Foard,201,County Attorney,,REP,Karen L. Baylor,146,4,108,34
+Foard,301,County Attorney,,REP,Karen L. Baylor,97,1,83,13
+Foard,401,County Attorney,,REP,Karen L. Baylor,102,2,79,21
+Foard,101,Sheriff / County Tax Assessor-Collector,,REP,Perry Shaw,111,1,95,15
+Foard,201,Sheriff / County Tax Assessor-Collector,,REP,Perry Shaw,162,4,120,38
+Foard,301,Sheriff / County Tax Assessor-Collector,,REP,Perry Shaw,109,1,95,13
+Foard,401,Sheriff / County Tax Assessor-Collector,,REP,Perry Shaw,114,0,90,24
+Foard,101,County Commissioner,Precinct No. 1,REP,Matthew Tamplen,102,1,88,13
+Foard,301,County Commissioner,Precinct No. 3,REP,Doug Johnson,104,1,92,11
+Foard,101,Constable,,REP,Anthony Hinsley,108,1,94,13
+Foard,201,Constable,,REP,Anthony Hinsley,157,4,115,38
+Foard,301,Constable,,REP,Anthony Hinsley,108,1,95,12
+Foard,401,Constable,,REP,Anthony Hinsley,103,0,82,21

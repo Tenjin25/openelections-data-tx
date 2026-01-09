@@ -79,88 +79,6 @@ def add_voter_turnout_rows(results, parser, county_name):
     """
     import xml.etree.ElementTree as ET
     
-    # Calculate ballots cast by precinct and vote method
-    import clarify
-import requests
-import zipfile
-import csv
-import os
-import logging
-from collections import defaultdict
-
-try:
-    from StringIO import StringIO
-except ImportError:
-    from io import StringIO, BytesIO
-
-def statewide_results(url):
-    j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
-    z = zipfile.ZipFile(BytesIO(r.content))
-    z.extractall()
-    p = clarify.Parser()
-    p.parse("detail.xml")
-    results = []
-    for result in p.results:
-        candidate = result.choice.text
-        office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
-        if '(' in candidate and party is None:
-            if '(I)' in candidate:
-                if '(I)(I)' in candidate:
-                    candidate = candidate.split('(I)')[0]
-                    party = 'I'
-                else:
-                    candidate, party = candidate.split('(I)')
-                candidate = candidate.strip() + ' (I)'
-            else:
-                print(candidate)
-                candidate, party = candidate.split('(', 1)
-                candidate = candidate.strip()
-            party = party.replace(')','').strip()
-        if result.jurisdiction:
-            county = result.jurisdiction.name
-        else:
-            county = None
-        r = [x for x in results if x['county'] == county and x['office'] == office and x['district'] == district and x['party'] == party and x['candidate'] == candidate]
-        if r:
-             r[0][result.vote_type] = result.votes
-        else:
-            results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
-
-    with open("20180508__wv__general.csv", "wt") as csvfile:
-        w = csv.writer(csvfile)
-        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
-        for row in results:
-            total_votes = row['Election Day']# + row['Absentee by Mail'] + row['Advance in Person'] + row['Provisional']
-            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes])
-
-def download_county_files(url, filename):
-    no_xml = []
-    j = clarify.Jurisdiction(url=url, level="state")
-    subs = j.get_subjurisdictions()
-    for sub in subs:
-        try:
-            r = requests.get(sub.report_url('xml'), stream=True)
-            z = zipfile.ZipFile(BytesIO(r.content))
-            z.extractall()
-            precinct_results(sub.name.replace(' ','_').lower(),filename)
-        except:
-            no_xml.append(sub.name)
-
-    print(no_xml)
-
-def add_voter_turnout_rows(results, parser, county_name):
-    """
-    Add Registered Voters and Ballots Cast as separate office rows.
-    
-    Args:
-        results (defaultdict): Existing results dictionary
-        parser: Clarify parser object with parsed data
-        county_name (str): County name
-    """
-    import xml.etree.ElementTree as ET
-    
     # Try to read the XML file directly to get voter turnout data
     try:
         tree = ET.parse("detail.xml")
@@ -169,31 +87,14 @@ def add_voter_turnout_rows(results, parser, county_name):
         # Look for VoterTurnout element
         voter_turnout_elem = root.find('.//VoterTurnout')
         if voter_turnout_elem is not None:
-            # First, add Registered Voters from precinct attributes
-            precincts = voter_turnout_elem.findall('.//Precinct')
-            for precinct in precincts:
-                precinct_name = precinct.get('name')
-                if precinct_name:
-                    total_voters = precinct.get('totalVoters', '0')
-                    ballots_cast = precinct.get('ballotsCast', '0')
-                    
-                    # Add Registered Voters row
-                    if total_voters and total_voters != '0':
-                        reg_key = (county_name, precinct_name, 'Registered Voters', None, None, None)
-                        # For Registered Voters, only populate the votes column (no vote type breakdown)
-                        results[reg_key]['votes_only'] = int(total_voters)
-                    
-                    # Add basic Ballots Cast row with total in a vote type column
-                    if ballots_cast and ballots_cast != '0':
-                        ballots_key = (county_name, precinct_name, 'Ballots Cast', None, None, None)
-                        # Don't add to 'Total' column - let it be calculated from vote_data
-                        results[ballots_key]['ballotsCast'] = int(ballots_cast)
+            # Check if there are VoteType breakdowns in the VoterTurnout section
+            vote_types_in_turnout = voter_turnout_elem.findall('.//VoteType')
+            has_vote_type_breakdown = len(vote_types_in_turnout) > 0
             
-            # Now check if there are VoteType breakdowns in the VoterTurnout section
-            vote_types = voter_turnout_elem.findall('.//VoteType')
-            if vote_types:
-                # VoteType breakdowns exist - use them for Ballots Cast
-                for vote_type in vote_types:
+            if has_vote_type_breakdown:
+                print("Found VoteType breakdowns in VoterTurnout - using detailed breakdown")
+                # Handle detailed vote type breakdowns for Ballots Cast
+                for vote_type in vote_types_in_turnout:
                     vote_type_name = vote_type.get('name')
                     if vote_type_name and vote_type_name != 'regVotersCounty':
                         # Find precincts within this vote type
@@ -204,29 +105,60 @@ def add_voter_turnout_rows(results, parser, county_name):
                             if precinct_name and votes and votes != '0':
                                 ballots_key = (county_name, precinct_name, 'Ballots Cast', None, None, None)
                                 results[ballots_key][vote_type_name] = int(votes)
+                
+                # Also add Registered Voters from regVotersCounty vote type if present
+                reg_voters_vote_type = voter_turnout_elem.find('.//VoteType[@name="regVotersCounty"]')
+                if reg_voters_vote_type is not None:
+                    precincts = reg_voters_vote_type.findall('.//Precinct')
+                    for precinct in precincts:
+                        precinct_name = precinct.get('name')
+                        votes = precinct.get('votes', '0')
+                        if precinct_name and votes and votes != '0':
+                            reg_key = (county_name, precinct_name, 'Registered Voters', None, None, None)
+                            results[reg_key]['_votes_only'] = int(votes)
             else:
-                # No VoteType breakdowns - Ballots Cast will just have the total votes value
-                print("No VoteType breakdowns found in VoterTurnout - using total ballots cast only")
+                print("No VoteType breakdowns in VoterTurnout - using simple precinct totals")
+                # Simple case: just use precinct attributes for totals
+                precincts = voter_turnout_elem.findall('.//Precinct')
+                for precinct in precincts:
+                    precinct_name = precinct.get('name')
+                    if precinct_name:
+                        total_voters = precinct.get('totalVoters', '0')
+                        ballots_cast = precinct.get('ballotsCast', '0')
+                        
+                        # Add Registered Voters row
+                        if total_voters and total_voters != '0':
+                            reg_key = (county_name, precinct_name, 'Registered Voters', None, None, None)
+                            results[reg_key]['_votes_only'] = int(total_voters)
+                        
+                        # Add Ballots Cast row - just the total, no vote type breakdown
+                        if ballots_cast and ballots_cast != '0':
+                            ballots_key = (county_name, precinct_name, 'Ballots Cast', None, None, None)
+                            results[ballots_key]['_votes_only'] = int(ballots_cast)
         else:
             print("VoterTurnout element not found in XML")
             
     except Exception as e:
         print(f"Error reading voter turnout data: {e}")
-        # Try alternative method using regVotersCounty from parser results
-        reg_voters_data = {}
-        for result in parser.results:
-            if result.vote_type == 'regVotersCounty' and result.jurisdiction:
-                precinct_name = result.jurisdiction.name
-                if precinct_name and result.votes:
-                    if precinct_name not in reg_voters_data:
-                        reg_voters_data[precinct_name] = 0
-                    reg_voters_data[precinct_name] += result.votes
-        
-        # Add registered voter rows from regVotersCounty data
-        for precinct, reg_voters in reg_voters_data.items():
-            if reg_voters > 0:
-                reg_key = (county_name, precinct, 'Registered Voters', None, None, None)
-                results[reg_key]['votes_only'] = reg_voters
+        # Fallback: try to get registered voters from regVotersCounty in parser results
+        try:
+            reg_voters_data = {}
+            for result in parser.results:
+                if result.vote_type == 'regVotersCounty' and result.jurisdiction:
+                    precinct_name = result.jurisdiction.name
+                    if precinct_name and result.votes:
+                        if precinct_name not in reg_voters_data:
+                            reg_voters_data[precinct_name] = 0
+                        reg_voters_data[precinct_name] += result.votes
+            
+            # Add registered voter rows from regVotersCounty data
+            for precinct, reg_voters in reg_voters_data.items():
+                if reg_voters > 0:
+                    reg_key = (county_name, precinct, 'Registered Voters', None, None, None)
+                    results[reg_key]['_votes_only'] = reg_voters
+                    
+        except Exception as fallback_error:
+            print(f"Fallback method also failed: {fallback_error}")
 
 def precinct_results(county_name, filename):
     """
@@ -258,8 +190,8 @@ def precinct_results(county_name, filename):
     results = defaultdict(lambda: defaultdict(int))
     vote_types = set()
     
-    # Filter out unwanted vote types upfront (keep regVotersCounty now)
-    excluded_vote_types = {'Number of Precincts', 'Overvotes', 'Undervotes'}
+    # Filter out unwanted vote types upfront
+    excluded_vote_types = {'Number of Precincts', 'Overvotes', 'Undervotes', 'regVotersCounty'}
     
     for result in p.results:
         # Skip excluded vote types
@@ -301,8 +233,14 @@ def precinct_results(county_name, filename):
         # Create unique key for this candidate/race combination
         key = (county, precinct, office, district, party, candidate)
         
-        # Aggregate votes by vote type
-        results[key][result.vote_type] = result.votes
+        # Aggregate votes by vote type - ensure we store integers
+        if isinstance(result.votes, (int, float)):
+            results[key][result.vote_type] = int(result.votes)
+        elif isinstance(result.votes, str) and result.votes.isdigit():
+            results[key][result.vote_type] = int(result.votes)
+        else:
+            # Skip non-numeric votes
+            continue
     
     # Add voter turnout data as separate office rows
     add_voter_turnout_rows(results, p, county_name)
@@ -319,12 +257,13 @@ def precinct_results(county_name, filename):
             party = 'DEM'
         
         # Calculate total votes
-        if office == 'Registered Voters':
-            # For Registered Voters, use the special votes_only value
-            vote_total = vote_data.get('votes_only', 0)
+        if '_votes_only' in vote_data:
+            # For special offices like Registered Voters and Ballots Cast
+            vote_total = vote_data['_votes_only']
         else:
-            # For all other offices, sum all vote types
-            vote_total = sum(v for k, v in vote_data.items() if k != 'votes_only')
+            # For regular contests, sum all vote types (only numeric values)
+            vote_total = sum(v for k, v in vote_data.items() 
+                           if k != '_votes_only' and isinstance(v, (int, float)))
         
         # Create row data
         row_data = {
@@ -339,12 +278,13 @@ def precinct_results(county_name, filename):
         
         # Add individual vote type columns
         for vt in vote_types:
-            if vt != 'votes_only':  # Skip the special votes_only marker
-                if office == 'Registered Voters':
-                    # For Registered Voters, all vote method columns should be None (empty)
-                    row_data[vt.replace(' ', '_').lower()] = ''
-                else:
-                    row_data[vt.replace(' ', '_').lower()] = vote_data.get(vt, 0)
+            column_name = vt.replace(' ', '_').lower()
+            if '_votes_only' in vote_data:
+                # For special offices, all vote method columns should be empty
+                row_data[column_name] = ''
+            else:
+                # For regular contests, add the vote count
+                row_data[column_name] = vote_data.get(vt, 0)
         
         output_rows.append(row_data)
     
@@ -495,15 +435,26 @@ def parse_office(office_text):
             district = place_part.split(' - ')[0].strip()
         else:
             district = place_part.strip()
+    elif ', Place' in office_text:
+        # Handle "Place" designations (full word)
+        place_part = office_text.split(', Place')[1]
+        if ' - ' in place_part:
+            district = place_part.split(' - ')[0].strip()
+        else:
+            district = place_part.strip()
     
     # Standardize office names
-    if 'President/Vice President' in office:
+    if 'President/Vice President' in office or 'President/Vice-President' in office:
         office = 'President'
     elif 'United States Senator' in office or 'US Senator' in office or "U. S. Senator" in office:
         office = 'U.S. Senate'
         district = None
     elif 'US Representative' in office or 'U.S. Representative' in office or "United States Representative" in office:
         office = 'U.S. House'
+    elif 'State Representative' in office:
+        office = 'State House'
+    elif 'State Senator' in office:
+        office = 'State Senate'
     
     return office, district
 

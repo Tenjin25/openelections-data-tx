@@ -428,7 +428,7 @@ def main():
     
     input_pdf = sys.argv[1]
     output_csv = sys.argv[2]
-    county_name = "Collin"  # Fixed for this specific county
+    county_name = "Grayson"  # Fixed for this specific county
     
     try:
         print(f"Extracting text from {input_pdf}...")

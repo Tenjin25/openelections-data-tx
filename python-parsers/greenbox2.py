@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Complete PDF Election Data Extractor using pdfplumber
-Modified to handle precincts with just "ballots cast" (no registered voters)
+Coke County PDF Election Data Extractor using pdfplumber
+Adapted for Coke County, Texas election results format
 """
 
 import sys
@@ -75,11 +75,11 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
         r'President/Vice-President',
         r'PRESIDENT/ VICE-PRESIDENT',
         r'United States Senator',
-        r'U. S. SENATOR',
-        r'U.S. Senator',
+        r'U\. S\. SENATOR',
+        r'U\.S\. Senator',
         r'United States Representative[^\n]*',
-        r'U. S. REPRESENTATIVE[^\n]*',
-        r'U.S. Representative[^\n]*',
+        r'U\. S\. REPRESENTATIVE[^\n]*',
+        r'U\.S\. Representative[^\n]*',
         r'Railroad Commissioner',
         r'Justice[^\n]*',
         r'Judge[^\n]*',
@@ -101,6 +101,8 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
         r'County Constable',
         r'Constable',
         r'HEADWATER GROUNDWATER CONSERVATION DISTRICT',
+        r'WATER VALLEY INDEPENDENT SCHOOL DISTRICT[^\n]*',
+        r'COKE COUNTY EMERGENCY SERVICES DISTRICT[^\n]*',
     ]
     
     for i, line in enumerate(lines):
@@ -109,46 +111,32 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
             if not line:
                 continue
             
-            # Check for precinct info - first try pattern with registered voters
-            precinct_match = re.search(r'^(.+?)\s+(\d+(?:,\d+)*)\s+of\s+(\d+(?:,\d+)*)\s+registered\s+voters', line)
-            ballots_only_match = None
+            # Check for precinct info - Coke County format: "1 - CRL 260 of 401 2468 = 64.84%"
+            precinct_match = re.search(r'^(\d+\s*-\s*[A-Z]+[A-Z]*)\s+(\d+(?:,\d+)*)\s+of\s+(\d+(?:,\d+)*)\s+(\d+(?:,\d+)*)\s*=\s*[\d.]+%', line)
             
-            if not precinct_match:
-                # Try pattern with just ballots cast
-                ballots_only_match = re.search(r'^(.+?)\s+(\d+(?:,\d+)*)\s+ballots\s+cast', line)
-            
-            if precinct_match or ballots_only_match:
-                if precinct_match:
-                    # Pattern with registered voters
-                    raw_precinct = precinct_match.group(1).strip()
-                    current_precinct = raw_precinct
-                    ballots_cast = int(precinct_match.group(2).replace(',', ''))
-                    registered_voters = int(precinct_match.group(3).replace(',', ''))
-                else:
-                    # Pattern with just ballots cast
-                    raw_precinct = ballots_only_match.group(1).strip()
-                    current_precinct = raw_precinct
-                    ballots_cast = int(ballots_only_match.group(2).replace(',', ''))
-                    registered_voters = None  # No registered voters data available
+            if precinct_match:
+                raw_precinct = precinct_match.group(1).strip()
+                current_precinct = raw_precinct
+                ballots_cast = int(precinct_match.group(2).replace(',', ''))
+                registered_voters = int(precinct_match.group(3).replace(',', ''))
                 
-#                print(f"Processing precinct line: {line}")
-#                print(f"Raw precinct: '{raw_precinct}', Clean precinct: '{current_precinct}'")
+                print(f"Processing precinct line: {line}")
+                print(f"Raw precinct: '{raw_precinct}', Clean precinct: '{current_precinct}'")
                 
                 if current_precinct not in precinct_added:
-                    # Add registered voters (only if we have the data)
-                    if registered_voters is not None:
-                        data.append({
-                            'county': county,
-                            'precinct': current_precinct,
-                            'office': 'Registered Voters',
-                            'district': '',
-                            'party': '',
-                            'candidate': '',
-                            'votes': registered_voters,
-                            'absentee': '',
-                            'early_voting': '',
-                            'election_day': ''
-                        })
+                    # Add registered voters
+                    data.append({
+                        'county': county,
+                        'precinct': current_precinct,
+                        'office': 'Registered Voters',
+                        'district': '',
+                        'party': '',
+                        'candidate': '',
+                        'votes': registered_voters,
+                        'absentee': '',
+                        'early_voting': '',
+                        'election_day': ''
+                    })
                     
                     # Add ballots cast
                     data.append({
@@ -165,10 +153,7 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                     })
                     
                     precinct_added.add(current_precinct)
-                    if registered_voters is not None:
-                        print(f"Added precinct {current_precinct}: {registered_voters} registered, {ballots_cast} cast")
-                    else:
-                        print(f"Added precinct {current_precinct}: {ballots_cast} ballots cast (no registered voters data)")
+                    print(f"Added precinct {current_precinct}: {registered_voters} registered, {ballots_cast} cast")
                 else:
                     print(f"Skipping duplicate precinct {current_precinct}")
                 continue
@@ -187,23 +172,21 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         place_match = re.search(r'Place\s+(\d+)', line.title())
                         if place_match:
                             district = place_match.group(1)
-                    #print(f"Found office: {current_office}")
-                    else:
-                        print(line)
+                    break
             
             if current_office is None or current_precinct is None:
                 continue
             
             # Skip header lines
-
             if ('Choice Party Absentee Voting' in line or
                 'Not Assigned' in line or
                 'Rejected write-in votes' in line or
                 'Unresolved write-in votes' in line or
-                'Contest Totals' in line):
+                'Contest Totals' in line or
+                'Cast Votes:' in line):
                 continue
             
-            # Parse candidate lines
+            # Parse candidate lines - updated for Coke County format
             candidate_pattern = r'^(.+?)\s+(REP|DEM|LIB|GRN|IND|\(W\))\s+([\d,]+)\s+[\d.]+%\s+([\d,]+)\s+[\d.]+%\s+([\d,]+)\s+[\d.]+%\s+([\d,]+)\s+[\d.]+%'
             candidate_match = re.match(candidate_pattern, line)
             
@@ -215,9 +198,9 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                 election_day = int(candidate_match.group(5).replace(',', ''))
                 total = int(candidate_match.group(6).replace(',', ''))
                 
-                # Skip write-ins with actual names
+                # Skip write-ins with actual names (keep generic write-ins)
                 if '(W)' in party and len(candidate_name) > 10:
-                    #print(f"Skipping write-in: {candidate_name}")
+                    print(f"Skipping write-in: {candidate_name}")
                     continue
                 
                 data.append({
@@ -232,21 +215,17 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                     'early_voting': early,
                     'election_day': election_day
                 })
-#                print(f"Added: {candidate_name} ({party}) - {total} votes")
-                continue
-
-            # Skip Cast Votes lines
-            if line.startswith('Cast Votes:'):
+                print(f"Added: {candidate_name} ({party}) - {total} votes")
                 continue
             
             # Handle Undervotes
             if line.startswith('Undervotes:'):
-                vote_numbers = re.findall(r'\d+', line.replace('Undervotes:', ''))
+                vote_numbers = re.findall(r'[\d,]+', line.replace('Undervotes:', ''))
                 if len(vote_numbers) >= 4:
-                    total = int(vote_numbers[3])
-                    absentee = int(vote_numbers[0]) if len(vote_numbers) > 0 else 0
-                    early = int(vote_numbers[1]) if len(vote_numbers) > 1 else 0
-                    election_day = int(vote_numbers[2]) if len(vote_numbers) > 2 else 0
+                    absentee = int(vote_numbers[0].replace(',', '')) if len(vote_numbers) > 0 else 0
+                    early = int(vote_numbers[1].replace(',', '')) if len(vote_numbers) > 1 else 0
+                    election_day = int(vote_numbers[2].replace(',', '')) if len(vote_numbers) > 2 else 0
+                    total = int(vote_numbers[3].replace(',', ''))
                     data.append({
                         'county': county,
                         'precinct': current_precinct,
@@ -263,12 +242,12 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
             
             # Handle Overvotes
             if line.startswith('Overvotes:'):
-                vote_numbers = re.findall(r'\d+', line.replace('Overvotes:', ''))
+                vote_numbers = re.findall(r'[\d,]+', line.replace('Overvotes:', ''))
                 if len(vote_numbers) >= 4:
-                    total = int(vote_numbers[3].replace(',', ''))
                     absentee = int(vote_numbers[0].replace(',', '')) if len(vote_numbers) > 0 else 0
                     early = int(vote_numbers[1].replace(',', '')) if len(vote_numbers) > 1 else 0
                     election_day = int(vote_numbers[2].replace(',', '')) if len(vote_numbers) > 2 else 0
+                    total = int(vote_numbers[3].replace(',', ''))
                     data.append({
                         'county': county,
                         'precinct': current_precinct,
@@ -292,7 +271,7 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
 
 def main():
     if len(sys.argv) != 4:
-        print("Usage: python greenbox.py <input_pdf> <county_name> <output_csv>")
+        print("Usage: python coke_county_extractor.py <input_pdf> <county_name> <output_csv>")
         sys.exit(1)
     
     input_pdf = sys.argv[1]

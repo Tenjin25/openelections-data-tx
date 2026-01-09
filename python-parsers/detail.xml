@@ -1,0 +1,3446 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/7/2025 3:26:34 PM CDT</Timestamp>
+    <ElectionName>2024 General</ElectionName>
+    <ElectionDate>11/5/2024</ElectionDate>
+    <Region>Kendall</Region>
+    <VoterTurnout totalVoters="38913" ballotsCast="29563" voterTurnout="75.97">
+        <Precincts>
+            <Precinct name="1010" totalVoters="2681" ballotsCast="1819" voterTurnout="67.85" percentReporting="4" />
+            <Precinct name="1030" totalVoters="266" ballotsCast="217" voterTurnout="81.58" percentReporting="4" />
+            <Precinct name="1050" totalVoters="3444" ballotsCast="2632" voterTurnout="76.42" percentReporting="4" />
+            <Precinct name="1110" totalVoters="2844" ballotsCast="2179" voterTurnout="76.62" percentReporting="4" />
+            <Precinct name="2020" totalVoters="2672" ballotsCast="2147" voterTurnout="80.35" percentReporting="4" />
+            <Precinct name="2060" totalVoters="2513" ballotsCast="1850" voterTurnout="73.62" percentReporting="4" />
+            <Precinct name="2080" totalVoters="2399" ballotsCast="1825" voterTurnout="76.07" percentReporting="4" />
+            <Precinct name="2120" totalVoters="3237" ballotsCast="2658" voterTurnout="82.11" percentReporting="4" />
+            <Precinct name="3010" totalVoters="2383" ballotsCast="1688" voterTurnout="70.84" percentReporting="4" />
+            <Precinct name="3030" totalVoters="2666" ballotsCast="2140" voterTurnout="80.27" percentReporting="4" />
+            <Precinct name="3040" totalVoters="1403" ballotsCast="1049" voterTurnout="74.77" percentReporting="4" />
+            <Precinct name="3050" totalVoters="2319" ballotsCast="1762" voterTurnout="75.98" percentReporting="4" />
+            <Precinct name="3060" totalVoters="833" ballotsCast="641" voterTurnout="76.95" percentReporting="4" />
+            <Precinct name="4050" totalVoters="2845" ballotsCast="2006" voterTurnout="70.51" percentReporting="4" />
+            <Precinct name="4070" totalVoters="1815" ballotsCast="1437" voterTurnout="79.17" percentReporting="4" />
+            <Precinct name="4090" totalVoters="1455" ballotsCast="1082" voterTurnout="74.36" percentReporting="4" />
+            <Precinct name="4100" totalVoters="3138" ballotsCast="2431" voterTurnout="77.47" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0004" text="President/Vice President" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Donald J. Trump/JD Vance" party="REP" totalVotes="22668">
+            <VoteType name="Absentee" votes="845">
+                <Precinct name="1010" votes="48" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="108" />
+                <Precinct name="1110" votes="74" />
+                <Precinct name="2020" votes="73" />
+                <Precinct name="2060" votes="34" />
+                <Precinct name="2080" votes="45" />
+                <Precinct name="2120" votes="61" />
+                <Precinct name="3010" votes="35" />
+                <Precinct name="3030" votes="69" />
+                <Precinct name="3040" votes="26" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="65" />
+                <Precinct name="4070" votes="35" />
+                <Precinct name="4090" votes="39" />
+                <Precinct name="4100" votes="58" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18945">
+                <Precinct name="1010" votes="1108" />
+                <Precinct name="1030" votes="159" />
+                <Precinct name="1050" votes="1608" />
+                <Precinct name="1110" votes="1448" />
+                <Precinct name="2020" votes="1459" />
+                <Precinct name="2060" votes="1148" />
+                <Precinct name="2080" votes="1280" />
+                <Precinct name="2120" votes="1816" />
+                <Precinct name="3010" votes="1012" />
+                <Precinct name="3030" votes="1294" />
+                <Precinct name="3040" votes="740" />
+                <Precinct name="3050" votes="1172" />
+                <Precinct name="3060" votes="372" />
+                <Precinct name="4050" votes="1113" />
+                <Precinct name="4070" votes="938" />
+                <Precinct name="4090" votes="676" />
+                <Precinct name="4100" votes="1602" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2878">
+                <Precinct name="1010" votes="150" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="223" />
+                <Precinct name="1110" votes="131" />
+                <Precinct name="2020" votes="203" />
+                <Precinct name="2060" votes="198" />
+                <Precinct name="2080" votes="106" />
+                <Precinct name="2120" votes="178" />
+                <Precinct name="3010" votes="144" />
+                <Precinct name="3030" votes="357" />
+                <Precinct name="3040" votes="78" />
+                <Precinct name="3050" votes="125" />
+                <Precinct name="3060" votes="107" />
+                <Precinct name="4050" votes="347" />
+                <Precinct name="4070" votes="221" />
+                <Precinct name="4090" votes="105" />
+                <Precinct name="4100" votes="192" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Kamala D. Harris/Tim Walz" party="DEM" totalVotes="6355">
+            <VoteType name="Absentee" votes="572">
+                <Precinct name="1010" votes="38" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="39" />
+                <Precinct name="1110" votes="41" />
+                <Precinct name="2020" votes="41" />
+                <Precinct name="2060" votes="25" />
+                <Precinct name="2080" votes="40" />
+                <Precinct name="2120" votes="37" />
+                <Precinct name="3010" votes="38" />
+                <Precinct name="3030" votes="35" />
+                <Precinct name="3040" votes="17" />
+                <Precinct name="3050" votes="38" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="49" />
+                <Precinct name="4070" votes="35" />
+                <Precinct name="4090" votes="34" />
+                <Precinct name="4100" votes="43" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4903">
+                <Precinct name="1010" votes="378" />
+                <Precinct name="1030" votes="27" />
+                <Precinct name="1050" votes="521" />
+                <Precinct name="1110" votes="398" />
+                <Precinct name="2020" votes="269" />
+                <Precinct name="2060" votes="334" />
+                <Precinct name="2080" votes="290" />
+                <Precinct name="2120" votes="472" />
+                <Precinct name="3010" votes="358" />
+                <Precinct name="3030" votes="285" />
+                <Precinct name="3040" votes="146" />
+                <Precinct name="3050" votes="294" />
+                <Precinct name="3060" votes="84" />
+                <Precinct name="4050" votes="293" />
+                <Precinct name="4070" votes="163" />
+                <Precinct name="4090" votes="168" />
+                <Precinct name="4100" votes="423" />
+            </VoteType>
+            <VoteType name="Election Day" votes="880">
+                <Precinct name="1010" votes="64" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="80" />
+                <Precinct name="1110" votes="45" />
+                <Precinct name="2020" votes="60" />
+                <Precinct name="2060" votes="82" />
+                <Precinct name="2080" votes="27" />
+                <Precinct name="2120" votes="45" />
+                <Precinct name="3010" votes="59" />
+                <Precinct name="3030" votes="65" />
+                <Precinct name="3040" votes="23" />
+                <Precinct name="3050" votes="52" />
+                <Precinct name="3060" votes="31" />
+                <Precinct name="4050" votes="107" />
+                <Precinct name="4070" votes="29" />
+                <Precinct name="4090" votes="35" />
+                <Precinct name="4100" votes="71" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="LIB Chase Oliver/Mike ter Maat" party="LIB" totalVotes="195">
+            <VoteType name="Absentee" votes="6">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="4" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="1" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="1" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="135">
+                <Precinct name="1010" votes="16" />
+                <Precinct name="1030" votes="1" />
+                <Precinct name="1050" votes="17" />
+                <Precinct name="1110" votes="11" />
+                <Precinct name="2020" votes="4" />
+                <Precinct name="2060" votes="4" />
+                <Precinct name="2080" votes="13" />
+                <Precinct name="2120" votes="17" />
+                <Precinct name="3010" votes="10" />
+                <Precinct name="3030" votes="6" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="7" />
+                <Precinct name="3060" votes="3" />
+                <Precinct name="4050" votes="7" />
+                <Precinct name="4070" votes="6" />
+                <Precinct name="4090" votes="5" />
+                <Precinct name="4100" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="1010" votes="1" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="4" />
+                <Precinct name="1110" votes="4" />
+                <Precinct name="2020" votes="8" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="2" />
+                <Precinct name="2120" votes="2" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="9" />
+                <Precinct name="3040" votes="2" />
+                <Precinct name="3050" votes="4" />
+                <Precinct name="3060" votes="1" />
+                <Precinct name="4050" votes="2" />
+                <Precinct name="4070" votes="2" />
+                <Precinct name="4090" votes="2" />
+                <Precinct name="4100" votes="7" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="GRN Jill Stein/Rudolph Ware" party="GRN" totalVotes="77">
+            <VoteType name="Absentee" votes="4">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="1" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="1" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="53">
+                <Precinct name="1010" votes="2" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="9" />
+                <Precinct name="1110" votes="3" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="4" />
+                <Precinct name="2080" votes="4" />
+                <Precinct name="2120" votes="5" />
+                <Precinct name="3010" votes="6" />
+                <Precinct name="3030" votes="2" />
+                <Precinct name="3040" votes="4" />
+                <Precinct name="3050" votes="2" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="3" />
+                <Precinct name="4070" votes="2" />
+                <Precinct name="4090" votes="2" />
+                <Precinct name="4100" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="5" />
+                <Precinct name="1110" votes="2" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="1" />
+                <Precinct name="3010" votes="1" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="1" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="2" />
+                <Precinct name="4070" votes="1" />
+                <Precinct name="4090" votes="2" />
+                <Precinct name="4100" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Write-in" totalVotes="143">
+            <VoteType name="Absentee" votes="2">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="1" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="1" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="117">
+                <Precinct name="1010" votes="5" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="6" />
+                <Precinct name="1110" votes="5" />
+                <Precinct name="2020" votes="13" />
+                <Precinct name="2060" votes="8" />
+                <Precinct name="2080" votes="11" />
+                <Precinct name="2120" votes="15" />
+                <Precinct name="3010" votes="13" />
+                <Precinct name="3030" votes="8" />
+                <Precinct name="3040" votes="5" />
+                <Precinct name="3050" votes="11" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="5" />
+                <Precinct name="4070" votes="2" />
+                <Precinct name="4090" votes="3" />
+                <Precinct name="4100" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day" votes="24">
+                <Precinct name="1010" votes="3" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="1" />
+                <Precinct name="1110" votes="3" />
+                <Precinct name="2020" votes="3" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="1" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="2" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="3" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="4" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0005" text="US Senator" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Ted Cruz" party="REP" totalVotes="22068">
+            <VoteType name="Absentee" votes="844">
+                <Precinct name="1010" votes="47" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="109" />
+                <Precinct name="1110" votes="79" />
+                <Precinct name="2020" votes="70" />
+                <Precinct name="2060" votes="33" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="61" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="68" />
+                <Precinct name="3040" votes="28" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="33" />
+                <Precinct name="4090" votes="40" />
+                <Precinct name="4100" votes="60" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18538">
+                <Precinct name="1010" votes="1065" />
+                <Precinct name="1030" votes="152" />
+                <Precinct name="1050" votes="1560" />
+                <Precinct name="1110" votes="1411" />
+                <Precinct name="2020" votes="1460" />
+                <Precinct name="2060" votes="1123" />
+                <Precinct name="2080" votes="1268" />
+                <Precinct name="2120" votes="1785" />
+                <Precinct name="3010" votes="984" />
+                <Precinct name="3030" votes="1275" />
+                <Precinct name="3040" votes="723" />
+                <Precinct name="3050" votes="1156" />
+                <Precinct name="3060" votes="367" />
+                <Precinct name="4050" votes="1077" />
+                <Precinct name="4070" votes="925" />
+                <Precinct name="4090" votes="653" />
+                <Precinct name="4100" votes="1554" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2686">
+                <Precinct name="1010" votes="135" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="200" />
+                <Precinct name="1110" votes="129" />
+                <Precinct name="2020" votes="203" />
+                <Precinct name="2060" votes="175" />
+                <Precinct name="2080" votes="102" />
+                <Precinct name="2120" votes="166" />
+                <Precinct name="3010" votes="126" />
+                <Precinct name="3030" votes="338" />
+                <Precinct name="3040" votes="74" />
+                <Precinct name="3050" votes="120" />
+                <Precinct name="3060" votes="101" />
+                <Precinct name="4050" votes="319" />
+                <Precinct name="4070" votes="207" />
+                <Precinct name="4090" votes="96" />
+                <Precinct name="4100" votes="182" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Colin Allred" party="DEM" totalVotes="6666">
+            <VoteType name="Absentee" votes="568">
+                <Precinct name="1010" votes="37" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="38" />
+                <Precinct name="1110" votes="39" />
+                <Precinct name="2020" votes="40" />
+                <Precinct name="2060" votes="24" />
+                <Precinct name="2080" votes="40" />
+                <Precinct name="2120" votes="37" />
+                <Precinct name="3010" votes="39" />
+                <Precinct name="3030" votes="35" />
+                <Precinct name="3040" votes="17" />
+                <Precinct name="3050" votes="35" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="50" />
+                <Precinct name="4070" votes="36" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="42" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="5125">
+                <Precinct name="1010" votes="397" />
+                <Precinct name="1030" votes="30" />
+                <Precinct name="1050" votes="553" />
+                <Precinct name="1110" votes="415" />
+                <Precinct name="2020" votes="268" />
+                <Precinct name="2060" votes="348" />
+                <Precinct name="2080" votes="302" />
+                <Precinct name="2120" votes="497" />
+                <Precinct name="3010" votes="372" />
+                <Precinct name="3030" votes="296" />
+                <Precinct name="3040" votes="157" />
+                <Precinct name="3050" votes="301" />
+                <Precinct name="3060" votes="90" />
+                <Precinct name="4050" votes="306" />
+                <Precinct name="4070" votes="171" />
+                <Precinct name="4090" votes="179" />
+                <Precinct name="4100" votes="443" />
+            </VoteType>
+            <VoteType name="Election Day" votes="973">
+                <Precinct name="1010" votes="68" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="93" />
+                <Precinct name="1110" votes="54" />
+                <Precinct name="2020" votes="66" />
+                <Precinct name="2060" votes="89" />
+                <Precinct name="2080" votes="28" />
+                <Precinct name="2120" votes="48" />
+                <Precinct name="3010" votes="65" />
+                <Precinct name="3030" votes="76" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="52" />
+                <Precinct name="3060" votes="34" />
+                <Precinct name="4050" votes="119" />
+                <Precinct name="4070" votes="38" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="75" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="LIB Ted Brown" party="LIB" totalVotes="543">
+            <VoteType name="Absentee" votes="12">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="2" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="1" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="2" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="1" />
+                <Precinct name="4100" votes="2" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="384">
+                <Precinct name="1010" votes="27" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="37" />
+                <Precinct name="1110" votes="37" />
+                <Precinct name="2020" votes="16" />
+                <Precinct name="2060" votes="26" />
+                <Precinct name="2080" votes="20" />
+                <Precinct name="2120" votes="33" />
+                <Precinct name="3010" votes="29" />
+                <Precinct name="3030" votes="22" />
+                <Precinct name="3040" votes="13" />
+                <Precinct name="3050" votes="24" />
+                <Precinct name="3060" votes="1" />
+                <Precinct name="4050" votes="27" />
+                <Precinct name="4070" votes="13" />
+                <Precinct name="4090" votes="18" />
+                <Precinct name="4100" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day" votes="147">
+                <Precinct name="1010" votes="5" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="18" />
+                <Precinct name="1110" votes="3" />
+                <Precinct name="2020" votes="6" />
+                <Precinct name="2060" votes="12" />
+                <Precinct name="2080" votes="5" />
+                <Precinct name="2120" votes="12" />
+                <Precinct name="3010" votes="10" />
+                <Precinct name="3030" votes="14" />
+                <Precinct name="3040" votes="5" />
+                <Precinct name="3050" votes="9" />
+                <Precinct name="3060" votes="4" />
+                <Precinct name="4050" votes="19" />
+                <Precinct name="4070" votes="5" />
+                <Precinct name="4090" votes="5" />
+                <Precinct name="4100" votes="15" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-in" totalVotes="14">
+            <VoteType name="Absentee" votes="3">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="1" />
+                <Precinct name="3010" votes="1" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="9">
+                <Precinct name="1010" votes="2" />
+                <Precinct name="1030" votes="1" />
+                <Precinct name="1050" votes="1" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="1" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="1" />
+                <Precinct name="3010" votes="1" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="1" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0006" text="US Representative, Dist 21" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Chip Roy" party="REP" totalVotes="22633">
+            <VoteType name="Absentee" votes="871">
+                <Precinct name="1010" votes="47" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="111" />
+                <Precinct name="1110" votes="81" />
+                <Precinct name="2020" votes="74" />
+                <Precinct name="2060" votes="36" />
+                <Precinct name="2080" votes="48" />
+                <Precinct name="2120" votes="61" />
+                <Precinct name="3010" votes="36" />
+                <Precinct name="3030" votes="70" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="33" />
+                <Precinct name="4090" votes="43" />
+                <Precinct name="4100" votes="65" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18933">
+                <Precinct name="1010" votes="1086" />
+                <Precinct name="1030" votes="154" />
+                <Precinct name="1050" votes="1603" />
+                <Precinct name="1110" votes="1444" />
+                <Precinct name="2020" votes="1484" />
+                <Precinct name="2060" votes="1147" />
+                <Precinct name="2080" votes="1304" />
+                <Precinct name="2120" votes="1823" />
+                <Precinct name="3010" votes="1009" />
+                <Precinct name="3030" votes="1307" />
+                <Precinct name="3040" votes="739" />
+                <Precinct name="3050" votes="1173" />
+                <Precinct name="3060" votes="367" />
+                <Precinct name="4050" votes="1103" />
+                <Precinct name="4070" votes="926" />
+                <Precinct name="4090" votes="672" />
+                <Precinct name="4100" votes="1592" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2829">
+                <Precinct name="1010" votes="144" />
+                <Precinct name="1030" votes="15" />
+                <Precinct name="1050" votes="220" />
+                <Precinct name="1110" votes="128" />
+                <Precinct name="2020" votes="215" />
+                <Precinct name="2060" votes="191" />
+                <Precinct name="2080" votes="107" />
+                <Precinct name="2120" votes="174" />
+                <Precinct name="3010" votes="131" />
+                <Precinct name="3030" votes="352" />
+                <Precinct name="3040" votes="76" />
+                <Precinct name="3050" votes="128" />
+                <Precinct name="3060" votes="110" />
+                <Precinct name="4050" votes="333" />
+                <Precinct name="4070" votes="216" />
+                <Precinct name="4090" votes="105" />
+                <Precinct name="4100" votes="184" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Kristin Hook" party="DEM" totalVotes="5842">
+            <VoteType name="Absentee" votes="527">
+                <Precinct name="1010" votes="36" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="36" />
+                <Precinct name="1110" votes="38" />
+                <Precinct name="2020" votes="37" />
+                <Precinct name="2060" votes="23" />
+                <Precinct name="2080" votes="38" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="28" />
+                <Precinct name="3040" votes="13" />
+                <Precinct name="3050" votes="35" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="47" />
+                <Precinct name="4070" votes="36" />
+                <Precinct name="4090" votes="35" />
+                <Precinct name="4100" votes="36" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4506">
+                <Precinct name="1010" votes="361" />
+                <Precinct name="1030" votes="24" />
+                <Precinct name="1050" votes="484" />
+                <Precinct name="1110" votes="366" />
+                <Precinct name="2020" votes="227" />
+                <Precinct name="2060" votes="301" />
+                <Precinct name="2080" votes="255" />
+                <Precinct name="2120" votes="438" />
+                <Precinct name="3010" votes="338" />
+                <Precinct name="3030" votes="260" />
+                <Precinct name="3040" votes="137" />
+                <Precinct name="3050" votes="268" />
+                <Precinct name="3060" votes="83" />
+                <Precinct name="4050" votes="275" />
+                <Precinct name="4070" votes="151" />
+                <Precinct name="4090" votes="155" />
+                <Precinct name="4100" votes="383" />
+            </VoteType>
+            <VoteType name="Election Day" votes="809">
+                <Precinct name="1010" votes="56" />
+                <Precinct name="1030" votes="3" />
+                <Precinct name="1050" votes="74" />
+                <Precinct name="1110" votes="46" />
+                <Precinct name="2020" votes="48" />
+                <Precinct name="2060" votes="75" />
+                <Precinct name="2080" votes="22" />
+                <Precinct name="2120" votes="40" />
+                <Precinct name="3010" votes="62" />
+                <Precinct name="3030" votes="61" />
+                <Precinct name="3040" votes="19" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="104" />
+                <Precinct name="4070" votes="32" />
+                <Precinct name="4090" votes="36" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="LIB Bob King" party="LIB" totalVotes="505">
+            <VoteType name="Absentee" votes="14">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="1" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="2" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="1" />
+                <Precinct name="3040" votes="2" />
+                <Precinct name="3050" votes="1" />
+                <Precinct name="3060" votes="1" />
+                <Precinct name="4050" votes="1" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="2" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="372">
+                <Precinct name="1010" votes="27" />
+                <Precinct name="1030" votes="3" />
+                <Precinct name="1050" votes="41" />
+                <Precinct name="1110" votes="29" />
+                <Precinct name="2020" votes="21" />
+                <Precinct name="2060" votes="23" />
+                <Precinct name="2080" votes="23" />
+                <Precinct name="2120" votes="32" />
+                <Precinct name="3010" votes="28" />
+                <Precinct name="3030" votes="17" />
+                <Precinct name="3040" votes="11" />
+                <Precinct name="3050" votes="25" />
+                <Precinct name="3060" votes="5" />
+                <Precinct name="4050" votes="21" />
+                <Precinct name="4070" votes="21" />
+                <Precinct name="4090" votes="13" />
+                <Precinct name="4100" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day" votes="119">
+                <Precinct name="1010" votes="6" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="14" />
+                <Precinct name="1110" votes="7" />
+                <Precinct name="2020" votes="8" />
+                <Precinct name="2060" votes="7" />
+                <Precinct name="2080" votes="3" />
+                <Precinct name="2120" votes="8" />
+                <Precinct name="3010" votes="5" />
+                <Precinct name="3030" votes="10" />
+                <Precinct name="3040" votes="5" />
+                <Precinct name="3050" votes="7" />
+                <Precinct name="3060" votes="4" />
+                <Precinct name="4050" votes="14" />
+                <Precinct name="4070" votes="2" />
+                <Precinct name="4090" votes="1" />
+                <Precinct name="4100" votes="18" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0007" text="Railroad Commissioner" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Christi Craddick" party="REP" totalVotes="22529">
+            <VoteType name="Absentee" votes="847">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="79" />
+                <Precinct name="2020" votes="72" />
+                <Precinct name="2060" votes="33" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="59" />
+                <Precinct name="3010" votes="36" />
+                <Precinct name="3030" votes="67" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="60" />
+                <Precinct name="4070" votes="33" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="64" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18882">
+                <Precinct name="1010" votes="1088" />
+                <Precinct name="1030" votes="154" />
+                <Precinct name="1050" votes="1603" />
+                <Precinct name="1110" votes="1461" />
+                <Precinct name="2020" votes="1463" />
+                <Precinct name="2060" votes="1144" />
+                <Precinct name="2080" votes="1296" />
+                <Precinct name="2120" votes="1827" />
+                <Precinct name="3010" votes="1011" />
+                <Precinct name="3030" votes="1287" />
+                <Precinct name="3040" votes="725" />
+                <Precinct name="3050" votes="1179" />
+                <Precinct name="3060" votes="360" />
+                <Precinct name="4050" votes="1090" />
+                <Precinct name="4070" votes="924" />
+                <Precinct name="4090" votes="675" />
+                <Precinct name="4100" votes="1595" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2800">
+                <Precinct name="1010" votes="142" />
+                <Precinct name="1030" votes="14" />
+                <Precinct name="1050" votes="208" />
+                <Precinct name="1110" votes="126" />
+                <Precinct name="2020" votes="212" />
+                <Precinct name="2060" votes="189" />
+                <Precinct name="2080" votes="108" />
+                <Precinct name="2120" votes="179" />
+                <Precinct name="3010" votes="129" />
+                <Precinct name="3030" votes="357" />
+                <Precinct name="3040" votes="69" />
+                <Precinct name="3050" votes="119" />
+                <Precinct name="3060" votes="112" />
+                <Precinct name="4050" votes="326" />
+                <Precinct name="4070" votes="217" />
+                <Precinct name="4090" votes="101" />
+                <Precinct name="4100" votes="192" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Katherine Culbert" party="DEM" totalVotes="5270">
+            <VoteType name="Absentee" votes="459">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="32" />
+                <Precinct name="1110" votes="35" />
+                <Precinct name="2020" votes="30" />
+                <Precinct name="2060" votes="19" />
+                <Precinct name="2080" votes="33" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="28" />
+                <Precinct name="3030" votes="23" />
+                <Precinct name="3040" votes="7" />
+                <Precinct name="3050" votes="26" />
+                <Precinct name="3060" votes="13" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="30" />
+                <Precinct name="4100" votes="34" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4114">
+                <Precinct name="1010" votes="332" />
+                <Precinct name="1030" votes="21" />
+                <Precinct name="1050" votes="444" />
+                <Precinct name="1110" votes="318" />
+                <Precinct name="2020" votes="218" />
+                <Precinct name="2060" votes="283" />
+                <Precinct name="2080" votes="238" />
+                <Precinct name="2120" votes="394" />
+                <Precinct name="3010" votes="302" />
+                <Precinct name="3030" votes="244" />
+                <Precinct name="3040" votes="137" />
+                <Precinct name="3050" votes="236" />
+                <Precinct name="3060" votes="75" />
+                <Precinct name="4050" votes="258" />
+                <Precinct name="4070" votes="136" />
+                <Precinct name="4090" votes="129" />
+                <Precinct name="4100" votes="349" />
+            </VoteType>
+            <VoteType name="Election Day" votes="697">
+                <Precinct name="1010" votes="49" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="64" />
+                <Precinct name="1110" votes="38" />
+                <Precinct name="2020" votes="45" />
+                <Precinct name="2060" votes="68" />
+                <Precinct name="2080" votes="18" />
+                <Precinct name="2120" votes="29" />
+                <Precinct name="3010" votes="47" />
+                <Precinct name="3030" votes="48" />
+                <Precinct name="3040" votes="21" />
+                <Precinct name="3050" votes="41" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="96" />
+                <Precinct name="4070" votes="22" />
+                <Precinct name="4090" votes="34" />
+                <Precinct name="4100" votes="50" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="LIB Hawk Dunlap" party="LIB" totalVotes="657">
+            <VoteType name="Absentee" votes="18">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="2" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="3" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="2" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="5" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="1" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="1" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="2" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="498">
+                <Precinct name="1010" votes="41" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="50" />
+                <Precinct name="1110" votes="41" />
+                <Precinct name="2020" votes="36" />
+                <Precinct name="2060" votes="29" />
+                <Precinct name="2080" votes="28" />
+                <Precinct name="2120" votes="42" />
+                <Precinct name="3010" votes="37" />
+                <Precinct name="3030" votes="32" />
+                <Precinct name="3040" votes="7" />
+                <Precinct name="3050" votes="31" />
+                <Precinct name="3060" votes="10" />
+                <Precinct name="4050" votes="25" />
+                <Precinct name="4070" votes="21" />
+                <Precinct name="4090" votes="23" />
+                <Precinct name="4100" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day" votes="141">
+                <Precinct name="1010" votes="9" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="17" />
+                <Precinct name="1110" votes="8" />
+                <Precinct name="2020" votes="3" />
+                <Precinct name="2060" votes="12" />
+                <Precinct name="2080" votes="5" />
+                <Precinct name="2120" votes="8" />
+                <Precinct name="3010" votes="9" />
+                <Precinct name="3030" votes="13" />
+                <Precinct name="3040" votes="6" />
+                <Precinct name="3050" votes="11" />
+                <Precinct name="3060" votes="3" />
+                <Precinct name="4050" votes="14" />
+                <Precinct name="4070" votes="7" />
+                <Precinct name="4090" votes="5" />
+                <Precinct name="4100" votes="11" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="GRN Eddie Espinoza" party="GRN" totalVotes="257">
+            <VoteType name="Absentee" votes="11">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="3" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="2" />
+                <Precinct name="4050" votes="1" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="1" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="186">
+                <Precinct name="1010" votes="10" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="23" />
+                <Precinct name="1110" votes="13" />
+                <Precinct name="2020" votes="3" />
+                <Precinct name="2060" votes="17" />
+                <Precinct name="2080" votes="12" />
+                <Precinct name="2120" votes="14" />
+                <Precinct name="3010" votes="13" />
+                <Precinct name="3030" votes="8" />
+                <Precinct name="3040" votes="15" />
+                <Precinct name="3050" votes="9" />
+                <Precinct name="3060" votes="6" />
+                <Precinct name="4050" votes="12" />
+                <Precinct name="4070" votes="9" />
+                <Precinct name="4090" votes="8" />
+                <Precinct name="4100" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="1010" votes="3" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="8" />
+                <Precinct name="1110" votes="4" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="2" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="5" />
+                <Precinct name="3010" votes="5" />
+                <Precinct name="3030" votes="2" />
+                <Precinct name="3040" votes="4" />
+                <Precinct name="3050" votes="5" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="7" />
+                <Precinct name="4070" votes="2" />
+                <Precinct name="4090" votes="1" />
+                <Precinct name="4100" votes="10" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Write-in" totalVotes="13">
+            <VoteType name="Absentee" votes="3">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="1" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="1" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="1" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="5">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="1" />
+                <Precinct name="1110" votes="1" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="0" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="1" />
+                <Precinct name="4070" votes="1" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="1010" votes="0" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="1" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="0" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="0" />
+                <Precinct name="3060" votes="0" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="0" />
+                <Precinct name="4100" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0008" text="Justice, Supreme Court, Pl 2" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Jimmy Blacklock" party="REP" totalVotes="22991">
+            <VoteType name="Absentee" votes="858">
+                <Precinct name="1010" votes="45" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="82" />
+                <Precinct name="2020" votes="69" />
+                <Precinct name="2060" votes="36" />
+                <Precinct name="2080" votes="46" />
+                <Precinct name="2120" votes="60" />
+                <Precinct name="3010" votes="35" />
+                <Precinct name="3030" votes="71" />
+                <Precinct name="3040" votes="30" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="63" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="65" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19243">
+                <Precinct name="1010" votes="1114" />
+                <Precinct name="1030" votes="157" />
+                <Precinct name="1050" votes="1624" />
+                <Precinct name="1110" votes="1482" />
+                <Precinct name="2020" votes="1494" />
+                <Precinct name="2060" votes="1163" />
+                <Precinct name="2080" votes="1318" />
+                <Precinct name="2120" votes="1858" />
+                <Precinct name="3010" votes="1036" />
+                <Precinct name="3030" votes="1325" />
+                <Precinct name="3040" votes="747" />
+                <Precinct name="3050" votes="1188" />
+                <Precinct name="3060" votes="368" />
+                <Precinct name="4050" votes="1119" />
+                <Precinct name="4070" votes="940" />
+                <Precinct name="4090" votes="682" />
+                <Precinct name="4100" votes="1628" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2890">
+                <Precinct name="1010" votes="146" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="225" />
+                <Precinct name="1110" votes="135" />
+                <Precinct name="2020" votes="214" />
+                <Precinct name="2060" votes="193" />
+                <Precinct name="2080" votes="106" />
+                <Precinct name="2120" votes="181" />
+                <Precinct name="3010" votes="140" />
+                <Precinct name="3030" votes="358" />
+                <Precinct name="3040" votes="75" />
+                <Precinct name="3050" votes="133" />
+                <Precinct name="3060" votes="115" />
+                <Precinct name="4050" votes="334" />
+                <Precinct name="4070" votes="220" />
+                <Precinct name="4090" votes="106" />
+                <Precinct name="4100" votes="196" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM DaSean Jones" party="DEM" totalVotes="5680">
+            <VoteType name="Absentee" votes="481">
+                <Precinct name="1010" votes="32" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="33" />
+                <Precinct name="1110" votes="36" />
+                <Precinct name="2020" votes="32" />
+                <Precinct name="2060" votes="22" />
+                <Precinct name="2080" votes="36" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="9" />
+                <Precinct name="3050" votes="29" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="43" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="31" />
+                <Precinct name="4100" votes="34" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4388">
+                <Precinct name="1010" votes="348" />
+                <Precinct name="1030" votes="22" />
+                <Precinct name="1050" votes="489" />
+                <Precinct name="1110" votes="347" />
+                <Precinct name="2020" votes="228" />
+                <Precinct name="2060" votes="302" />
+                <Precinct name="2080" votes="250" />
+                <Precinct name="2120" votes="420" />
+                <Precinct name="3010" votes="330" />
+                <Precinct name="3030" votes="245" />
+                <Precinct name="3040" votes="135" />
+                <Precinct name="3050" votes="265" />
+                <Precinct name="3060" votes="81" />
+                <Precinct name="4050" votes="260" />
+                <Precinct name="4070" votes="145" />
+                <Precinct name="4090" votes="153" />
+                <Precinct name="4100" votes="368" />
+            </VoteType>
+            <VoteType name="Election Day" votes="811">
+                <Precinct name="1010" votes="58" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="78" />
+                <Precinct name="1110" votes="42" />
+                <Precinct name="2020" votes="46" />
+                <Precinct name="2060" votes="76" />
+                <Precinct name="2080" votes="24" />
+                <Precinct name="2120" votes="40" />
+                <Precinct name="3010" votes="52" />
+                <Precinct name="3030" votes="60" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="103" />
+                <Precinct name="4070" votes="29" />
+                <Precinct name="4090" votes="35" />
+                <Precinct name="4100" votes="70" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0009" text="Justice, Supreme Court, Pl 4" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP John Devine" party="REP" totalVotes="22765">
+            <VoteType name="Absentee" votes="842">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="80" />
+                <Precinct name="2020" votes="67" />
+                <Precinct name="2060" votes="36" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="59" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="70" />
+                <Precinct name="3040" votes="29" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="59" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="63" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19063">
+                <Precinct name="1010" votes="1091" />
+                <Precinct name="1030" votes="157" />
+                <Precinct name="1050" votes="1622" />
+                <Precinct name="1110" votes="1465" />
+                <Precinct name="2020" votes="1483" />
+                <Precinct name="2060" votes="1165" />
+                <Precinct name="2080" votes="1298" />
+                <Precinct name="2120" votes="1834" />
+                <Precinct name="3010" votes="1034" />
+                <Precinct name="3030" votes="1308" />
+                <Precinct name="3040" votes="734" />
+                <Precinct name="3050" votes="1176" />
+                <Precinct name="3060" votes="366" />
+                <Precinct name="4050" votes="1113" />
+                <Precinct name="4070" votes="935" />
+                <Precinct name="4090" votes="680" />
+                <Precinct name="4100" votes="1602" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2860">
+                <Precinct name="1010" votes="143" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="219" />
+                <Precinct name="1110" votes="131" />
+                <Precinct name="2020" votes="215" />
+                <Precinct name="2060" votes="192" />
+                <Precinct name="2080" votes="111" />
+                <Precinct name="2120" votes="182" />
+                <Precinct name="3010" votes="133" />
+                <Precinct name="3030" votes="362" />
+                <Precinct name="3040" votes="72" />
+                <Precinct name="3050" votes="128" />
+                <Precinct name="3060" votes="113" />
+                <Precinct name="4050" votes="330" />
+                <Precinct name="4070" votes="217" />
+                <Precinct name="4090" votes="102" />
+                <Precinct name="4100" votes="197" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Christine Vinh Weems" party="DEM" totalVotes="5826">
+            <VoteType name="Absentee" votes="487">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="35" />
+                <Precinct name="1110" votes="36" />
+                <Precinct name="2020" votes="33" />
+                <Precinct name="2060" votes="22" />
+                <Precinct name="2080" votes="36" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="25" />
+                <Precinct name="3040" votes="10" />
+                <Precinct name="3050" votes="28" />
+                <Precinct name="3060" votes="14" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="31" />
+                <Precinct name="4100" votes="35" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4525">
+                <Precinct name="1010" votes="364" />
+                <Precinct name="1030" votes="23" />
+                <Precinct name="1050" votes="490" />
+                <Precinct name="1110" votes="362" />
+                <Precinct name="2020" votes="237" />
+                <Precinct name="2060" votes="296" />
+                <Precinct name="2080" votes="272" />
+                <Precinct name="2120" votes="443" />
+                <Precinct name="3010" votes="323" />
+                <Precinct name="3030" votes="262" />
+                <Precinct name="3040" votes="145" />
+                <Precinct name="3050" votes="272" />
+                <Precinct name="3060" votes="83" />
+                <Precinct name="4050" votes="267" />
+                <Precinct name="4070" votes="148" />
+                <Precinct name="4090" votes="146" />
+                <Precinct name="4100" votes="392" />
+            </VoteType>
+            <VoteType name="Election Day" votes="814">
+                <Precinct name="1010" votes="58" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="76" />
+                <Precinct name="1110" votes="49" />
+                <Precinct name="2020" votes="47" />
+                <Precinct name="2060" votes="76" />
+                <Precinct name="2080" votes="20" />
+                <Precinct name="2120" votes="37" />
+                <Precinct name="3010" votes="57" />
+                <Precinct name="3030" votes="56" />
+                <Precinct name="3040" votes="24" />
+                <Precinct name="3050" votes="48" />
+                <Precinct name="3060" votes="26" />
+                <Precinct name="4050" votes="105" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="36" />
+                <Precinct name="4100" votes="64" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0010" text="Justice, Supreme Court, Pl 6" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Jane Bland" party="REP" totalVotes="22454">
+            <VoteType name="Absentee" votes="851">
+                <Precinct name="1010" votes="43" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="80" />
+                <Precinct name="2020" votes="69" />
+                <Precinct name="2060" votes="33" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="60" />
+                <Precinct name="3010" votes="38" />
+                <Precinct name="3030" votes="69" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="63" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="42" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18820">
+                <Precinct name="1010" votes="1075" />
+                <Precinct name="1030" votes="154" />
+                <Precinct name="1050" votes="1594" />
+                <Precinct name="1110" votes="1451" />
+                <Precinct name="2020" votes="1470" />
+                <Precinct name="2060" votes="1138" />
+                <Precinct name="2080" votes="1293" />
+                <Precinct name="2120" votes="1820" />
+                <Precinct name="3010" votes="1007" />
+                <Precinct name="3030" votes="1290" />
+                <Precinct name="3040" votes="729" />
+                <Precinct name="3050" votes="1162" />
+                <Precinct name="3060" votes="355" />
+                <Precinct name="4050" votes="1093" />
+                <Precinct name="4070" votes="929" />
+                <Precinct name="4090" votes="670" />
+                <Precinct name="4100" votes="1590" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2783">
+                <Precinct name="1010" votes="137" />
+                <Precinct name="1030" votes="14" />
+                <Precinct name="1050" votes="205" />
+                <Precinct name="1110" votes="130" />
+                <Precinct name="2020" votes="208" />
+                <Precinct name="2060" votes="187" />
+                <Precinct name="2080" votes="107" />
+                <Precinct name="2120" votes="182" />
+                <Precinct name="3010" votes="132" />
+                <Precinct name="3030" votes="352" />
+                <Precinct name="3040" votes="70" />
+                <Precinct name="3050" votes="125" />
+                <Precinct name="3060" votes="111" />
+                <Precinct name="4050" votes="317" />
+                <Precinct name="4070" votes="214" />
+                <Precinct name="4090" votes="100" />
+                <Precinct name="4100" votes="192" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Bonnie Lee Goldstein" party="DEM" totalVotes="5568">
+            <VoteType name="Absentee" votes="473">
+                <Precinct name="1010" votes="32" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="35" />
+                <Precinct name="1110" votes="36" />
+                <Precinct name="2020" votes="33" />
+                <Precinct name="2060" votes="22" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="30" />
+                <Precinct name="3030" votes="26" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="27" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="43" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="28" />
+                <Precinct name="4100" votes="32" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4349">
+                <Precinct name="1010" votes="351" />
+                <Precinct name="1030" votes="23" />
+                <Precinct name="1050" votes="474" />
+                <Precinct name="1110" votes="342" />
+                <Precinct name="2020" votes="225" />
+                <Precinct name="2060" votes="295" />
+                <Precinct name="2080" votes="257" />
+                <Precinct name="2120" votes="425" />
+                <Precinct name="3010" votes="316" />
+                <Precinct name="3030" votes="246" />
+                <Precinct name="3040" votes="138" />
+                <Precinct name="3050" votes="260" />
+                <Precinct name="3060" votes="83" />
+                <Precinct name="4050" votes="262" />
+                <Precinct name="4070" votes="146" />
+                <Precinct name="4090" votes="140" />
+                <Precinct name="4100" votes="366" />
+            </VoteType>
+            <VoteType name="Election Day" votes="746">
+                <Precinct name="1010" votes="54" />
+                <Precinct name="1030" votes="3" />
+                <Precinct name="1050" votes="68" />
+                <Precinct name="1110" votes="44" />
+                <Precinct name="2020" votes="45" />
+                <Precinct name="2060" votes="69" />
+                <Precinct name="2080" votes="23" />
+                <Precinct name="2120" votes="31" />
+                <Precinct name="3010" votes="52" />
+                <Precinct name="3030" votes="54" />
+                <Precinct name="3040" votes="21" />
+                <Precinct name="3050" votes="40" />
+                <Precinct name="3060" votes="26" />
+                <Precinct name="4050" votes="100" />
+                <Precinct name="4070" votes="28" />
+                <Precinct name="4090" votes="33" />
+                <Precinct name="4100" votes="55" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="LIB J. David Roberson" party="LIB" totalVotes="580">
+            <VoteType name="Absentee" votes="18">
+                <Precinct name="1010" votes="1" />
+                <Precinct name="1030" votes="1" />
+                <Precinct name="1050" votes="0" />
+                <Precinct name="1110" votes="2" />
+                <Precinct name="2020" votes="0" />
+                <Precinct name="2060" votes="3" />
+                <Precinct name="2080" votes="2" />
+                <Precinct name="2120" votes="0" />
+                <Precinct name="3010" votes="0" />
+                <Precinct name="3030" votes="1" />
+                <Precinct name="3040" votes="0" />
+                <Precinct name="3050" votes="1" />
+                <Precinct name="3060" votes="1" />
+                <Precinct name="4050" votes="0" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="2" />
+                <Precinct name="4100" votes="4" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="408">
+                <Precinct name="1010" votes="25" />
+                <Precinct name="1030" votes="2" />
+                <Precinct name="1050" votes="46" />
+                <Precinct name="1110" votes="34" />
+                <Precinct name="2020" votes="24" />
+                <Precinct name="2060" votes="26" />
+                <Precinct name="2080" votes="21" />
+                <Precinct name="2120" votes="33" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="29" />
+                <Precinct name="3040" votes="14" />
+                <Precinct name="3050" votes="25" />
+                <Precinct name="3060" votes="11" />
+                <Precinct name="4050" votes="23" />
+                <Precinct name="4070" votes="11" />
+                <Precinct name="4090" votes="17" />
+                <Precinct name="4100" votes="34" />
+            </VoteType>
+            <VoteType name="Election Day" votes="154">
+                <Precinct name="1010" votes="12" />
+                <Precinct name="1030" votes="1" />
+                <Precinct name="1050" votes="23" />
+                <Precinct name="1110" votes="5" />
+                <Precinct name="2020" votes="9" />
+                <Precinct name="2060" votes="12" />
+                <Precinct name="2080" votes="2" />
+                <Precinct name="2120" votes="6" />
+                <Precinct name="3010" votes="9" />
+                <Precinct name="3030" votes="11" />
+                <Precinct name="3040" votes="7" />
+                <Precinct name="3050" votes="10" />
+                <Precinct name="3060" votes="1" />
+                <Precinct name="4050" votes="17" />
+                <Precinct name="4070" votes="6" />
+                <Precinct name="4090" votes="9" />
+                <Precinct name="4100" votes="14" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0011" text="Presiding Judge, Ct of Crim App" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP David J. Schenck" party="REP" totalVotes="22828">
+            <VoteType name="Absentee" votes="852">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="80" />
+                <Precinct name="2020" votes="71" />
+                <Precinct name="2060" votes="37" />
+                <Precinct name="2080" votes="48" />
+                <Precinct name="2120" votes="60" />
+                <Precinct name="3010" votes="34" />
+                <Precinct name="3030" votes="72" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="60" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19118">
+                <Precinct name="1010" votes="1099" />
+                <Precinct name="1030" votes="157" />
+                <Precinct name="1050" votes="1634" />
+                <Precinct name="1110" votes="1482" />
+                <Precinct name="2020" votes="1484" />
+                <Precinct name="2060" votes="1156" />
+                <Precinct name="2080" votes="1313" />
+                <Precinct name="2120" votes="1842" />
+                <Precinct name="3010" votes="1033" />
+                <Precinct name="3030" votes="1304" />
+                <Precinct name="3040" votes="737" />
+                <Precinct name="3050" votes="1178" />
+                <Precinct name="3060" votes="373" />
+                <Precinct name="4050" votes="1114" />
+                <Precinct name="4070" votes="937" />
+                <Precinct name="4090" votes="677" />
+                <Precinct name="4100" votes="1598" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2858">
+                <Precinct name="1010" votes="144" />
+                <Precinct name="1030" votes="14" />
+                <Precinct name="1050" votes="221" />
+                <Precinct name="1110" votes="135" />
+                <Precinct name="2020" votes="211" />
+                <Precinct name="2060" votes="196" />
+                <Precinct name="2080" votes="110" />
+                <Precinct name="2120" votes="180" />
+                <Precinct name="3010" votes="136" />
+                <Precinct name="3030" votes="359" />
+                <Precinct name="3040" votes="75" />
+                <Precinct name="3050" votes="127" />
+                <Precinct name="3060" votes="113" />
+                <Precinct name="4050" votes="324" />
+                <Precinct name="4070" votes="214" />
+                <Precinct name="4090" votes="102" />
+                <Precinct name="4100" votes="197" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Holly Taylor" party="DEM" totalVotes="5691">
+            <VoteType name="Absentee" votes="480">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="36" />
+                <Precinct name="1110" votes="37" />
+                <Precinct name="2020" votes="31" />
+                <Precinct name="2060" votes="21" />
+                <Precinct name="2080" votes="36" />
+                <Precinct name="2120" votes="33" />
+                <Precinct name="3010" votes="30" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="27" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="31" />
+                <Precinct name="4100" votes="35" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4407">
+                <Precinct name="1010" votes="349" />
+                <Precinct name="1030" votes="23" />
+                <Precinct name="1050" votes="480" />
+                <Precinct name="1110" votes="344" />
+                <Precinct name="2020" votes="227" />
+                <Precinct name="2060" votes="293" />
+                <Precinct name="2080" votes="255" />
+                <Precinct name="2120" votes="428" />
+                <Precinct name="3010" votes="320" />
+                <Precinct name="3030" votes="261" />
+                <Precinct name="3040" votes="143" />
+                <Precinct name="3050" votes="264" />
+                <Precinct name="3060" votes="79" />
+                <Precinct name="4050" votes="260" />
+                <Precinct name="4070" votes="145" />
+                <Precinct name="4090" votes="148" />
+                <Precinct name="4100" votes="388" />
+            </VoteType>
+            <VoteType name="Election Day" votes="804">
+                <Precinct name="1010" votes="55" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="72" />
+                <Precinct name="1110" votes="42" />
+                <Precinct name="2020" votes="50" />
+                <Precinct name="2060" votes="72" />
+                <Precinct name="2080" votes="20" />
+                <Precinct name="2120" votes="39" />
+                <Precinct name="3010" votes="57" />
+                <Precinct name="3030" votes="57" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="48" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="108" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0012" text="Judge, Ct of Crim App, Pl 7" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Gina Parker" party="REP" totalVotes="22856">
+            <VoteType name="Absentee" votes="842">
+                <Precinct name="1010" votes="43" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="81" />
+                <Precinct name="2020" votes="70" />
+                <Precinct name="2060" votes="36" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="55" />
+                <Precinct name="3010" votes="34" />
+                <Precinct name="3030" votes="70" />
+                <Precinct name="3040" votes="32" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="32" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19132">
+                <Precinct name="1010" votes="1098" />
+                <Precinct name="1030" votes="158" />
+                <Precinct name="1050" votes="1628" />
+                <Precinct name="1110" votes="1468" />
+                <Precinct name="2020" votes="1483" />
+                <Precinct name="2060" votes="1162" />
+                <Precinct name="2080" votes="1322" />
+                <Precinct name="2120" votes="1844" />
+                <Precinct name="3010" votes="1033" />
+                <Precinct name="3030" votes="1306" />
+                <Precinct name="3040" votes="744" />
+                <Precinct name="3050" votes="1182" />
+                <Precinct name="3060" votes="364" />
+                <Precinct name="4050" votes="1108" />
+                <Precinct name="4070" votes="937" />
+                <Precinct name="4090" votes="683" />
+                <Precinct name="4100" votes="1612" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2882">
+                <Precinct name="1010" votes="145" />
+                <Precinct name="1030" votes="16" />
+                <Precinct name="1050" votes="221" />
+                <Precinct name="1110" votes="136" />
+                <Precinct name="2020" votes="212" />
+                <Precinct name="2060" votes="196" />
+                <Precinct name="2080" votes="109" />
+                <Precinct name="2120" votes="183" />
+                <Precinct name="3010" votes="137" />
+                <Precinct name="3030" votes="362" />
+                <Precinct name="3040" votes="74" />
+                <Precinct name="3050" votes="131" />
+                <Precinct name="3060" votes="113" />
+                <Precinct name="4050" votes="330" />
+                <Precinct name="4070" votes="218" />
+                <Precinct name="4090" votes="103" />
+                <Precinct name="4100" votes="196" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Nancy Mulder" party="DEM" totalVotes="5613">
+            <VoteType name="Absentee" votes="470">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="32" />
+                <Precinct name="1110" votes="36" />
+                <Precinct name="2020" votes="31" />
+                <Precinct name="2060" votes="20" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="29" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="7" />
+                <Precinct name="3050" votes="27" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="30" />
+                <Precinct name="4100" votes="34" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4373">
+                <Precinct name="1010" votes="353" />
+                <Precinct name="1030" votes="23" />
+                <Precinct name="1050" votes="482" />
+                <Precinct name="1110" votes="354" />
+                <Precinct name="2020" votes="226" />
+                <Precinct name="2060" votes="286" />
+                <Precinct name="2080" votes="247" />
+                <Precinct name="2120" votes="422" />
+                <Precinct name="3010" votes="319" />
+                <Precinct name="3030" votes="255" />
+                <Precinct name="3040" votes="136" />
+                <Precinct name="3050" votes="261" />
+                <Precinct name="3060" votes="84" />
+                <Precinct name="4050" votes="266" />
+                <Precinct name="4070" votes="145" />
+                <Precinct name="4090" votes="142" />
+                <Precinct name="4100" votes="372" />
+            </VoteType>
+            <VoteType name="Election Day" votes="770">
+                <Precinct name="1010" votes="53" />
+                <Precinct name="1030" votes="2" />
+                <Precinct name="1050" votes="70" />
+                <Precinct name="1110" votes="42" />
+                <Precinct name="2020" votes="48" />
+                <Precinct name="2060" votes="71" />
+                <Precinct name="2080" votes="21" />
+                <Precinct name="2120" votes="36" />
+                <Precinct name="3010" votes="57" />
+                <Precinct name="3030" votes="54" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="42" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="101" />
+                <Precinct name="4070" votes="28" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="61" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0013" text="Judge, Ct of Crim App, Pl 8" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Lee Finley" party="REP" totalVotes="22956">
+            <VoteType name="Absentee" votes="860">
+                <Precinct name="1010" votes="43" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="82" />
+                <Precinct name="2020" votes="70" />
+                <Precinct name="2060" votes="37" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="61" />
+                <Precinct name="3010" votes="35" />
+                <Precinct name="3030" votes="72" />
+                <Precinct name="3040" votes="29" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="64" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="42" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19207">
+                <Precinct name="1010" votes="1103" />
+                <Precinct name="1030" votes="156" />
+                <Precinct name="1050" votes="1637" />
+                <Precinct name="1110" votes="1482" />
+                <Precinct name="2020" votes="1492" />
+                <Precinct name="2060" votes="1161" />
+                <Precinct name="2080" votes="1317" />
+                <Precinct name="2120" votes="1857" />
+                <Precinct name="3010" votes="1038" />
+                <Precinct name="3030" votes="1305" />
+                <Precinct name="3040" votes="737" />
+                <Precinct name="3050" votes="1185" />
+                <Precinct name="3060" votes="368" />
+                <Precinct name="4050" votes="1121" />
+                <Precinct name="4070" votes="939" />
+                <Precinct name="4090" votes="687" />
+                <Precinct name="4100" votes="1622" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2889">
+                <Precinct name="1010" votes="143" />
+                <Precinct name="1030" votes="16" />
+                <Precinct name="1050" votes="222" />
+                <Precinct name="1110" votes="136" />
+                <Precinct name="2020" votes="214" />
+                <Precinct name="2060" votes="197" />
+                <Precinct name="2080" votes="110" />
+                <Precinct name="2120" votes="185" />
+                <Precinct name="3010" votes="138" />
+                <Precinct name="3030" votes="362" />
+                <Precinct name="3040" votes="76" />
+                <Precinct name="3050" votes="127" />
+                <Precinct name="3060" votes="108" />
+                <Precinct name="4050" votes="337" />
+                <Precinct name="4070" votes="216" />
+                <Precinct name="4090" votes="104" />
+                <Precinct name="4100" votes="198" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Chika Anyiam" party="DEM" totalVotes="5516">
+            <VoteType name="Absentee" votes="469">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="33" />
+                <Precinct name="1110" votes="36" />
+                <Precinct name="2020" votes="32" />
+                <Precinct name="2060" votes="21" />
+                <Precinct name="2080" votes="36" />
+                <Precinct name="2120" votes="33" />
+                <Precinct name="3010" votes="30" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="10" />
+                <Precinct name="3050" votes="26" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="42" />
+                <Precinct name="4070" votes="29" />
+                <Precinct name="4090" votes="29" />
+                <Precinct name="4100" votes="33" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4282">
+                <Precinct name="1010" votes="343" />
+                <Precinct name="1030" votes="24" />
+                <Precinct name="1050" votes="475" />
+                <Precinct name="1110" votes="341" />
+                <Precinct name="2020" votes="216" />
+                <Precinct name="2060" votes="286" />
+                <Precinct name="2080" votes="250" />
+                <Precinct name="2120" votes="412" />
+                <Precinct name="3010" votes="312" />
+                <Precinct name="3030" votes="255" />
+                <Precinct name="3040" votes="139" />
+                <Precinct name="3050" votes="255" />
+                <Precinct name="3060" votes="77" />
+                <Precinct name="4050" votes="252" />
+                <Precinct name="4070" votes="142" />
+                <Precinct name="4090" votes="141" />
+                <Precinct name="4100" votes="362" />
+            </VoteType>
+            <VoteType name="Election Day" votes="765">
+                <Precinct name="1010" votes="57" />
+                <Precinct name="1030" votes="2" />
+                <Precinct name="1050" votes="70" />
+                <Precinct name="1110" votes="42" />
+                <Precinct name="2020" votes="47" />
+                <Precinct name="2060" votes="70" />
+                <Precinct name="2080" votes="20" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="55" />
+                <Precinct name="3030" votes="53" />
+                <Precinct name="3040" votes="21" />
+                <Precinct name="3050" votes="47" />
+                <Precinct name="3060" votes="27" />
+                <Precinct name="4050" votes="95" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="33" />
+                <Precinct name="4100" votes="61" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0014" text="Member, State BoE, Dist 10" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Tom Maynard" party="REP" totalVotes="22737">
+            <VoteType name="Absentee" votes="850">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="82" />
+                <Precinct name="2020" votes="70" />
+                <Precinct name="2060" votes="37" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="60" />
+                <Precinct name="3010" votes="34" />
+                <Precinct name="3030" votes="71" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="22" />
+                <Precinct name="4050" votes="60" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="40" />
+                <Precinct name="4100" votes="62" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19041">
+                <Precinct name="1010" votes="1088" />
+                <Precinct name="1030" votes="159" />
+                <Precinct name="1050" votes="1614" />
+                <Precinct name="1110" votes="1457" />
+                <Precinct name="2020" votes="1485" />
+                <Precinct name="2060" votes="1151" />
+                <Precinct name="2080" votes="1311" />
+                <Precinct name="2120" votes="1846" />
+                <Precinct name="3010" votes="1032" />
+                <Precinct name="3030" votes="1299" />
+                <Precinct name="3040" votes="733" />
+                <Precinct name="3050" votes="1182" />
+                <Precinct name="3060" votes="360" />
+                <Precinct name="4050" votes="1108" />
+                <Precinct name="4070" votes="932" />
+                <Precinct name="4090" votes="675" />
+                <Precinct name="4100" votes="1609" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2846">
+                <Precinct name="1010" votes="145" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="218" />
+                <Precinct name="1110" votes="132" />
+                <Precinct name="2020" votes="213" />
+                <Precinct name="2060" votes="192" />
+                <Precinct name="2080" votes="107" />
+                <Precinct name="2120" votes="184" />
+                <Precinct name="3010" votes="136" />
+                <Precinct name="3030" votes="360" />
+                <Precinct name="3040" votes="73" />
+                <Precinct name="3050" votes="127" />
+                <Precinct name="3060" votes="108" />
+                <Precinct name="4050" votes="326" />
+                <Precinct name="4070" votes="218" />
+                <Precinct name="4090" votes="100" />
+                <Precinct name="4100" votes="194" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Raquel Saenz Ortiz" party="DEM" totalVotes="5666">
+            <VoteType name="Absentee" votes="482">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="35" />
+                <Precinct name="1110" votes="35" />
+                <Precinct name="2020" votes="32" />
+                <Precinct name="2060" votes="21" />
+                <Precinct name="2080" votes="36" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="32" />
+                <Precinct name="3030" votes="25" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="27" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="44" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="30" />
+                <Precinct name="4100" votes="38" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4368">
+                <Precinct name="1010" votes="353" />
+                <Precinct name="1030" votes="20" />
+                <Precinct name="1050" votes="470" />
+                <Precinct name="1110" votes="358" />
+                <Precinct name="2020" votes="219" />
+                <Precinct name="2060" votes="290" />
+                <Precinct name="2080" votes="256" />
+                <Precinct name="2120" votes="416" />
+                <Precinct name="3010" votes="316" />
+                <Precinct name="3030" votes="259" />
+                <Precinct name="3040" votes="138" />
+                <Precinct name="3050" votes="253" />
+                <Precinct name="3060" votes="87" />
+                <Precinct name="4050" votes="269" />
+                <Precinct name="4070" votes="150" />
+                <Precinct name="4090" votes="145" />
+                <Precinct name="4100" votes="369" />
+            </VoteType>
+            <VoteType name="Election Day" votes="816">
+                <Precinct name="1010" votes="56" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="77" />
+                <Precinct name="1110" votes="47" />
+                <Precinct name="2020" votes="51" />
+                <Precinct name="2060" votes="75" />
+                <Precinct name="2080" votes="23" />
+                <Precinct name="2120" votes="35" />
+                <Precinct name="3010" votes="56" />
+                <Precinct name="3030" votes="57" />
+                <Precinct name="3040" votes="23" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="28" />
+                <Precinct name="4050" votes="106" />
+                <Precinct name="4070" votes="29" />
+                <Precinct name="4090" votes="38" />
+                <Precinct name="4100" votes="66" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0015" text="State Senator, Dist 25" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Donna Campbell" party="REP" totalVotes="22757">
+            <VoteType name="Absentee" votes="868">
+                <Precinct name="1010" votes="46" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="81" />
+                <Precinct name="2020" votes="71" />
+                <Precinct name="2060" votes="37" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="60" />
+                <Precinct name="3010" votes="37" />
+                <Precinct name="3030" votes="70" />
+                <Precinct name="3040" votes="33" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="62" />
+                <Precinct name="4070" votes="35" />
+                <Precinct name="4090" votes="42" />
+                <Precinct name="4100" votes="67" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19011">
+                <Precinct name="1010" votes="1099" />
+                <Precinct name="1030" votes="159" />
+                <Precinct name="1050" votes="1627" />
+                <Precinct name="1110" votes="1450" />
+                <Precinct name="2020" votes="1478" />
+                <Precinct name="2060" votes="1145" />
+                <Precinct name="2080" votes="1300" />
+                <Precinct name="2120" votes="1831" />
+                <Precinct name="3010" votes="1027" />
+                <Precinct name="3030" votes="1303" />
+                <Precinct name="3040" votes="728" />
+                <Precinct name="3050" votes="1176" />
+                <Precinct name="3060" votes="368" />
+                <Precinct name="4050" votes="1120" />
+                <Precinct name="4070" votes="928" />
+                <Precinct name="4090" votes="667" />
+                <Precinct name="4100" votes="1605" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2878">
+                <Precinct name="1010" votes="142" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="220" />
+                <Precinct name="1110" votes="131" />
+                <Precinct name="2020" votes="213" />
+                <Precinct name="2060" votes="197" />
+                <Precinct name="2080" votes="111" />
+                <Precinct name="2120" votes="186" />
+                <Precinct name="3010" votes="137" />
+                <Precinct name="3030" votes="358" />
+                <Precinct name="3040" votes="74" />
+                <Precinct name="3050" votes="130" />
+                <Precinct name="3060" votes="109" />
+                <Precinct name="4050" votes="338" />
+                <Precinct name="4070" votes="220" />
+                <Precinct name="4090" votes="102" />
+                <Precinct name="4100" votes="197" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Merrie Fox" party="DEM" totalVotes="5717">
+            <VoteType name="Absentee" votes="482">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="36" />
+                <Precinct name="1110" votes="37" />
+                <Precinct name="2020" votes="34" />
+                <Precinct name="2060" votes="21" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="33" />
+                <Precinct name="3030" votes="26" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="26" />
+                <Precinct name="3060" votes="16" />
+                <Precinct name="4050" votes="43" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="31" />
+                <Precinct name="4100" votes="33" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4453">
+                <Precinct name="1010" votes="353" />
+                <Precinct name="1030" votes="22" />
+                <Precinct name="1050" votes="470" />
+                <Precinct name="1110" votes="363" />
+                <Precinct name="2020" votes="226" />
+                <Precinct name="2060" votes="302" />
+                <Precinct name="2080" votes="266" />
+                <Precinct name="2120" votes="434" />
+                <Precinct name="3010" votes="324" />
+                <Precinct name="3030" votes="258" />
+                <Precinct name="3040" votes="136" />
+                <Precinct name="3050" votes="264" />
+                <Precinct name="3060" votes="82" />
+                <Precinct name="4050" votes="259" />
+                <Precinct name="4070" votes="151" />
+                <Precinct name="4090" votes="159" />
+                <Precinct name="4100" votes="384" />
+            </VoteType>
+            <VoteType name="Election Day" votes="782">
+                <Precinct name="1010" votes="60" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="68" />
+                <Precinct name="1110" votes="46" />
+                <Precinct name="2020" votes="46" />
+                <Precinct name="2060" votes="71" />
+                <Precinct name="2080" votes="19" />
+                <Precinct name="2120" votes="35" />
+                <Precinct name="3010" votes="55" />
+                <Precinct name="3030" votes="58" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="44" />
+                <Precinct name="3060" votes="26" />
+                <Precinct name="4050" votes="97" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="63" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0016" text="State Representative, Dist 19" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Ellen Troxclair" party="REP" totalVotes="21820">
+            <VoteType name="Absentee" votes="827">
+                <Precinct name="1010" votes="42" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="78" />
+                <Precinct name="2020" votes="70" />
+                <Precinct name="2060" votes="34" />
+                <Precinct name="2080" votes="45" />
+                <Precinct name="2120" votes="57" />
+                <Precinct name="3010" votes="32" />
+                <Precinct name="3030" votes="65" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="43" />
+                <Precinct name="3060" votes="21" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="41" />
+                <Precinct name="4100" votes="63" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18252">
+                <Precinct name="1010" votes="1066" />
+                <Precinct name="1030" votes="151" />
+                <Precinct name="1050" votes="1561" />
+                <Precinct name="1110" votes="1411" />
+                <Precinct name="2020" votes="1431" />
+                <Precinct name="2060" votes="1115" />
+                <Precinct name="2080" votes="1280" />
+                <Precinct name="2120" votes="1753" />
+                <Precinct name="3010" votes="973" />
+                <Precinct name="3030" votes="1248" />
+                <Precinct name="3040" votes="698" />
+                <Precinct name="3050" votes="1121" />
+                <Precinct name="3060" votes="347" />
+                <Precinct name="4050" votes="1061" />
+                <Precinct name="4070" votes="876" />
+                <Precinct name="4090" votes="643" />
+                <Precinct name="4100" votes="1517" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2741">
+                <Precinct name="1010" votes="139" />
+                <Precinct name="1030" votes="15" />
+                <Precinct name="1050" votes="207" />
+                <Precinct name="1110" votes="124" />
+                <Precinct name="2020" votes="205" />
+                <Precinct name="2060" votes="185" />
+                <Precinct name="2080" votes="107" />
+                <Precinct name="2120" votes="178" />
+                <Precinct name="3010" votes="131" />
+                <Precinct name="3030" votes="343" />
+                <Precinct name="3040" votes="67" />
+                <Precinct name="3050" votes="120" />
+                <Precinct name="3060" votes="109" />
+                <Precinct name="4050" votes="317" />
+                <Precinct name="4070" votes="207" />
+                <Precinct name="4090" votes="98" />
+                <Precinct name="4100" votes="189" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Dwain Handley" party="DEM" totalVotes="5457">
+            <VoteType name="Absentee" votes="472">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="33" />
+                <Precinct name="1110" votes="38" />
+                <Precinct name="2020" votes="31" />
+                <Precinct name="2060" votes="24" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="35" />
+                <Precinct name="3010" votes="34" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="24" />
+                <Precinct name="3060" votes="14" />
+                <Precinct name="4050" votes="42" />
+                <Precinct name="4070" votes="31" />
+                <Precinct name="4090" votes="28" />
+                <Precinct name="4100" votes="32" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4246">
+                <Precinct name="1010" votes="335" />
+                <Precinct name="1030" votes="22" />
+                <Precinct name="1050" votes="451" />
+                <Precinct name="1110" votes="342" />
+                <Precinct name="2020" votes="214" />
+                <Precinct name="2060" votes="274" />
+                <Precinct name="2080" votes="256" />
+                <Precinct name="2120" votes="414" />
+                <Precinct name="3010" votes="312" />
+                <Precinct name="3030" votes="251" />
+                <Precinct name="3040" votes="133" />
+                <Precinct name="3050" votes="252" />
+                <Precinct name="3060" votes="78" />
+                <Precinct name="4050" votes="263" />
+                <Precinct name="4070" votes="144" />
+                <Precinct name="4090" votes="140" />
+                <Precinct name="4100" votes="365" />
+            </VoteType>
+            <VoteType name="Election Day" votes="739">
+                <Precinct name="1010" votes="51" />
+                <Precinct name="1030" votes="2" />
+                <Precinct name="1050" votes="68" />
+                <Precinct name="1110" votes="42" />
+                <Precinct name="2020" votes="46" />
+                <Precinct name="2060" votes="71" />
+                <Precinct name="2080" votes="19" />
+                <Precinct name="2120" votes="31" />
+                <Precinct name="3010" votes="51" />
+                <Precinct name="3030" votes="54" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="40" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="95" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="55" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="IND Kodi Sawin" party="IND" totalVotes="1068">
+            <VoteType name="Absentee" votes="25">
+                <Precinct name="1010" votes="2" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="3" />
+                <Precinct name="1110" votes="0" />
+                <Precinct name="2020" votes="1" />
+                <Precinct name="2060" votes="0" />
+                <Precinct name="2080" votes="1" />
+                <Precinct name="2120" votes="2" />
+                <Precinct name="3010" votes="2" />
+                <Precinct name="3030" votes="2" />
+                <Precinct name="3040" votes="1" />
+                <Precinct name="3050" votes="3" />
+                <Precinct name="3060" votes="2" />
+                <Precinct name="4050" votes="1" />
+                <Precinct name="4070" votes="0" />
+                <Precinct name="4090" votes="3" />
+                <Precinct name="4100" votes="2" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="854">
+                <Precinct name="1010" votes="49" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="73" />
+                <Precinct name="1110" votes="55" />
+                <Precinct name="2020" votes="58" />
+                <Precinct name="2060" votes="43" />
+                <Precinct name="2080" votes="32" />
+                <Precinct name="2120" votes="89" />
+                <Precinct name="3010" votes="53" />
+                <Precinct name="3030" votes="50" />
+                <Precinct name="3040" votes="34" />
+                <Precinct name="3050" votes="58" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="52" />
+                <Precinct name="4070" votes="53" />
+                <Precinct name="4090" votes="35" />
+                <Precinct name="4100" votes="91" />
+            </VoteType>
+            <VoteType name="Election Day" votes="189">
+                <Precinct name="1010" votes="13" />
+                <Precinct name="1030" votes="1" />
+                <Precinct name="1050" votes="19" />
+                <Precinct name="1110" votes="11" />
+                <Precinct name="2020" votes="7" />
+                <Precinct name="2060" votes="11" />
+                <Precinct name="2080" votes="4" />
+                <Precinct name="2120" votes="14" />
+                <Precinct name="3010" votes="10" />
+                <Precinct name="3030" votes="18" />
+                <Precinct name="3040" votes="9" />
+                <Precinct name="3050" votes="14" />
+                <Precinct name="3060" votes="2" />
+                <Precinct name="4050" votes="24" />
+                <Precinct name="4070" votes="12" />
+                <Precinct name="4090" votes="5" />
+                <Precinct name="4100" votes="15" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0017" text="Justice, 4th Ct of App Dist, Pl 2" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="DEM Velia J. Meza" party="DEM" totalVotes="11062">
+            <VoteType name="Absentee" votes="582">
+                <Precinct name="1010" votes="32" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="45" />
+                <Precinct name="1110" votes="51" />
+                <Precinct name="2020" votes="36" />
+                <Precinct name="2060" votes="26" />
+                <Precinct name="2080" votes="44" />
+                <Precinct name="2120" votes="39" />
+                <Precinct name="3010" votes="42" />
+                <Precinct name="3030" votes="34" />
+                <Precinct name="3040" votes="15" />
+                <Precinct name="3050" votes="26" />
+                <Precinct name="3060" votes="19" />
+                <Precinct name="4050" votes="52" />
+                <Precinct name="4070" votes="36" />
+                <Precinct name="4090" votes="36" />
+                <Precinct name="4100" votes="43" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="8781">
+                <Precinct name="1010" votes="616" />
+                <Precinct name="1030" votes="58" />
+                <Precinct name="1050" votes="928" />
+                <Precinct name="1110" votes="674" />
+                <Precinct name="2020" votes="514" />
+                <Precinct name="2060" votes="577" />
+                <Precinct name="2080" votes="580" />
+                <Precinct name="2120" votes="849" />
+                <Precinct name="3010" votes="591" />
+                <Precinct name="3030" votes="540" />
+                <Precinct name="3040" votes="295" />
+                <Precinct name="3050" votes="520" />
+                <Precinct name="3060" votes="163" />
+                <Precinct name="4050" votes="513" />
+                <Precinct name="4070" votes="345" />
+                <Precinct name="4090" votes="287" />
+                <Precinct name="4100" votes="731" />
+            </VoteType>
+            <VoteType name="Election Day" votes="1699">
+                <Precinct name="1010" votes="110" />
+                <Precinct name="1030" votes="9" />
+                <Precinct name="1050" votes="155" />
+                <Precinct name="1110" votes="85" />
+                <Precinct name="2020" votes="103" />
+                <Precinct name="2060" votes="138" />
+                <Precinct name="2080" votes="50" />
+                <Precinct name="2120" votes="98" />
+                <Precinct name="3010" votes="103" />
+                <Precinct name="3030" votes="161" />
+                <Precinct name="3040" votes="47" />
+                <Precinct name="3050" votes="86" />
+                <Precinct name="3060" votes="59" />
+                <Precinct name="4050" votes="207" />
+                <Precinct name="4070" votes="93" />
+                <Precinct name="4090" votes="69" />
+                <Precinct name="4100" votes="126" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0018" text="Justice, 4th Ct of App Dist, Pl 3" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Todd McCray" party="REP" totalVotes="22707">
+            <VoteType name="Absentee" votes="854">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="105" />
+                <Precinct name="1110" votes="79" />
+                <Precinct name="2020" votes="71" />
+                <Precinct name="2060" votes="35" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="61" />
+                <Precinct name="3010" votes="36" />
+                <Precinct name="3030" votes="69" />
+                <Precinct name="3040" votes="30" />
+                <Precinct name="3050" votes="47" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="59" />
+                <Precinct name="4070" votes="35" />
+                <Precinct name="4090" votes="42" />
+                <Precinct name="4100" votes="65" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18998">
+                <Precinct name="1010" votes="1077" />
+                <Precinct name="1030" votes="153" />
+                <Precinct name="1050" votes="1605" />
+                <Precinct name="1110" votes="1463" />
+                <Precinct name="2020" votes="1483" />
+                <Precinct name="2060" votes="1152" />
+                <Precinct name="2080" votes="1304" />
+                <Precinct name="2120" votes="1832" />
+                <Precinct name="3010" votes="1021" />
+                <Precinct name="3030" votes="1310" />
+                <Precinct name="3040" votes="738" />
+                <Precinct name="3050" votes="1170" />
+                <Precinct name="3060" votes="367" />
+                <Precinct name="4050" votes="1106" />
+                <Precinct name="4070" votes="931" />
+                <Precinct name="4090" votes="676" />
+                <Precinct name="4100" votes="1610" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2855">
+                <Precinct name="1010" votes="146" />
+                <Precinct name="1030" votes="14" />
+                <Precinct name="1050" votes="220" />
+                <Precinct name="1110" votes="133" />
+                <Precinct name="2020" votes="212" />
+                <Precinct name="2060" votes="193" />
+                <Precinct name="2080" votes="110" />
+                <Precinct name="2120" votes="180" />
+                <Precinct name="3010" votes="140" />
+                <Precinct name="3030" votes="358" />
+                <Precinct name="3040" votes="71" />
+                <Precinct name="3050" votes="125" />
+                <Precinct name="3060" votes="110" />
+                <Precinct name="4050" votes="328" />
+                <Precinct name="4070" votes="217" />
+                <Precinct name="4090" votes="103" />
+                <Precinct name="4100" votes="195" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Cynthia Marie Chapa" party="DEM" totalVotes="5683">
+            <VoteType name="Absentee" votes="476">
+                <Precinct name="1010" votes="33" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="35" />
+                <Precinct name="1110" votes="38" />
+                <Precinct name="2020" votes="32" />
+                <Precinct name="2060" votes="23" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="31" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="9" />
+                <Precinct name="3050" votes="24" />
+                <Precinct name="3060" votes="15" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="29" />
+                <Precinct name="4090" votes="30" />
+                <Precinct name="4100" votes="33" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4404">
+                <Precinct name="1010" votes="362" />
+                <Precinct name="1030" votes="24" />
+                <Precinct name="1050" votes="484" />
+                <Precinct name="1110" votes="352" />
+                <Precinct name="2020" votes="221" />
+                <Precinct name="2060" votes="290" />
+                <Precinct name="2080" votes="258" />
+                <Precinct name="2120" votes="431" />
+                <Precinct name="3010" votes="320" />
+                <Precinct name="3030" votes="253" />
+                <Precinct name="3040" votes="141" />
+                <Precinct name="3050" votes="268" />
+                <Precinct name="3060" votes="81" />
+                <Precinct name="4050" votes="268" />
+                <Precinct name="4070" votes="144" />
+                <Precinct name="4090" votes="143" />
+                <Precinct name="4100" votes="364" />
+            </VoteType>
+            <VoteType name="Election Day" votes="803">
+                <Precinct name="1010" votes="55" />
+                <Precinct name="1030" votes="4" />
+                <Precinct name="1050" votes="72" />
+                <Precinct name="1110" votes="44" />
+                <Precinct name="2020" votes="48" />
+                <Precinct name="2060" votes="73" />
+                <Precinct name="2080" votes="20" />
+                <Precinct name="2120" votes="35" />
+                <Precinct name="3010" votes="54" />
+                <Precinct name="3030" votes="58" />
+                <Precinct name="3040" votes="25" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="27" />
+                <Precinct name="4050" votes="109" />
+                <Precinct name="4070" votes="32" />
+                <Precinct name="4090" votes="36" />
+                <Precinct name="4100" votes="65" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0019" text="Justice, 4th Ct of App Dist, Pl 4" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Lori Massey Brissette" party="REP" totalVotes="22833">
+            <VoteType name="Absentee" votes="858">
+                <Precinct name="1010" votes="43" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="108" />
+                <Precinct name="1110" votes="80" />
+                <Precinct name="2020" votes="69" />
+                <Precinct name="2060" votes="38" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="63" />
+                <Precinct name="3010" votes="35" />
+                <Precinct name="3030" votes="69" />
+                <Precinct name="3040" votes="30" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="23" />
+                <Precinct name="4050" votes="61" />
+                <Precinct name="4070" votes="34" />
+                <Precinct name="4090" votes="43" />
+                <Precinct name="4100" votes="64" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="19117">
+                <Precinct name="1010" votes="1095" />
+                <Precinct name="1030" votes="154" />
+                <Precinct name="1050" votes="1617" />
+                <Precinct name="1110" votes="1478" />
+                <Precinct name="2020" votes="1489" />
+                <Precinct name="2060" votes="1157" />
+                <Precinct name="2080" votes="1320" />
+                <Precinct name="2120" votes="1846" />
+                <Precinct name="3010" votes="1028" />
+                <Precinct name="3030" votes="1319" />
+                <Precinct name="3040" votes="733" />
+                <Precinct name="3050" votes="1187" />
+                <Precinct name="3060" votes="370" />
+                <Precinct name="4050" votes="1102" />
+                <Precinct name="4070" votes="931" />
+                <Precinct name="4090" votes="679" />
+                <Precinct name="4100" votes="1612" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2858">
+                <Precinct name="1010" votes="144" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="217" />
+                <Precinct name="1110" votes="131" />
+                <Precinct name="2020" votes="213" />
+                <Precinct name="2060" votes="196" />
+                <Precinct name="2080" votes="107" />
+                <Precinct name="2120" votes="182" />
+                <Precinct name="3010" votes="140" />
+                <Precinct name="3030" votes="357" />
+                <Precinct name="3040" votes="74" />
+                <Precinct name="3050" votes="124" />
+                <Precinct name="3060" votes="110" />
+                <Precinct name="4050" votes="327" />
+                <Precinct name="4070" votes="221" />
+                <Precinct name="4090" votes="102" />
+                <Precinct name="4100" votes="200" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Luz Elena Chapa" party="DEM" totalVotes="5531">
+            <VoteType name="Absentee" votes="461">
+                <Precinct name="1010" votes="32" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="30" />
+                <Precinct name="1110" votes="37" />
+                <Precinct name="2020" votes="33" />
+                <Precinct name="2060" votes="20" />
+                <Precinct name="2080" votes="34" />
+                <Precinct name="2120" votes="32" />
+                <Precinct name="3010" votes="30" />
+                <Precinct name="3030" votes="24" />
+                <Precinct name="3040" votes="9" />
+                <Precinct name="3050" votes="25" />
+                <Precinct name="3060" votes="15" />
+                <Precinct name="4050" votes="43" />
+                <Precinct name="4070" votes="30" />
+                <Precinct name="4090" votes="29" />
+                <Precinct name="4100" votes="32" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4281">
+                <Precinct name="1010" votes="342" />
+                <Precinct name="1030" votes="23" />
+                <Precinct name="1050" votes="471" />
+                <Precinct name="1110" votes="336" />
+                <Precinct name="2020" votes="212" />
+                <Precinct name="2060" votes="286" />
+                <Precinct name="2080" votes="243" />
+                <Precinct name="2120" votes="417" />
+                <Precinct name="3010" votes="314" />
+                <Precinct name="3030" votes="242" />
+                <Precinct name="3040" votes="145" />
+                <Precinct name="3050" votes="253" />
+                <Precinct name="3060" votes="75" />
+                <Precinct name="4050" votes="269" />
+                <Precinct name="4070" votes="146" />
+                <Precinct name="4090" votes="144" />
+                <Precinct name="4100" votes="363" />
+            </VoteType>
+            <VoteType name="Election Day" votes="789">
+                <Precinct name="1010" votes="56" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="73" />
+                <Precinct name="1110" votes="45" />
+                <Precinct name="2020" votes="46" />
+                <Precinct name="2060" votes="71" />
+                <Precinct name="2080" votes="24" />
+                <Precinct name="2120" votes="35" />
+                <Precinct name="3010" votes="52" />
+                <Precinct name="3030" votes="59" />
+                <Precinct name="3040" votes="22" />
+                <Precinct name="3050" votes="45" />
+                <Precinct name="3060" votes="26" />
+                <Precinct name="4050" votes="105" />
+                <Precinct name="4070" votes="27" />
+                <Precinct name="4090" votes="37" />
+                <Precinct name="4100" votes="61" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0020" text="Justice, 4th Ct of App Dist, Pl 5" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Adrian Spears" party="REP" totalVotes="22639">
+            <VoteType name="Absentee" votes="848">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="104" />
+                <Precinct name="1110" votes="79" />
+                <Precinct name="2020" votes="68" />
+                <Precinct name="2060" votes="36" />
+                <Precinct name="2080" votes="47" />
+                <Precinct name="2120" votes="62" />
+                <Precinct name="3010" votes="37" />
+                <Precinct name="3030" votes="68" />
+                <Precinct name="3040" votes="31" />
+                <Precinct name="3050" votes="46" />
+                <Precinct name="3060" votes="22" />
+                <Precinct name="4050" votes="59" />
+                <Precinct name="4070" votes="35" />
+                <Precinct name="4090" votes="42" />
+                <Precinct name="4100" votes="63" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="18957">
+                <Precinct name="1010" votes="1091" />
+                <Precinct name="1030" votes="152" />
+                <Precinct name="1050" votes="1607" />
+                <Precinct name="1110" votes="1452" />
+                <Precinct name="2020" votes="1481" />
+                <Precinct name="2060" votes="1150" />
+                <Precinct name="2080" votes="1300" />
+                <Precinct name="2120" votes="1832" />
+                <Precinct name="3010" votes="1015" />
+                <Precinct name="3030" votes="1301" />
+                <Precinct name="3040" votes="730" />
+                <Precinct name="3050" votes="1175" />
+                <Precinct name="3060" votes="364" />
+                <Precinct name="4050" votes="1097" />
+                <Precinct name="4070" votes="930" />
+                <Precinct name="4090" votes="668" />
+                <Precinct name="4100" votes="1612" />
+            </VoteType>
+            <VoteType name="Election Day" votes="2834">
+                <Precinct name="1010" votes="141" />
+                <Precinct name="1030" votes="13" />
+                <Precinct name="1050" votes="219" />
+                <Precinct name="1110" votes="130" />
+                <Precinct name="2020" votes="209" />
+                <Precinct name="2060" votes="195" />
+                <Precinct name="2080" votes="108" />
+                <Precinct name="2120" votes="181" />
+                <Precinct name="3010" votes="134" />
+                <Precinct name="3030" votes="359" />
+                <Precinct name="3040" votes="74" />
+                <Precinct name="3050" votes="122" />
+                <Precinct name="3060" votes="110" />
+                <Precinct name="4050" votes="325" />
+                <Precinct name="4070" votes="216" />
+                <Precinct name="4090" votes="103" />
+                <Precinct name="4100" votes="195" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DEM Liza A. Rodriguez" party="DEM" totalVotes="5730">
+            <VoteType name="Absentee" votes="472">
+                <Precinct name="1010" votes="32" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="34" />
+                <Precinct name="1110" votes="37" />
+                <Precinct name="2020" votes="34" />
+                <Precinct name="2060" votes="22" />
+                <Precinct name="2080" votes="35" />
+                <Precinct name="2120" votes="34" />
+                <Precinct name="3010" votes="29" />
+                <Precinct name="3030" votes="25" />
+                <Precinct name="3040" votes="8" />
+                <Precinct name="3050" votes="25" />
+                <Precinct name="3060" votes="15" />
+                <Precinct name="4050" votes="45" />
+                <Precinct name="4070" votes="28" />
+                <Precinct name="4090" votes="29" />
+                <Precinct name="4100" votes="34" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4442">
+                <Precinct name="1010" votes="350" />
+                <Precinct name="1030" votes="24" />
+                <Precinct name="1050" votes="484" />
+                <Precinct name="1110" votes="356" />
+                <Precinct name="2020" votes="222" />
+                <Precinct name="2060" votes="294" />
+                <Precinct name="2080" votes="261" />
+                <Precinct name="2120" votes="432" />
+                <Precinct name="3010" votes="323" />
+                <Precinct name="3030" votes="258" />
+                <Precinct name="3040" votes="147" />
+                <Precinct name="3050" votes="265" />
+                <Precinct name="3060" votes="83" />
+                <Precinct name="4050" votes="276" />
+                <Precinct name="4070" votes="147" />
+                <Precinct name="4090" votes="151" />
+                <Precinct name="4100" votes="369" />
+            </VoteType>
+            <VoteType name="Election Day" votes="816">
+                <Precinct name="1010" votes="60" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="73" />
+                <Precinct name="1110" votes="47" />
+                <Precinct name="2020" votes="48" />
+                <Precinct name="2060" votes="73" />
+                <Precinct name="2080" votes="23" />
+                <Precinct name="2120" votes="36" />
+                <Precinct name="3010" votes="58" />
+                <Precinct name="3030" votes="55" />
+                <Precinct name="3040" votes="23" />
+                <Precinct name="3050" votes="48" />
+                <Precinct name="3060" votes="27" />
+                <Precinct name="4050" votes="108" />
+                <Precinct name="4070" votes="32" />
+                <Precinct name="4090" votes="36" />
+                <Precinct name="4100" votes="64" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0021" text="Justice, 4th Ct of App Dist, Pl 7" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Lori I. Valenzuela" party="REP" totalVotes="24724">
+            <VoteType name="Absentee" votes="934">
+                <Precinct name="1010" votes="44" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="109" />
+                <Precinct name="1110" votes="79" />
+                <Precinct name="2020" votes="75" />
+                <Precinct name="2060" votes="39" />
+                <Precinct name="2080" votes="55" />
+                <Precinct name="2120" votes="69" />
+                <Precinct name="3010" votes="42" />
+                <Precinct name="3030" votes="77" />
+                <Precinct name="3040" votes="36" />
+                <Precinct name="3050" votes="53" />
+                <Precinct name="3060" votes="24" />
+                <Precinct name="4050" votes="68" />
+                <Precinct name="4070" votes="41" />
+                <Precinct name="4090" votes="47" />
+                <Precinct name="4100" votes="71" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="20565">
+                <Precinct name="1010" votes="1199" />
+                <Precinct name="1030" votes="162" />
+                <Precinct name="1050" votes="1826" />
+                <Precinct name="1110" votes="1582" />
+                <Precinct name="2020" votes="1547" />
+                <Precinct name="2060" votes="1256" />
+                <Precinct name="2080" votes="1400" />
+                <Precinct name="2120" votes="1989" />
+                <Precinct name="3010" votes="1132" />
+                <Precinct name="3030" votes="1393" />
+                <Precinct name="3040" votes="779" />
+                <Precinct name="3050" votes="1272" />
+                <Precinct name="3060" votes="393" />
+                <Precinct name="4050" votes="1191" />
+                <Precinct name="4070" votes="981" />
+                <Precinct name="4090" votes="727" />
+                <Precinct name="4100" votes="1736" />
+            </VoteType>
+            <VoteType name="Election Day" votes="3225">
+                <Precinct name="1010" votes="173" />
+                <Precinct name="1030" votes="17" />
+                <Precinct name="1050" votes="255" />
+                <Precinct name="1110" votes="151" />
+                <Precinct name="2020" votes="236" />
+                <Precinct name="2060" votes="235" />
+                <Precinct name="2080" votes="117" />
+                <Precinct name="2120" votes="199" />
+                <Precinct name="3010" votes="162" />
+                <Precinct name="3030" votes="386" />
+                <Precinct name="3040" votes="79" />
+                <Precinct name="3050" votes="144" />
+                <Precinct name="3060" votes="119" />
+                <Precinct name="4050" votes="373" />
+                <Precinct name="4070" votes="229" />
+                <Precinct name="4090" votes="120" />
+                <Precinct name="4100" votes="230" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0022" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Al Auxier" party="REP" totalVotes="24888">
+            <VoteType name="Absentee" votes="976">
+                <Precinct name="1010" votes="51" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="110" />
+                <Precinct name="1110" votes="84" />
+                <Precinct name="2020" votes="81" />
+                <Precinct name="2060" votes="37" />
+                <Precinct name="2080" votes="60" />
+                <Precinct name="2120" votes="74" />
+                <Precinct name="3010" votes="43" />
+                <Precinct name="3030" votes="72" />
+                <Precinct name="3040" votes="37" />
+                <Precinct name="3050" votes="55" />
+                <Precinct name="3060" votes="25" />
+                <Precinct name="4050" votes="71" />
+                <Precinct name="4070" votes="42" />
+                <Precinct name="4090" votes="50" />
+                <Precinct name="4100" votes="78" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="20647">
+                <Precinct name="1010" votes="1214" />
+                <Precinct name="1030" votes="164" />
+                <Precinct name="1050" votes="1813" />
+                <Precinct name="1110" votes="1583" />
+                <Precinct name="2020" votes="1566" />
+                <Precinct name="2060" votes="1246" />
+                <Precinct name="2080" votes="1407" />
+                <Precinct name="2120" votes="2005" />
+                <Precinct name="3010" votes="1145" />
+                <Precinct name="3030" votes="1395" />
+                <Precinct name="3040" votes="784" />
+                <Precinct name="3050" votes="1268" />
+                <Precinct name="3060" votes="401" />
+                <Precinct name="4050" votes="1194" />
+                <Precinct name="4070" votes="971" />
+                <Precinct name="4090" votes="731" />
+                <Precinct name="4100" votes="1760" />
+            </VoteType>
+            <VoteType name="Election Day" votes="3265">
+                <Precinct name="1010" votes="179" />
+                <Precinct name="1030" votes="17" />
+                <Precinct name="1050" votes="256" />
+                <Precinct name="1110" votes="152" />
+                <Precinct name="2020" votes="238" />
+                <Precinct name="2060" votes="236" />
+                <Precinct name="2080" votes="118" />
+                <Precinct name="2120" votes="194" />
+                <Precinct name="3010" votes="166" />
+                <Precinct name="3030" votes="383" />
+                <Precinct name="3040" votes="85" />
+                <Precinct name="3050" votes="149" />
+                <Precinct name="3060" votes="123" />
+                <Precinct name="4050" votes="381" />
+                <Precinct name="4070" votes="230" />
+                <Precinct name="4090" votes="121" />
+                <Precinct name="4100" votes="237" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0023" text="County Tax Assessor-Collector" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP James A. Hudson" party="REP" totalVotes="24980">
+            <VoteType name="Absentee" votes="979">
+                <Precinct name="1010" votes="47" />
+                <Precinct name="1030" votes="6" />
+                <Precinct name="1050" votes="109" />
+                <Precinct name="1110" votes="87" />
+                <Precinct name="2020" votes="80" />
+                <Precinct name="2060" votes="38" />
+                <Precinct name="2080" votes="59" />
+                <Precinct name="2120" votes="76" />
+                <Precinct name="3010" votes="42" />
+                <Precinct name="3030" votes="76" />
+                <Precinct name="3040" votes="38" />
+                <Precinct name="3050" votes="58" />
+                <Precinct name="3060" votes="26" />
+                <Precinct name="4050" votes="70" />
+                <Precinct name="4070" votes="42" />
+                <Precinct name="4090" votes="49" />
+                <Precinct name="4100" votes="76" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="20735">
+                <Precinct name="1010" votes="1227" />
+                <Precinct name="1030" votes="167" />
+                <Precinct name="1050" votes="1827" />
+                <Precinct name="1110" votes="1596" />
+                <Precinct name="2020" votes="1570" />
+                <Precinct name="2060" votes="1246" />
+                <Precinct name="2080" votes="1418" />
+                <Precinct name="2120" votes="1990" />
+                <Precinct name="3010" votes="1145" />
+                <Precinct name="3030" votes="1402" />
+                <Precinct name="3040" votes="797" />
+                <Precinct name="3050" votes="1277" />
+                <Precinct name="3060" votes="398" />
+                <Precinct name="4050" votes="1209" />
+                <Precinct name="4070" votes="984" />
+                <Precinct name="4090" votes="725" />
+                <Precinct name="4100" votes="1757" />
+            </VoteType>
+            <VoteType name="Election Day" votes="3266">
+                <Precinct name="1010" votes="178" />
+                <Precinct name="1030" votes="17" />
+                <Precinct name="1050" votes="257" />
+                <Precinct name="1110" votes="153" />
+                <Precinct name="2020" votes="239" />
+                <Precinct name="2060" votes="234" />
+                <Precinct name="2080" votes="120" />
+                <Precinct name="2120" votes="195" />
+                <Precinct name="3010" votes="165" />
+                <Precinct name="3030" votes="387" />
+                <Precinct name="3040" votes="86" />
+                <Precinct name="3050" votes="145" />
+                <Precinct name="3060" votes="124" />
+                <Precinct name="4050" votes="378" />
+                <Precinct name="4070" votes="233" />
+                <Precinct name="4090" votes="119" />
+                <Precinct name="4100" votes="236" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0024" text="County Commissioner Precinct 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Jennifer McCall" party="REP" totalVotes="5547">
+            <VoteType name="Absentee" votes="240">
+                <Precinct name="1010" votes="46" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="107" />
+                <Precinct name="1110" votes="82" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4723">
+                <Precinct name="1010" votes="1186" />
+                <Precinct name="1030" votes="161" />
+                <Precinct name="1050" votes="1794" />
+                <Precinct name="1110" votes="1582" />
+            </VoteType>
+            <VoteType name="Election Day" votes="584">
+                <Precinct name="1010" votes="171" />
+                <Precinct name="1030" votes="16" />
+                <Precinct name="1050" votes="253" />
+                <Precinct name="1110" votes="144" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-in" totalVotes="73">
+            <VoteType name="Absentee" votes="3">
+                <Precinct name="1010" votes="1" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="1" />
+                <Precinct name="1110" votes="1" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="61">
+                <Precinct name="1010" votes="23" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="19" />
+                <Precinct name="1110" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="1010" votes="5" />
+                <Precinct name="1030" votes="0" />
+                <Precinct name="1050" votes="2" />
+                <Precinct name="1110" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0025" text="County Commissioner Precinct 3" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Richard Chapman" party="REP" totalVotes="6103">
+            <VoteType name="Absentee" votes="233">
+                <Precinct name="3010" votes="40" />
+                <Precinct name="3030" votes="76" />
+                <Precinct name="3040" votes="38" />
+                <Precinct name="3050" votes="54" />
+                <Precinct name="3060" votes="25" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4968">
+                <Precinct name="3010" votes="1128" />
+                <Precinct name="3030" votes="1395" />
+                <Precinct name="3040" votes="786" />
+                <Precinct name="3050" votes="1265" />
+                <Precinct name="3060" votes="394" />
+            </VoteType>
+            <VoteType name="Election Day" votes="902">
+                <Precinct name="3010" votes="168" />
+                <Precinct name="3030" votes="386" />
+                <Precinct name="3040" votes="82" />
+                <Precinct name="3050" votes="140" />
+                <Precinct name="3060" votes="126" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0026" text="Constable Precinct 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="1010" votes="0" />
+            <Precinct name="1030" votes="0" />
+            <Precinct name="1050" votes="0" />
+            <Precinct name="1110" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Todd Setliff" party="REP" totalVotes="5598">
+            <VoteType name="Absentee" votes="240">
+                <Precinct name="1010" votes="46" />
+                <Precinct name="1030" votes="5" />
+                <Precinct name="1050" votes="108" />
+                <Precinct name="1110" votes="81" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4765">
+                <Precinct name="1010" votes="1202" />
+                <Precinct name="1030" votes="168" />
+                <Precinct name="1050" votes="1811" />
+                <Precinct name="1110" votes="1584" />
+            </VoteType>
+            <VoteType name="Election Day" votes="593">
+                <Precinct name="1010" votes="173" />
+                <Precinct name="1030" votes="17" />
+                <Precinct name="1050" votes="255" />
+                <Precinct name="1110" votes="148" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0027" text="Constable Precinct 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="2020" votes="0" />
+            <Precinct name="2060" votes="0" />
+            <Precinct name="2080" votes="0" />
+            <Precinct name="2120" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Paul L. Knoll" party="REP" totalVotes="7142">
+            <VoteType name="Absentee" votes="242">
+                <Precinct name="2020" votes="78" />
+                <Precinct name="2060" votes="38" />
+                <Precinct name="2080" votes="57" />
+                <Precinct name="2120" votes="69" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="6119">
+                <Precinct name="2020" votes="1553" />
+                <Precinct name="2060" votes="1223" />
+                <Precinct name="2080" votes="1392" />
+                <Precinct name="2120" votes="1951" />
+            </VoteType>
+            <VoteType name="Election Day" votes="781">
+                <Precinct name="2020" votes="238" />
+                <Precinct name="2060" votes="232" />
+                <Precinct name="2080" votes="119" />
+                <Precinct name="2120" votes="192" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0028" text="Constable Precinct 3" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="3010" votes="0" />
+            <Precinct name="3030" votes="0" />
+            <Precinct name="3040" votes="0" />
+            <Precinct name="3050" votes="0" />
+            <Precinct name="3060" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Gene Serene" party="REP" totalVotes="6046">
+            <VoteType name="Absentee" votes="228">
+                <Precinct name="3010" votes="40" />
+                <Precinct name="3030" votes="74" />
+                <Precinct name="3040" votes="37" />
+                <Precinct name="3050" votes="53" />
+                <Precinct name="3060" votes="24" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4929">
+                <Precinct name="3010" votes="1123" />
+                <Precinct name="3030" votes="1381" />
+                <Precinct name="3040" votes="778" />
+                <Precinct name="3050" votes="1255" />
+                <Precinct name="3060" votes="392" />
+            </VoteType>
+            <VoteType name="Election Day" votes="889">
+                <Precinct name="3010" votes="164" />
+                <Precinct name="3030" votes="384" />
+                <Precinct name="3040" votes="81" />
+                <Precinct name="3050" votes="136" />
+                <Precinct name="3060" votes="124" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0029" text="Constable Precinct 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="4050" votes="0" />
+            <Precinct name="4070" votes="0" />
+            <Precinct name="4090" votes="0" />
+            <Precinct name="4100" votes="0" />
+        </VoteType>
+        <Choice key="001" text="REP Brian Vaughan" party="REP" totalVotes="5765">
+            <VoteType name="Absentee" votes="231">
+                <Precinct name="4050" votes="68" />
+                <Precinct name="4070" votes="42" />
+                <Precinct name="4090" votes="49" />
+                <Precinct name="4100" votes="72" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="4584">
+                <Precinct name="4050" votes="1194" />
+                <Precinct name="4070" votes="962" />
+                <Precinct name="4090" votes="710" />
+                <Precinct name="4100" votes="1718" />
+            </VoteType>
+            <VoteType name="Election Day" votes="950">
+                <Precinct name="4050" votes="373" />
+                <Precinct name="4070" votes="228" />
+                <Precinct name="4090" votes="118" />
+                <Precinct name="4100" votes="231" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0030" text="Blanco ISD, Proposition A" voteFor="1" isQuestion="true" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="regVotersCounty" votes="0">
+            <Precinct name="3030" votes="0" />
+        </VoteType>
+        <Choice key="001" text="FOR" totalVotes="274">
+            <VoteType name="Absentee" votes="19">
+                <Precinct name="3030" votes="19" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="147">
+                <Precinct name="3030" votes="147" />
+            </VoteType>
+            <VoteType name="Election Day" votes="108">
+                <Precinct name="3030" votes="108" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="AGAINST" totalVotes="484">
+            <VoteType name="Absentee" votes="30">
+                <Precinct name="3030" votes="30" />
+            </VoteType>
+            <VoteType name="Early Voting" votes="313">
+                <Precinct name="3030" votes="313" />
+            </VoteType>
+            <VoteType name="Election Day" votes="141">
+                <Precinct name="3030" votes="141" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

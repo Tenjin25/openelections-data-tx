@@ -1,0 +1,507 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Panola,1,Registered Voters,,,,1972,,,
+Panola,2,Registered Voters,,,,2332,,,
+Panola,3,Registered Voters,,,,1453,,,
+Panola,5,Registered Voters,,,,505,,,
+Panola,7,Registered Voters,,,,858,,,
+Panola,8,Registered Voters,,,,282,,,
+Panola,9,Registered Voters,,,,788,,,
+Panola,10,Registered Voters,,,,368,,,
+Panola,12,Registered Voters,,,,439,,,
+Panola,13,Registered Voters,,,,363,,,
+Panola,14,Registered Voters,,,,508,,,
+Panola,18,Registered Voters,,,,2240,,,
+Panola,19,Registered Voters,,,,380,,,
+Panola,20,Registered Voters,,,,360,,,
+Panola,22,Registered Voters,,,,465,,,
+Panola,26,Registered Voters,,,,177,,,
+Panola,27,Registered Voters,,,,1504,,,
+Panola,28,Registered Voters,,,,2518,,,
+Panola,29,Registered Voters,,,,365,,,
+Panola,1,Ballots Cast,,,,1264,56,954,254
+Panola,2,Ballots Cast,,,,1489,50,1132,307
+Panola,3,Ballots Cast,,,,986,19,639,328
+Panola,5,Ballots Cast,,,,390,6,227,157
+Panola,7,Ballots Cast,,,,590,12,280,298
+Panola,8,Ballots Cast,,,,181,1,93,87
+Panola,9,Ballots Cast,,,,497,17,190,290
+Panola,10,Ballots Cast,,,,229,7,134,88
+Panola,12,Ballots Cast,,,,339,16,178,145
+Panola,13,Ballots Cast,,,,230,8,124,98
+Panola,14,Ballots Cast,,,,348,5,215,128
+Panola,18,Ballots Cast,,,,1556,52,1063,441
+Panola,19,Ballots Cast,,,,263,6,128,129
+Panola,20,Ballots Cast,,,,266,2,174,90
+Panola,22,Ballots Cast,,,,256,8,102,146
+Panola,26,Ballots Cast,,,,127,2,60,65
+Panola,27,Ballots Cast,,,,777,27,535,215
+Panola,28,Ballots Cast,,,,1474,49,1117,308
+Panola,29,Ballots Cast,,,,238,3,104,131
+Panola,1,President,,REP,Donald J. Trump/JD Vance,1021,39,787,195
+Panola,2,President,,REP,Donald J. Trump/JD Vance,1182,35,937,210
+Panola,3,President,,REP,Donald J. Trump/JD Vance,816,16,545,255
+Panola,5,President,,REP,Donald J. Trump/JD Vance,368,4,220,144
+Panola,7,President,,REP,Donald J. Trump/JD Vance,495,8,249,238
+Panola,8,President,,REP,Donald J. Trump/JD Vance,154,0,80,74
+Panola,9,President,,REP,Donald J. Trump/JD Vance,449,10,201,238
+Panola,10,President,,REP,Donald J. Trump/JD Vance,202,7,94,101
+Panola,12,President,,REP,Donald J. Trump/JD Vance,289,13,172,104
+Panola,13,President,,REP,Donald J. Trump/JD Vance,197,5,97,95
+Panola,14,President,,REP,Donald J. Trump/JD Vance,306,4,204,98
+Panola,18,President,,REP,Donald J. Trump/JD Vance,1320,28,906,386
+Panola,19,President,,REP,Donald J. Trump/JD Vance,233,6,118,109
+Panola,20,President,,REP,Donald J. Trump/JD Vance,241,2,162,77
+Panola,22,President,,REP,Donald J. Trump/JD Vance,230,8,76,146
+Panola,26,President,,REP,Donald J. Trump/JD Vance,47,2,41,4
+Panola,27,President,,REP,Donald J. Trump/JD Vance,528,10,394,124
+Panola,28,President,,REP,Donald J. Trump/JD Vance,1197,35,940,222
+Panola,29,President,,REP,Donald J. Trump/JD Vance,220,3,152,65
+Panola,1,President,,DEM,Kamala D. Harris/Tim Walz,227,17,125,85
+Panola,2,President,,DEM,Kamala D. Harris/Tim Walz,287,13,189,85
+Panola,3,President,,DEM,Kamala D. Harris/Tim Walz,144,2,50,92
+Panola,5,President,,DEM,Kamala D. Harris/Tim Walz,13,2,7,4
+Panola,7,President,,DEM,Kamala D. Harris/Tim Walz,71,4,27,40
+Panola,8,President,,DEM,Kamala D. Harris/Tim Walz,20,1,13,6
+Panola,9,President,,DEM,Kamala D. Harris/Tim Walz,36,0,28,8
+Panola,10,President,,DEM,Kamala D. Harris/Tim Walz,19,0,11,8
+Panola,12,President,,DEM,Kamala D. Harris/Tim Walz,39,3,20,16
+Panola,13,President,,DEM,Kamala D. Harris/Tim Walz,26,3,14,9
+Panola,14,President,,DEM,Kamala D. Harris/Tim Walz,32,1,12,19
+Panola,18,President,,DEM,Kamala D. Harris/Tim Walz,215,24,129,62
+Panola,19,President,,DEM,Kamala D. Harris/Tim Walz,29,0,15,14
+Panola,20,President,,DEM,Kamala D. Harris/Tim Walz,19,0,9,10
+Panola,22,President,,DEM,Kamala D. Harris/Tim Walz,22,0,20,2
+Panola,26,President,,DEM,Kamala D. Harris/Tim Walz,76,0,17,59
+Panola,27,President,,DEM,Kamala D. Harris/Tim Walz,223,17,130,76
+Panola,28,President,,DEM,Kamala D. Harris/Tim Walz,259,14,166,79
+Panola,29,President,,DEM,Kamala D. Harris/Tim Walz,8,0,1,7
+Panola,1,President,,,Chase Oliver/Mike ter Maat,10,0,4,6
+Panola,2,President,,,Chase Oliver/Mike ter Maat,20,0,4,16
+Panola,3,President,,,Chase Oliver/Mike ter Maat,12,0,0,12
+Panola,5,President,,,Chase Oliver/Mike ter Maat,9,0,0,9
+Panola,7,President,,,Chase Oliver/Mike ter Maat,24,0,4,20
+Panola,8,President,,,Chase Oliver/Mike ter Maat,7,0,0,7
+Panola,9,President,,,Chase Oliver/Mike ter Maat,12,0,0,12
+Panola,10,President,,,Chase Oliver/Mike ter Maat,8,0,1,7
+Panola,12,President,,,Chase Oliver/Mike ter Maat,11,0,0,11
+Panola,13,President,,,Chase Oliver/Mike ter Maat,7,0,0,7
+Panola,14,President,,,Chase Oliver/Mike ter Maat,10,0,0,10
+Panola,18,President,,,Chase Oliver/Mike ter Maat,21,0,4,17
+Panola,19,President,,,Chase Oliver/Mike ter Maat,1,0,0,1
+Panola,20,President,,,Chase Oliver/Mike ter Maat,6,0,4,2
+Panola,22,President,,,Chase Oliver/Mike ter Maat,4,0,0,4
+Panola,26,President,,,Chase Oliver/Mike ter Maat,4,0,1,3
+Panola,27,President,,,Chase Oliver/Mike ter Maat,26,0,11,15
+Panola,28,President,,,Chase Oliver/Mike ter Maat,18,0,11,7
+Panola,29,President,,,Chase Oliver/Mike ter Maat,10,0,6,4
+Panola,1,President,,,Jill Stein/Rudolph Ware,4,0,2,2
+Panola,2,President,,,Jill Stein/Rudolph Ware,4,0,0,4
+Panola,3,President,,,Jill Stein/Rudolph Ware,4,1,2,1
+Panola,5,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,7,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,8,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,9,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,10,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,12,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,13,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,14,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,18,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,19,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,20,President,,,Jill Stein/Rudolph Ware,1,0,0,1
+Panola,22,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,26,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,27,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,28,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,29,President,,,Jill Stein/Rudolph Ware,0,0,0,0
+Panola,1,President,,,Write-ins,5,0,0,5
+Panola,2,President,,,Write-ins,5,0,0,5
+Panola,3,President,,,Write-ins,6,0,1,5
+Panola,5,President,,,Write-ins,0,0,0,0
+Panola,7,President,,,Write-ins,0,0,0,0
+Panola,8,President,,,Write-ins,0,0,0,0
+Panola,9,President,,,Write-ins,0,0,0,0
+Panola,10,President,,,Write-ins,0,0,0,0
+Panola,12,President,,,Write-ins,0,0,0,0
+Panola,13,President,,,Write-ins,0,0,0,0
+Panola,14,President,,,Write-ins,0,0,0,0
+Panola,18,President,,,Write-ins,0,0,0,0
+Panola,19,President,,,Write-ins,0,0,0,0
+Panola,20,President,,,Write-ins,0,0,0,0
+Panola,22,President,,,Write-ins,0,0,0,0
+Panola,26,President,,,Write-ins,0,0,0,0
+Panola,27,President,,,Write-ins,0,0,0,0
+Panola,28,President,,,Write-ins,0,0,0,0
+Panola,29,President,,,Write-ins,0,0,0,0
+Panola,1,United States Senator,,DEM,Colin Allred,1125,105,688,332
+Panola,2,United States Senator,,DEM,Colin Allred,1205,102,810,293
+Panola,3,United States Senator,,DEM,Colin Allred,678,31,404,243
+Panola,5,United States Senator,,DEM,Colin Allred,219,0,132,87
+Panola,7,United States Senator,,DEM,Colin Allred,393,32,196,165
+Panola,8,United States Senator,,DEM,Colin Allred,133,13,71,49
+Panola,9,United States Senator,,DEM,Colin Allred,356,34,207,115
+Panola,10,United States Senator,,DEM,Colin Allred,172,7,101,64
+Panola,12,United States Senator,,DEM,Colin Allred,247,14,167,66
+Panola,13,United States Senator,,DEM,Colin Allred,171,5,98,68
+Panola,14,United States Senator,,DEM,Colin Allred,264,1,184,79
+Panola,18,United States Senator,,DEM,Colin Allred,1013,109,906,988
+Panola,19,United States Senator,,DEM,Colin Allred,118,2,118,0
+Panola,20,United States Senator,,DEM,Colin Allred,191,2,101,88
+Panola,22,United States Senator,,DEM,Colin Allred,71,0,71,0
+Panola,26,United States Senator,,DEM,Colin Allred,47,2,362,382
+Panola,27,United States Senator,,DEM,Colin Allred,359,34,539,786
+Panola,28,United States Senator,,DEM,Colin Allred,1020,125,1230,895
+Panola,29,United States Senator,,DEM,Colin Allred,64,3,50,11
+Panola,1,United States Senator,,REP,Ted Cruz,776,405,106,265
+Panola,2,United States Senator,,REP,Ted Cruz,915,912,34,969
+Panola,3,United States Senator,,REP,Ted Cruz,549,540,12,997
+Panola,5,United States Senator,,REP,Ted Cruz,218,219,7,992
+Panola,7,United States Senator,,REP,Ted Cruz,242,203,39,958
+Panola,8,United States Senator,,REP,Ted Cruz,62,82,15,325
+Panola,9,United States Senator,,REP,Ted Cruz,192,107,107,37
+Panola,10,United States Senator,,REP,Ted Cruz,63,100,35,401
+Panola,12,United States Senator,,REP,Ted Cruz,176,167,58,309
+Panola,13,United States Senator,,REP,Ted Cruz,98,172,65,307
+Panola,14,United States Senator,,REP,Ted Cruz,199,109,184,619
+Panola,18,United States Senator,,REP,Ted Cruz,906,915,313,1139
+Panola,19,United States Senator,,REP,Ted Cruz,116,118,227,155
+Panola,20,United States Senator,,REP,Ted Cruz,161,156,307,254
+Panola,22,United States Senator,,REP,Ted Cruz,71,147,149,145
+Panola,26,United States Senator,,REP,Ted Cruz,47,42,91,80
+Panola,27,United States Senator,,REP,Ted Cruz,362,232,898,1020
+Panola,28,United States Senator,,REP,Ted Cruz,800,125,1230,895
+Panola,29,United States Senator,,REP,Ted Cruz,64,3,50,11
+Panola,1,United States Representative,1,REP,Nathaniel Moran,6294,286,3804,2208
+Panola,2,United States Representative,1,REP,Nathaniel Moran,6285,368,3933,2006
+Panola,3,United States Representative,1,REP,Nathaniel Moran,6289,233,3937,2119
+Panola,5,United States Representative,1,REP,Nathaniel Moran,6232,246,2408,3578
+Panola,7,United States Representative,1,REP,Nathaniel Moran,6125,237,2407,3481
+Panola,8,United States Representative,1,REP,Nathaniel Moran,6125,77,1420,4628
+Panola,9,United States Representative,1,REP,Nathaniel Moran,6284,107,2224,3953
+Panola,10,United States Representative,1,REP,Nathaniel Moran,6206,100,2206,3900
+Panola,12,United States Representative,1,REP,Nathaniel Moran,6287,187,1958,4142
+Panola,13,United States Representative,1,REP,Nathaniel Moran,6298,98,1846,4354
+Panola,14,United States Representative,1,REP,Nathaniel Moran,6258,184,1918,4156
+Panola,18,United States Representative,1,REP,Nathaniel Maron,6226,915,1136,4175
+Panola,19,United States Representative,1,REP,Nathaniel Maron,6256,118,156,5982
+Panola,20,United States Representative,1,REP,Nathaniel Maron,6269,156,244,5869
+Panola,22,United States Representative,1,REP,Nathaniel Maron,6283,147,229,5907
+Panola,26,United States Representative,1,REP,Nathaniel Maron,6258,47,91,6120
+Panola,27,United States Representative,1,REP,Nathaniel Maron,6257,232,898,5127
+Panola,28,United States Representative,1,REP,Nathaniel Maron,6283,125,1230,4928
+Panola,29,United States Representative,1,REP,Nathaniel Maron,6283,3,50,6230
+Panola,1,Railroad Commissioner,,REP,Christa Crownover,6988,739,4067,2182
+Panola,2,Railroad Commissioner,,REP,Christa Crownover,6957,407,4197,2353
+Panola,3,Railroad Commissioner,,REP,Christa Crownover,6991,518,3958,2515
+Panola,5,Railroad Commissioner,,REP,Christa Crownover,6202,202,2277,3723
+Panola,7,Railroad Commissioner,,REP,Christa Crownover,6411,277,2227,3907
+Panola,8,Railroad Commissioner,,REP,Christa Crownover,6147,75,1453,4619
+Panola,9,Railroad Commissioner,,REP,Christa Crownover,6237,103,2143,3991
+Panola,10,Railroad Commissioner,,REP,Christa Crownover,6198,62,1644,3492
+Panola,12,Railroad Commissioner,,REP,Christa Crownover,6307,164,1945,4198
+Panola,13,Railroad Commissioner,,REP,Christa Crownover,6204,94,1742,3368
+Panola,14,Railroad Commissioner,,REP,Christa Crownover,6282,182,1809,4291
+Panola,18,Railroad Commissioner,,REP,Christa Crownover,6251,898,1307,4046
+Panola,19,Railroad Commissioner,,REP,Christa Crownover,6257,118,226,5913
+Panola,20,Railroad Commissioner,,REP,Christa Crownover,6257,156,220,5881
+Panola,22,Railroad Commissioner,,REP,Christa Crownover,6280,65,46,6169
+Panola,26,Railroad Commissioner,,REP,Christa Crownover,6262,49,300,5913
+Panola,27,Railroad Commissioner,,REP,Christa Crownover,6257,307,880,5070
+Panola,28,Railroad Commissioner,,REP,Christa Crownover,6251,78,1197,4976
+Panola,29,Railroad Commissioner,,REP,Christa Crownover,6991,18,14,6959
+Panola,1,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6215,772,3868,1575
+Panola,2,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6215,515,3804,1896
+Panola,3,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6285,539,3928,1818
+Panola,5,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6297,259,2224,3814
+Panola,7,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6261,241,2114,3906
+Panola,8,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6284,95,1516,4673
+Panola,9,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6287,163,2079,4045
+Panola,10,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6283,85,1955,4243
+Panola,12,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6278,171,1877,4230
+Panola,13,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6215,96,1828,4291
+Panola,14,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6297,197,1946,4154
+Panola,18,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6277,907,1157,4213
+Panola,19,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6246,112,188,5946
+Panola,20,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6282,181,345,5756
+Panola,22,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6293,71,47,6175
+Panola,26,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6263,49,291,5923
+Panola,27,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6283,298,925,5060
+Panola,28,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6291,52,1202,5037
+Panola,29,Justice, Supreme Court,Place 2,REP,Jimmy Blacklock,6283,18,14,6251
+Panola,1,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6126,751,3733,1642
+Panola,2,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6215,515,3804,1896
+Panola,3,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6289,539,3928,1822
+Panola,5,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6208,259,2224,3725
+Panola,7,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6227,241,2114,3872
+Panola,8,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6284,95,1516,4673
+Panola,9,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6259,163,2079,4017
+Panola,10,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6284,85,1955,4244
+Panola,12,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6277,171,1877,4229
+Panola,13,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6216,96,1828,4292
+Panola,14,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6298,197,1946,4155
+Panola,18,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6277,907,1157,4213
+Panola,19,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6248,112,188,5948
+Panola,20,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6280,181,345,5754
+Panola,22,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6297,71,47,6179
+Panola,26,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6263,49,291,5923
+Panola,27,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6284,298,925,5061
+Panola,28,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6291,52,1202,5037
+Panola,29,Judge, Court of Criminal Appeals,Pl 2,REP,Gina Parker,6283,18,14,6251
+Panola,1,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6112,707,3909,2496
+Panola,2,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6112,90,3607,2415
+Panola,3,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6238,557,2238,3443
+Panola,5,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6237,207,2228,3802
+Panola,7,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6171,237,2225,3709
+Panola,8,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6163,75,1395,4693
+Panola,9,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6395,192,2341,3862
+Panola,10,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6204,94,1925,4185
+Panola,12,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6319,90,1850,4379
+Panola,13,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6238,50,1790,3398
+Panola,14,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6104,102,1922,4080
+Panola,18,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6398,920,1807,3671
+Panola,19,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6117,115,225,5777
+Panola,20,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6176,155,340,5681
+Panola,22,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6126,71,48,6007
+Panola,26,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6262,47,361,5854
+Panola,27,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6112,298,925,4889
+Panola,28,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6147,52,1202,4893
+Panola,29,Judge, Court of Criminal Appeals,Pl 4,REP,John Devine,6112,18,14,6080
+Panola,1,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6104,707,3804,1593
+Panola,2,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6188,909,3904,1375
+Panola,3,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6104,524,2841,2739
+Panola,5,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6209,241,2234,3734
+Panola,7,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6234,204,2225,3805
+Panola,8,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6153,75,1515,4563
+Panola,9,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6192,152,2341,3699
+Panola,10,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6106,65,1925,4116
+Panola,12,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6288,197,1850,4241
+Panola,13,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6288,93,1790,4405
+Panola,14,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6204,169,1922,4113
+Panola,18,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6294,915,1808,3571
+Panola,19,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6210,115,225,5870
+Panola,20,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6102,155,340,5607
+Panola,22,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6284,70,48,6166
+Panola,26,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6262,47,361,5854
+Panola,27,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6224,307,898,5019
+Panola,28,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6210,56,1202,4952
+Panola,29,Judge, Court of Criminal Appeals,Pl 6,REP,Jane Bland,6117,18,14,6085
+Panola,1,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6142,766,3904,2472
+Panola,2,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6184,904,3908,1372
+Panola,3,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6303,531,2440,3332
+Panola,5,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6255,255,2235,3765
+Panola,7,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6409,237,2227,3945
+Panola,8,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6372,73,1526,4773
+Panola,9,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6259,149,2243,3867
+Panola,10,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6239,100,2156,3983
+Panola,12,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6316,154,1897,4265
+Panola,13,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6302,64,1842,4396
+Panola,14,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6149,126,1902,4121
+Panola,18,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6379,912,1888,3579
+Panola,19,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6222,114,156,5952
+Panola,20,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6148,156,240,5752
+Panola,22,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6170,71,173,5926
+Panola,26,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6201,47,408,5746
+Panola,27,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6248,205,1108,4935
+Panola,28,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6184,39,1196,4949
+Panola,29,Presiding Judge, Court of Criminal Appeals,,REP,David J. Schenck,6189,76,152,5961
+Panola,1,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1277,168,904,205
+Panola,2,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1279,155,904,220
+Panola,3,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1086,90,1073,723
+Panola,5,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1272,7,328,937
+Panola,7,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1319,32,320,967
+Panola,8,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1222,10,194,1018
+Panola,9,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1302,34,391,877
+Panola,10,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1299,30,287,982
+Panola,12,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1309,8,248,1053
+Panola,13,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1310,26,184,1100
+Panola,14,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1322,11,132,1179
+Panola,18,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1222,118,331,773
+Panola,19,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1111,0,1095,16
+Panola,20,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1303,10,301,992
+Panola,22,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1316,20,101,1195
+Panola,26,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1367,12,136,1219
+Panola,27,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1254,156,404,694
+Panola,28,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1168,4,402,762
+Panola,29,Holley Taylor (DEM) Presiding Judge, Court of Criminal Appeals,,DEM,Holley Taylor,1295,4,152,1139
+Panola,1,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6126,764,3912,1450
+Panola,2,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6284,912,3926,1446
+Panola,3,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6237,528,2640,3069
+Panola,5,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6214,234,2243,3737
+Panola,7,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6211,204,2222,3785
+Panola,8,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6226,80,1507,4639
+Panola,9,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6262,147,2307,3808
+Panola,10,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6269,100,2145,4024
+Panola,12,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6273,171,1877,4225
+Panola,13,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6327,90,1780,4457
+Panola,14,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6298,196,1918,4184
+Panola,18,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6279,906,1792,3581
+Panola,19,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6246,113,206,5927
+Panola,20,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6345,104,344,5897
+Panola,22,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6284,72,348,5864
+Panola,26,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6283,49,361,5873
+Panola,27,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6219,301,898,5020
+Panola,28,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6193,56,1202,4935
+Panola,29,Judge, Court of Criminal Appeals,Pl 7,REP,Gina Parker,6249,54,152,6043
+Panola,1,Nancy Mulder,,DEM,Nancy Mulder,1222,144,1078,0
+Panola,2,Nancy Mulder,,DEM,Nancy Mulder,1312,176,1024,112
+Panola,3,Nancy Mulder,,DEM,Nancy Mulder,1229,90,1182,957
+Panola,5,Nancy Mulder,,DEM,Nancy Mulder,1309,4,211,1094
+Panola,7,Nancy Mulder,,DEM,Nancy Mulder,1295,33,2234,1028
+Panola,8,Nancy Mulder,,DEM,Nancy Mulder,1296,6,234,1056
+Panola,9,Nancy Mulder,,DEM,Nancy Mulder,1345,36,1104,1205
+Panola,10,Nancy Mulder,,DEM,Nancy Mulder,1277,38,1223,1016
+Panola,12,Nancy Mulder,,DEM,Nancy Mulder,1222,4,1217,1
+Panola,13,Nancy Mulder,,DEM,Nancy Mulder,1256,24,1108,1124
+Panola,14,Nancy Mulder,,DEM,Nancy Mulder,1302,10,1117,1175
+Panola,18,Nancy Mulder,,DEM,Nancy Mulder,1219,117,1222,100
+Panola,19,Nancy Mulder,,DEM,Nancy Mulder,1288,3,127,1158
+Panola,20,Nancy Mulder,,DEM,Nancy Mulder,1225,1,133,1091
+Panola,22,Nancy Mulder,,DEM,Nancy Mulder,1302,27,1235,1040
+Panola,26,Nancy Mulder,,DEM,Nancy Mulder,1227,12,1131,1084
+Panola,27,Nancy Mulder,,DEM,Nancy Mulder,1279,145,1149,100
+Panola,28,Nancy Mulder,,DEM,Nancy Mulder,1309,6,852,451
+Panola,29,Nancy Mulder,,DEM,Nancy Mulder,1197,6,1180,11
+Panola,1,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6190,775,3979,1436
+Panola,2,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6283,812,3905,1566
+Panola,3,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6238,226,2640,3372
+Panola,5,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6268,213,2241,3814
+Panola,7,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6299,228,2225,3846
+Panola,8,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6278,79,1516,4683
+Panola,9,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6206,156,2240,3810
+Panola,10,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6250,64,2240,3946
+Panola,12,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6201,201,1762,4238
+Panola,13,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6288,96,1800,4392
+Panola,14,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6210,156,1923,4131
+Panola,18,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6296,906,1812,3578
+Panola,19,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6243,112,167,5964
+Panola,20,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6260,174,248,5838
+Panola,22,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6259,74,220,5965
+Panola,26,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6262,49,91,6122
+Panola,27,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6243,301,898,5044
+Panola,28,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6193,56,1202,4935
+Panola,29,Judge, Court of Criminal Appeals,Pl 8,REP,Lori Pursell,6255,54,152,6049
+Panola,1,Chika Anylam,,DEM,Chika Anylam,1269,142,1223,1104
+Panola,2,Chika Anylam,,DEM,Chika Anylam,1205,176,1207,1222
+Panola,3,Chika Anylam,,DEM,Chika Anylam,1333,63,1245,1225
+Panola,5,Chika Anylam,,DEM,Chika Anylam,1223,0,1223,1100
+Panola,7,Chika Anylam,,DEM,Chika Anylam,1342,31,1289,1222
+Panola,8,Chika Anylam,,DEM,Chika Anylam,1328,10,1221,1097
+Panola,9,Chika Anylam,,DEM,Chika Anylam,1253,34,1172,1147
+Panola,10,Chika Anylam,,DEM,Chika Anylam,1289,37,1122,1130
+Panola,12,Chika Anylam,,DEM,Chika Anylam,1338,2,1223,1113
+Panola,13,Chika Anylam,,DEM,Chika Anylam,1333,20,1224,1189
+Panola,14,Chika Anylam,,DEM,Chika Anylam,1337,7,1223,1107
+Panola,18,Chika Anylam,,DEM,Chika Anylam,1302,100,1330,1172
+Panola,19,Chika Anylam,,DEM,Chika Anylam,1272,5,1110,1157
+Panola,20,Chika Anylam,,DEM,Chika Anylam,1221,1,1223,997
+Panola,22,Chika Anylam,,DEM,Chika Anylam,1336,0,1336,1200
+Panola,26,Chika Anylam,,DEM,Chika Anylam,1313,11,1313,1189
+Panola,27,Chika Anylam,,DEM,Chika Anylam,1291,140,1307,956
+Panola,28,Chika Anylam,,DEM,Chika Anylam,1334,1,1222,1111
+Panola,29,Chika Anylam,,DEM,Chika Anylam,1338,10,1223,1105
+Panola,1,State Representative,11,REP,Jeremiah Buxton,6248,786,3920,1542
+Panola,2,State Representative,11,REP,Jeremiah Buxton,6288,658,4042,1588
+Panola,3,State Representative,11,REP,Jeremiah Buxton,6288,545,3843,1900
+Panola,5,State Representative,11,REP,Jeremiah Buxton,6213,213,2257,3743
+Panola,7,State Representative,11,REP,Jeremiah Buxton,6269,244,2231,3794
+Panola,8,State Representative,11,REP,Jeremiah Buxton,6206,79,1580,4547
+Panola,9,State Representative,11,REP,Jeremiah Buxton,6256,180,2301,3775
+Panola,10,State Representative,11,REP,Jeremiah Buxton,6279,100,2155,4024
+Panola,12,State Representative,11,REP,Jeremiah Buxton,6277,177,1876,4224
+Panola,13,State Representative,11,REP,Jeremiah Buxton,6263,96,1779,4388
+Panola,14,State Representative,11,REP,Jeremiah Buxton,6280,188,1917,4175
+Panola,18,State Representative,11,REP,Jeremiah Buxton,6266,909,1801,3556
+Panola,19,State Representative,11,REP,Jeremiah Buxton,6228,112,227,5889
+Panola,20,State Representative,11,REP,Jeremiah Buxton,6276,176,230,5870
+Panola,22,State Representative,11,REP,Jeremiah Buxton,6293,49,176,6068
+Panola,26,State Representative,11,REP,Jeremiah Buxton,6283,47,411,5825
+Panola,27,State Representative,11,REP,Jeremiah Buxton,6283,298,925,5060
+Panola,28,State Representative,11,REP,Jeremiah Buxton,6266,56,1217,4993
+Panola,29,State Representative,11,REP,Jeremiah Buxton,6283,64,152,6067
+Panola,1,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6219,347,3946,1926
+Panola,2,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6265,202,3804,2259
+Panola,3,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6268,277,3947,2044
+Panola,5,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6206,213,2241,2752
+Panola,7,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6279,251,2241,3787
+Panola,8,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6273,76,2243,3954
+Panola,9,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6263,226,2214,3823
+Panola,10,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6272,75,2136,4061
+Panola,12,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6233,117,1788,4328
+Panola,13,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6232,108,1789,4335
+Panola,14,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6217,380,1900,3937
+Panola,18,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6278,307,1788,4183
+Panola,19,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6279,1,227,6051
+Panola,20,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6265,150,346,5769
+Panola,22,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6291,71,49,6171
+Panola,26,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6283,51,143,6089
+Panola,27,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6283,207,925,5151
+Panola,28,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6259,137,1125,4997
+Panola,29,Justice, 6th Court of Appeals District, Place 2,2,REP,Jeff Rambin,6272,9,14,6249
+Panola,1,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6260,791,3920,1549
+Panola,2,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6289,353,3926,2010
+Panola,3,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6260,592,3943,1725
+Panola,5,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6201,201,2232,3768
+Panola,7,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6222,232,2242,3748
+Panola,8,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6240,82,1496,4662
+Panola,9,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6256,105,2224,3927
+Panola,10,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6303,104,2143,4056
+Panola,12,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6260,155,1887,4218
+Panola,13,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6238,99,1822,4317
+Panola,14,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6221,162,1913,4146
+Panola,18,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6292,915,1810,3567
+Panola,19,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6281,110,0,6171
+Panola,20,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6288,76,230,5982
+Panola,22,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6283,81,47,6155
+Panola,26,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6282,47,419,5816
+Panola,27,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6282,940,880,4462
+Panola,28,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6293,94,1228,4971
+Panola,29,District Judge, 123rd Judicial District,,REP,Leann Kay Rafferty,6282,94,211,5977
+Panola,1,Sheriff,,REP,R.C. (Cutler) Clinton,6259,786,3908,1565
+Panola,2,Sheriff,,REP,R.C. (Cutler) Clinton,6283,824,3939,1520
+Panola,3,Sheriff,,REP,R.C. (Cutler) Clinton,6276,531,3900,1845
+Panola,5,Sheriff,,REP,R.C. (Cutler) Clinton,6288,186,2245,3857
+Panola,7,Sheriff,,REP,R.C. (Cutler) Clinton,6282,223,2233,3826
+Panola,8,Sheriff,,REP,R.C. (Cutler) Clinton,6256,75,1595,4586
+Panola,9,Sheriff,,REP,R.C. (Cutler) Clinton,6213,102,2236,3875
+Panola,10,Sheriff,,REP,R.C. (Cutler) Clinton,6240,71,2117,4052
+Panola,12,Sheriff,,REP,R.C. (Cutler) Clinton,6271,142,1923,4206
+Panola,13,Sheriff,,REP,R.C. (Cutler) Clinton,6283,80,1711,4492
+Panola,14,Sheriff,,REP,R.C. (Cutler) Clinton,6288,171,1969,4148
+Panola,18,Sheriff,,REP,R.C. (Cutler) Clinton,6282,886,1880,3516
+Panola,19,Sheriff,,REP,R.C. (Cutler) Clinton,6269,105,147,6017
+Panola,20,Sheriff,,REP,R.C. (Cutler) Clinton,6283,50,250,5983
+Panola,22,Sheriff,,REP,R.C. (Cutler) Clinton,6269,76,42,6151
+Panola,26,Sheriff,,REP,R.C. (Cutler) Clinton,6258,49,405,5804
+Panola,27,Sheriff,,REP,R.C. (Cutler) Clinton,6283,527,880,4876
+Panola,28,Sheriff,,REP,R.C. (Cutler) Clinton,6283,56,1280,4947
+Panola,29,Sheriff,,REP,R.C. (Cutler) Clinton,6283,56,1123,5104
+Panola,1,County Tax Assessor-Collector,,REP,Holly Gibbs,6452,811,3975,1666
+Panola,2,County Tax Assessor-Collector,,REP,Holly Gibbs,6264,876,3798,1590
+Panola,3,County Tax Assessor-Collector,,REP,Holly Gibbs,6379,592,3660,2127
+Panola,5,County Tax Assessor-Collector,,REP,Holly Gibbs,6265,204,2246,3815
+Panola,7,County Tax Assessor-Collector,,REP,Holly Gibbs,6226,216,2259,3751
+Panola,8,County Tax Assessor-Collector,,REP,Holly Gibbs,6302,83,1631,4588
+Panola,9,County Tax Assessor-Collector,,REP,Holly Gibbs,6243,103,2200,3940
+Panola,10,County Tax Assessor-Collector,,REP,Holly Gibbs,6236,99,2173,3964
+Panola,12,County Tax Assessor-Collector,,REP,Holly Gibbs,6238,62,1876,4300
+Panola,13,County Tax Assessor-Collector,,REP,Holly Gibbs,6229,109,1768,4352
+Panola,14,County Tax Assessor-Collector,,REP,Holly Gibbs,6281,191,1836,4254
+Panola,18,County Tax Assessor-Collector,,REP,Holly Gibbs,6259,934,1115,4210
+Panola,19,County Tax Assessor-Collector,,REP,Holly Gibbs,6257,113,157,5987
+Panola,20,County Tax Assessor-Collector,,REP,Holly Gibbs,6265,60,241,5964
+Panola,22,County Tax Assessor-Collector,,REP,Holly Gibbs,6283,50,425,5808
+Panola,26,County Tax Assessor-Collector,,REP,Holly Gibbs,6251,102,14,6135
+Panola,27,County Tax Assessor-Collector,,REP,Holly Gibbs,6272,191,198,5883
+Panola,28,County Tax Assessor-Collector,,REP,Holly Gibbs,6252,201,125,5926
+Panola,29,County Tax Assessor-Collector,,REP,Holly Gibbs,6254,9,12,6233
+Panola,1,County Commissioner,Pct 1,REP,Billy Alexander,1882,39,,,
+Panola,2,County Commissioner,Pct 1,REP,Billy Alexander,35,1,,,
+Panola,3,County Commissioner,Pct 1,REP,Billy Alexander,635,35,,,
+Panola,1,County Commissioner,Pct 3,REP,Craig M. Lawless,1981,1,,,
+Panola,2,County Commissioner,Pct 3,REP,Craig M. Lawless,43,10,,,
+Panola,3,County Commissioner,Pct 3,REP,Craig M. Lawless,882,5,,,
+Panola,1,Constable,Precinct 1 & 4,REP,Jeff Ivy,3619,318,,,
+Panola,2,Constable,Precinct 1 & 4,REP,Jeff Ivy,143,45,,,
+Panola,3,Constable,Precinct 1 & 4,REP,Jeff Ivy,1565,216,,,
+Panola,1,Constable,Precinct 2 & 3,REP,Brack LaGrone,2799,0,,,
+Panola,2,Constable,Precinct 2 & 3,REP,Brack LaGrone,97,0,,,
+Panola,3,Constable,Precinct 2 & 3,REP,Brack LaGrone,1515,0,,,
