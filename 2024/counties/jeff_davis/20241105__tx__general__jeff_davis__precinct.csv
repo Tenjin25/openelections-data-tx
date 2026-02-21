@@ -1,0 +1,203 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Grayson,Precinct 1,Registered Voters,,,,370,,,
+Grayson,Precinct 1,Ballots Cast,,,,302,25,236,41
+Grayson,Precinct 1,President,,REP,Donald J. Trump/JD Vance,162,9,125,28
+Grayson,Precinct 1,President,,DEM,Kamala D. Harris/Tim Walz,131,16,105,10
+Grayson,Precinct 1,President,,LIB,Chase Oliver/Mike ter Maat,5,0,4,1
+Grayson,Precinct 1,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Grayson,Precinct 1,U.S. Senate,,REP,Ted Cruz,160,9,127,24
+Grayson,Precinct 1,U.S. Senate,,DEM,Colin Allred,128,16,102,10
+Grayson,Precinct 1,U.S. Senate,,LIB,Ted Brown,10,0,6,4
+Grayson,Precinct 1,U.S. House,23,REP,Tony Gonzales,178,9,142,27
+Grayson,Precinct 1,U.S. House,23,DEM,S. Limon,114,16,90,8
+Grayson,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,155,9,121,25
+Grayson,Precinct 1,Railroad Commissioner,,DEM,Katherine Culbert,117,13,98,6
+Grayson,Precinct 1,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,8,5
+Grayson,Precinct 1,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,170,9,133,28
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,116,14,95,7
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 4",,REP,John Devine,167,9,132,26
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,119,14,96,9
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,157,9,124,24
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,117,14,96,7
+Grayson,Precinct 1,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,12,0,8,4
+Grayson,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,166,9,131,26
+Grayson,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,120,14,97,9
+Grayson,Precinct 1,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,168,9,133,26
+Grayson,Precinct 1,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,116,14,94,8
+Grayson,Precinct 1,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,167,9,133,25
+Grayson,Precinct 1,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,112,13,91,8
+Grayson,Precinct 1,State Board of Education,1,REP,Michael (Travis) Stevens,167,9,131,27
+Grayson,Precinct 1,State Board of Education,1,DEM,Gustavo Reveles,116,14,95,7
+Grayson,Precinct 1,State Senator,29,DEM,César J. Blanco,148,13,125,10
+Grayson,Precinct 1,State Representative,74,REP,Robert Garza,160,9,125,26
+Grayson,Precinct 1,State Representative,74,DEM,Eddie Morales Jr,124,14,102,8
+Grayson,Precinct 1,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,Maria Salas Mendoza,141,11,121,9
+Grayson,Precinct 1,"Justice, 8th Ct of App Dist, Pl 2",,DEM,Lisa Soto,142,13,119,10
+Grayson,Precinct 1,"Justice, 8th Ct of App Dist, Pl 3",,DEM,Gina M. Palafox,141,13,119,9
+Grayson,Precinct 1,"Dist Judge, 394th Judicial Dist",,REP,Monty Kimball,200,16,154,30
+Grayson,Precinct 1,District Attorney,,REP,Ori T. White,176,16,137,23
+Grayson,Precinct 1,Sheriff/County Tax Assessor-Collector,,REP,Victor Lopez,216,15,172,29
+Grayson,Precinct 1,County Commissioner Pct 1,,REP,Jody Adams,206,17,160,29
+Grayson,Precinct 1,Constable,,REP,Mike Wright,200,16,159,25
+Grayson,Precinct 2,Registered Voters,,,,366,,,
+Grayson,Precinct 2,Ballots Cast,,,,261,6,207,48
+Grayson,Precinct 2,President,,REP,Donald J. Trump/JD Vance,146,3,114,29
+Grayson,Precinct 2,President,,DEM,Kamala D. Harris/Tim Walz,106,3,84,19
+Grayson,Precinct 2,President,,LIB,Chase Oliver/Mike ter Maat,4,0,4,0
+Grayson,Precinct 2,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Grayson,Precinct 2,U.S. Senate,,REP,Ted Cruz,137,3,111,23
+Grayson,Precinct 2,U.S. Senate,,DEM,Colin Allred,103,3,79,21
+Grayson,Precinct 2,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Grayson,Precinct 2,U.S. House,23,REP,Tony Gonzales,156,3,124,29
+Grayson,Precinct 2,U.S. House,23,DEM,S. Limon,91,2,71,18
+Grayson,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,121,3,98,20
+Grayson,Precinct 2,Railroad Commissioner,,DEM,Katherine Culbert,93,3,72,18
+Grayson,Precinct 2,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,15,2
+Grayson,Precinct 2,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,137,3,108,26
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,100,3,78,19
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 4",,REP,John Devine,130,3,107,20
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,105,3,79,23
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,124,3,101,20
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,99,3,76,20
+Grayson,Precinct 2,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,11,0,9,2
+Grayson,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,127,3,105,19
+Grayson,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,106,3,81,22
+Grayson,Precinct 2,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,132,3,109,20
+Grayson,Precinct 2,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,99,2,76,21
+Grayson,Precinct 2,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,136,3,112,21
+Grayson,Precinct 2,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,95,2,73,20
+Grayson,Precinct 2,State Board of Education,1,REP,Michael (Travis) Stevens,131,3,108,20
+Grayson,Precinct 2,State Board of Education,1,DEM,Gustavo Reveles,102,2,77,23
+Grayson,Precinct 2,State Senator,29,DEM,César J. Blanco,122,2,95,25
+Grayson,Precinct 2,State Representative,74,REP,Robert Garza,137,3,110,24
+Grayson,Precinct 2,State Representative,74,DEM,Eddie Morales Jr,106,2,82,22
+Grayson,Precinct 2,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,Maria Salas Mendoza,118,2,92,24
+Grayson,Precinct 2,"Justice, 8th Ct of App Dist, Pl 2",,DEM,Lisa Soto,120,2,94,24
+Grayson,Precinct 2,"Justice, 8th Ct of App Dist, Pl 3",,DEM,Gina M. Palafox,117,2,91,24
+Grayson,Precinct 2,"Dist Judge, 394th Judicial Dist",,REP,Monty Kimball,160,4,126,30
+Grayson,Precinct 2,District Attorney,,REP,Ori T. White,144,3,117,24
+Grayson,Precinct 2,Sheriff/County Tax Assessor-Collector,,REP,Victor Lopez,181,4,149,28
+Grayson,Precinct 2,Constable,,REP,Mike Wright,166,5,134,27
+Grayson,Precinct 3,Registered Voters,,,,400,,,
+Grayson,Precinct 3,Ballots Cast,,,,293,9,225,59
+Grayson,Precinct 3,President,,REP,Donald J. Trump/JD Vance,187,4,149,34
+Grayson,Precinct 3,President,,DEM,Kamala D. Harris/Tim Walz,103,5,75,23
+Grayson,Precinct 3,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Grayson,Precinct 3,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Grayson,Precinct 3,U.S. Senate,,REP,Ted Cruz,176,4,141,31
+Grayson,Precinct 3,U.S. Senate,,DEM,Colin Allred,104,5,76,23
+Grayson,Precinct 3,U.S. Senate,,LIB,Ted Brown,10,0,6,4
+Grayson,Precinct 3,U.S. House,23,REP,Tony Gonzales,185,5,148,32
+Grayson,Precinct 3,U.S. House,23,DEM,S. Limon,100,4,73,23
+Grayson,Precinct 3,Railroad Commissioner,,REP,Christi Craddick,159,4,125,30
+Grayson,Precinct 3,Railroad Commissioner,,DEM,Katherine Culbert,98,5,74,19
+Grayson,Precinct 3,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,13,3
+Grayson,Precinct 3,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,171,4,139,28
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,107,5,77,25
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 4",,REP,John Devine,170,4,139,27
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,105,5,76,24
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,167,4,136,27
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,102,5,75,22
+Grayson,Precinct 3,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,8,0,5,3
+Grayson,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,169,4,137,28
+Grayson,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,103,5,75,23
+Grayson,Precinct 3,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,172,4,139,29
+Grayson,Precinct 3,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,102,5,76,21
+Grayson,Precinct 3,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,174,4,140,30
+Grayson,Precinct 3,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,100,5,74,21
+Grayson,Precinct 3,State Board of Education,1,REP,Michael (Travis) Stevens,175,4,143,28
+Grayson,Precinct 3,State Board of Education,1,DEM,Gustavo Reveles,99,5,71,23
+Grayson,Precinct 3,State Senator,29,DEM,César J. Blanco,142,4,105,33
+Grayson,Precinct 3,State Representative,74,REP,Robert Garza,161,4,127,30
+Grayson,Precinct 3,State Representative,74,DEM,Eddie Morales Jr,120,5,91,24
+Grayson,Precinct 3,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,Maria Salas Mendoza,137,4,99,34
+Grayson,Precinct 3,"Justice, 8th Ct of App Dist, Pl 2",,DEM,Lisa Soto,136,4,100,32
+Grayson,Precinct 3,"Justice, 8th Ct of App Dist, Pl 3",,DEM,Gina M. Palafox,138,4,100,34
+Grayson,Precinct 3,"Dist Judge, 394th Judicial Dist",,REP,Monty Kimball,198,6,154,38
+Grayson,Precinct 3,District Attorney,,REP,Ori T. White,172,5,135,32
+Grayson,Precinct 3,Sheriff/County Tax Assessor-Collector,,REP,Victor Lopez,213,5,167,41
+Grayson,Precinct 3,County Commissioner Pct 3,,REP,John Davis,205,5,161,39
+Grayson,Precinct 3,Constable,,REP,Mike Wright,191,5,152,34
+Grayson,Precinct 4,Registered Voters,,,,179,,,
+Grayson,Precinct 4,Ballots Cast,,,,121,3,74,44
+Grayson,Precinct 4,President,,REP,Donald J. Trump/JD Vance,81,3,51,27
+Grayson,Precinct 4,President,,DEM,Kamala D. Harris/Tim Walz,38,0,23,15
+Grayson,Precinct 4,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Grayson,Precinct 4,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Grayson,Precinct 4,U.S. Senate,,REP,Ted Cruz,82,3,52,27
+Grayson,Precinct 4,U.S. Senate,,DEM,Colin Allred,37,0,21,16
+Grayson,Precinct 4,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Grayson,Precinct 4,U.S. House,23,REP,Tony Gonzales,83,1,54,28
+Grayson,Precinct 4,U.S. House,23,DEM,S. Limon,31,0,18,13
+Grayson,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,81,3,53,25
+Grayson,Precinct 4,Railroad Commissioner,,DEM,Katherine Culbert,32,0,18,14
+Grayson,Precinct 4,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Grayson,Precinct 4,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,85,3,55,27
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,33,0,18,15
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 4",,REP,John Devine,82,3,52,27
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,36,0,21,15
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,80,3,52,25
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,35,0,20,15
+Grayson,Precinct 4,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,3,0,1,2
+Grayson,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,83,3,54,26
+Grayson,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,34,0,19,15
+Grayson,Precinct 4,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,82,3,54,25
+Grayson,Precinct 4,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,36,0,19,17
+Grayson,Precinct 4,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,83,3,53,27
+Grayson,Precinct 4,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,36,0,20,16
+Grayson,Precinct 4,State Board of Education,1,REP,Michael (Travis) Stevens,82,2,54,26
+Grayson,Precinct 4,State Board of Education,1,DEM,Gustavo Reveles,35,0,18,17
+Grayson,Precinct 4,State Senator,29,DEM,César J. Blanco,50,0,29,21
+Grayson,Precinct 4,State Representative,74,REP,Robert Garza,79,2,51,26
+Grayson,Precinct 4,State Representative,74,DEM,Eddie Morales Jr,38,0,21,17
+Grayson,Precinct 4,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,Maria Salas Mendoza,48,0,26,22
+Grayson,Precinct 4,"Justice, 8th Ct of App Dist, Pl 2",,DEM,Lisa Soto,47,0,26,21
+Grayson,Precinct 4,"Justice, 8th Ct of App Dist, Pl 3",,DEM,Gina M. Palafox,45,0,25,20
+Grayson,Precinct 4,"Dist Judge, 394th Judicial Dist",,REP,Monty Kimball,89,2,60,27
+Grayson,Precinct 4,District Attorney,,REP,Ori T. White,82,2,54,26
+Grayson,Precinct 4,Sheriff/County Tax Assessor-Collector,,REP,Victor Lopez,85,1,60,24
+Grayson,Precinct 4,Constable,,REP,Mike Wright,90,2,63,25
+Grayson,Precinct 5,Registered Voters,,,,256,,,
+Grayson,Precinct 5,Ballots Cast,,,,200,17,122,61
+Grayson,Precinct 5,President,,REP,Donald J. Trump/JD Vance,123,11,75,37
+Grayson,Precinct 5,President,,DEM,Kamala D. Harris/Tim Walz,72,4,45,23
+Grayson,Precinct 5,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Grayson,Precinct 5,President,,GRN,Jill Stein/Rudolph Ware,1,1,0,0
+Grayson,Precinct 5,U.S. Senate,,REP,Ted Cruz,116,11,70,35
+Grayson,Precinct 5,U.S. Senate,,DEM,Colin Allred,75,5,45,25
+Grayson,Precinct 5,U.S. Senate,,LIB,Ted Brown,5,1,3,1
+Grayson,Precinct 5,U.S. House,23,REP,Tony Gonzales,121,12,73,36
+Grayson,Precinct 5,U.S. House,23,DEM,S. Limon,68,5,40,23
+Grayson,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,118,11,73,34
+Grayson,Precinct 5,Railroad Commissioner,,DEM,Katherine Culbert,65,4,39,22
+Grayson,Precinct 5,Railroad Commissioner,,LIB,Hawk Dunlap,6,1,2,3
+Grayson,Precinct 5,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,0,1
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,121,13,73,35
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,69,4,40,25
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 4",,REP,John Devine,122,12,75,35
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,67,5,38,24
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,113,11,69,33
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,68,5,39,24
+Grayson,Precinct 5,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,8,1,5,2
+Grayson,Precinct 5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,121,12,73,36
+Grayson,Precinct 5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,66,5,39,22
+Grayson,Precinct 5,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,118,12,73,33
+Grayson,Precinct 5,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,68,5,39,24
+Grayson,Precinct 5,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,117,12,72,33
+Grayson,Precinct 5,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,68,5,39,24
+Grayson,Precinct 5,State Board of Education,1,REP,Michael (Travis) Stevens,121,12,75,34
+Grayson,Precinct 5,State Board of Education,1,DEM,Gustavo Reveles,67,5,38,24
+Grayson,Precinct 5,State Senator,29,DEM,César J. Blanco,86,9,44,33
+Grayson,Precinct 5,State Representative,74,REP,Robert Garza,117,11,72,34
+Grayson,Precinct 5,State Representative,74,DEM,Eddie Morales Jr,70,5,39,26
+Grayson,Precinct 5,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,Maria Salas Mendoza,82,7,42,33
+Grayson,Precinct 5,"Justice, 8th Ct of App Dist, Pl 2",,DEM,Lisa Soto,83,8,43,32
+Grayson,Precinct 5,"Justice, 8th Ct of App Dist, Pl 3",,DEM,Gina M. Palafox,82,7,43,32
+Grayson,Precinct 5,"Dist Judge, 394th Judicial Dist",,REP,Monty Kimball,135,12,85,38
+Grayson,Precinct 5,District Attorney,,REP,Ori T. White,124,10,78,36
+Grayson,Precinct 5,Sheriff/County Tax Assessor-Collector,,REP,Victor Lopez,125,13,78,34
+Grayson,Precinct 5,Constable,,REP,Mike Wright,134,13,83,38
